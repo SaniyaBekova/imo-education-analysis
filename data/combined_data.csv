@@ -1,0 +1,1143 @@
+year,country,team_size_all,team_size_male,team_size_female,p1,p2,p3,p4,p5,p6,p7,awards_gold,awards_silver,awards_bronze,awards_honorable_mentions,leader,deputy_leader,total_score,average_score_per_contestant,medal_Efficiency,Country Code,Value_gross_enr_ratio_for_tertirary_edu,Value_gov_expen_as_perc_of_GPP,Value_literacy_rate,Region,Income Group,Gov_Investment_Per_Medal,Lit_Performance_Ratio
+2019,People's Republic of China,6,6,NA,40,41,27,41,42,36,NA,6,0,0,0,Bin Xiong,Yijie He,227,37.833333333333336,1,NA,NA,NA,NA,NA,NA,NA,NA
+2019,United States of America,6,6,NA,42,40,26,42,42,35,NA,6,0,0,0,Po-Shen Loh,Yang Liu,227,37.833333333333336,1,NA,87.89,4.96,NA,North America,High income: OECD,0.8266666666666667,NA
+2019,Republic of Korea,6,6,NA,42,39,31,42,42,30,NA,6,0,0,0,Yongjin Song,Suyoung Choi,226,37.666666666666664,1,NA,94,4.68,98.68928,East Asia & Pacific,High income: OECD,0.7799999999999999,2.6200693805309734
+2019,Democratic People's Republic of Korea,6,6,NA,41,41,17,42,42,4,NA,3,3,0,0,Jin Hyok Kim,Jong Min Ri,187,31.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Thailand,6,6,NA,42,35,5,42,40,21,NA,3,3,0,0,Pongpol Ruankong,Teeradej Kittipassorn,185,30.833333333333332,1,THA,45.44,3.02,98.52,NA,NA,0.5033333333333333,3.1952432432432434
+2019,Russian Federation,6,6,NA,39,40,17,35,42,6,NA,2,4,0,0,Pavel Kozhevnikov,Kirill Sukhov,179,29.833333333333332,1,RUS,80.95,3.7,99.68487,Europe & Central Asia,High income: nonOECD,0.6166666666666667,3.3413922905027937
+2019,Vietnam,6,6,NA,39,31,10,40,42,15,NA,2,4,0,0,Anh Vinh Le,Ba Khanh Trinh Le,177,29.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Singapore,6,6,NA,42,30,13,40,42,7,NA,2,4,0,0,Jeffrey Chin How Pang,Zenghui Chen,174,29,1,SGP,91.09,2.73,100,East Asia & Pacific,High income: nonOECD,0.455,3.4482758620689653
+2019,Serbia,6,5,1,42,26,19,31,37,16,NA,3,1,2,0,Marko Radovanović,Bojan Bašić,171,28.5,1,SRB,69.04,3.62,100,Europe & Central Asia,Upper middle income,0.6033333333333334,3.508771929824561
+2019,Poland,6,5,1,42,28,9,40,42,7,NA,1,3,2,0,Tomasz Cieśla,Łukasz Bożyk,168,28,1,POL,70.91,4.68,99.68487,Europe & Central Asia,High income: OECD,0.7799999999999999,3.560173928571429
+2019,Hungary,6,6,NA,41,19,14,42,42,7,NA,1,3,2,0,József Pelikán,Sándor Dobos,165,27.5,1,HUN,52.36,4.22,99.68487,Europe & Central Asia,Upper middle income,0.7033333333333333,3.6249043636363636
+2019,Ukraine,6,6,NA,42,33,5,42,40,3,NA,1,4,1,0,Bogdan Rublov,Andrii Pankov,165,27.5,1,UKR,84.48,5.44,99.68487,Europe & Central Asia,Lower middle income,0.9066666666666667,3.6249043636363636
+2019,Japan,6,6,NA,42,32,8,31,42,7,NA,2,2,2,0,Takahiko Fujita,Keiko Tasaki,162,27,1,JPN,62.12,3.16,98.68928,East Asia & Pacific,High income: OECD,0.5266666666666667,3.6551585185185185
+2019,Indonesia,6,6,NA,40,38,1,40,35,6,NA,1,4,1,0,Aleams Barra,Budi Surodjo,160,26.666666666666668,1,IDN,37.93,0.96,98.68928,East Asia & Pacific,Lower middle income,0.16,3.7008479999999997
+2019,India,6,6,NA,42,32,7,41,33,1,NA,1,4,0,1,C. R. Pranesachar,Vinayak Madhav Sholapurkar,156,26,0.8333333333333334,IND,29.02,3.9,89.95697,South Asia,Lower middle income,0.78,3.4598834615384613
+2019,Israel,6,6,NA,42,19,18,34,42,1,NA,1,3,2,0,Dan Carmon,Shachar Carmeli,156,26,1,ISR,55.94,6.04,90.11926,Middle East & North Africa,High income: OECD,1.0066666666666666,3.4661253846153843
+2019,Romania,6,6,NA,42,30,7,42,32,2,NA,1,2,3,0,Cătălin-Liviu Gherghe,Mihai Chiș,155,25.833333333333332,1,ROU,52.44,3.57,99.68487,Europe & Central Asia,Upper middle income,0.595,3.858769161290323
+2019,Australia,6,6,NA,42,28,13,37,33,1,NA,2,1,3,0,Angelo Di Pasquale,Sampson Wong,154,25.666666666666668,1,AUS,109.76,5.51,NA,NA,NA,0.9183333333333333,NA
+2019,Bulgaria,6,6,NA,42,37,2,34,37,0,NA,0,5,1,0,Stanislav Harizanov,Stoyan Boev,152,25.333333333333332,1,BGR,84.75,4.2,99.68487,Europe & Central Asia,Upper middle income,0.7000000000000001,3.9349290789473685
+2019,United Kingdom,6,6,NA,39,31,2,33,37,7,NA,1,2,3,0,Dominic Yeo,Freddie Illingworth,149,24.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Taiwan,6,6,NA,40,21,7,39,34,7,NA,1,2,3,0,Yen-Chi Roger Lin,Tzer-Jen Wei,148,24.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Kazakhstan,6,6,NA,41,39,1,42,22,1,NA,0,2,4,0,Nursultan Khajimuratov,Gulnur Karimgazhy,146,24.333333333333332,1,KAZ,59.58,3.35,99.68487,Europe & Central Asia,Upper middle income,0.5583333333333333,4.096638493150685
+2019,Islamic Republic of Iran,6,6,NA,35,38,3,40,27,2,NA,1,2,3,0,Morteza Saghafian,Seyyed Hessam Firouzi,145,24.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Canada,6,6,NA,42,16,3,39,42,2,NA,1,1,4,0,Matthew Brennan,Sarah Sun,144,24,1,CAN,72.82,4.77,NA,North America,High income: OECD,0.7949999999999999,NA
+2019,France,6,6,NA,41,9,15,39,38,0,NA,0,2,4,0,Vincent Jugé,Louise Gassot,142,23.666666666666668,1,FRA,67.73,5.35,99.68487,Europe & Central Asia,High income: OECD,0.8916666666666666,4.212036760563381
+2019,Mongolia,6,4,2,41,27,6,35,32,0,NA,1,1,3,1,Bayarmagnai Gombodorj,Batzaya Gantsooj,141,23.5,0.8333333333333334,MNG,67.63,3.65,98.68928,East Asia & Pacific,Lower middle income,0.73,4.199543829787234
+2019,Italy,6,6,NA,42,36,0,30,31,1,NA,0,2,4,0,Massimo Gobbino,Ludovico Pernazza,140,23.333333333333332,1,ITA,65.69,4.1,100,Europe & Central Asia,High income: OECD,0.6833333333333332,4.285714285714286
+2019,Peru,6,5,1,41,34,0,34,28,0,NA,0,3,1,1,Jesus Zapata,Julio Gutierrez,137,22.833333333333332,0.6666666666666666,PER,NA,3.82,99.12,Latin America & Caribbean,Upper middle income,0.955,4.3410218978102195
+2019,Brazil,6,6,NA,42,21,1,41,30,0,NA,0,2,4,0,Edmilson Motta,Carlos Yuzo Shine,135,22.5,1,BRA,52.62,5.96,99.1,NA,NA,0.9933333333333333,4.404444444444445
+2019,Türkiye,6,6,NA,38,23,4,36,32,2,NA,1,1,3,1,Azer Kerimov,Şahin Emrah,135,22.5,0.8333333333333334,NA,117.01,4.45,100,NA,NA,0.89,4.444444444444445
+2019,Philippines,6,6,NA,42,16,0,42,29,0,NA,0,1,5,0,Richard Eden,Christian Paul Chan Shio,129,21.5,1,PHL,31.24,3.41,98,East Asia & Pacific,Lower middle income,0.5683333333333334,4.558139534883721
+2019,Germany,6,6,NA,36,9,3,29,42,7,NA,1,0,3,2,Jürgen Prestin,Eric Müller,126,21,0.6666666666666666,DEU,72.71,5.12,99.68487,Europe & Central Asia,High income: OECD,1.28,4.746898571428572
+2019,Saudi Arabia,6,5,1,41,19,0,29,35,0,NA,0,1,4,0,Fawzi Al Thukair,Alzubair Habibullah,124,20.666666666666668,0.8333333333333334,SAU,79.61,NA,90.11926,Middle East & North Africa,High income: nonOECD,NA,4.36060935483871
+2019,Norway,6,6,NA,35,20,0,37,30,0,NA,0,1,3,2,Dávid Kunszenti-Kovács,Karl Erik Holter,122,20.333333333333332,0.6666666666666666,NOR,85.76,7.86,99.68487,Europe & Central Asia,High income: OECD,1.965,4.902534590163935
+2019,Belarus,6,4,2,42,23,1,30,23,0,NA,0,2,2,2,Igor Voronovich,Mikhail Karpuk,119,19.833333333333332,0.6666666666666666,BLR,80.17,4.98,100,Europe & Central Asia,Upper middle income,1.245,5.04201680672269
+2019,Estonia,6,6,NA,40,8,0,34,36,0,NA,0,1,4,0,Oleg Košik,Sandra Schumann,118,19.666666666666668,0.8333333333333334,EST,72.71,5.26,99.68487,Europe & Central Asia,High income: OECD,1.052,5.0687222033898305
+2019,Hong Kong,6,6,NA,41,3,5,37,31,0,NA,0,1,3,1,Tat Wing Leung,Cesar Jose Alaban,117,19.5,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Netherlands,6,6,NA,38,9,3,29,37,1,NA,0,1,4,1,Quintijn Puite,Birgit van Dalen,117,19.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Slovakia,6,6,NA,36,4,8,26,40,0,NA,0,1,3,2,Stanislav Krajči,Patrik Bak,114,19,0.6666666666666666,NA,48.19,4.27,NA,NA,NA,1.0675,NA
+2019,Greece,6,5,1,42,15,0,34,19,2,NA,0,1,2,3,Anargyros Fellouris,Silouanos Brazitikos,112,18.666666666666668,0.5,GRC,143.96,3.59,99.68487,Europe & Central Asia,High income: OECD,1.1966666666666665,5.340260892857143
+2019,Mexico,6,5,1,41,27,1,19,23,0,NA,0,1,3,2,Rogelio Valdez,David Cossio Ruiz,111,18.5,0.6666666666666666,MEX,43.04,NA,NA,NA,NA,NA,NA
+2019,Croatia,6,6,NA,36,24,1,22,27,0,NA,0,0,3,3,Ivan Krijan,Borna Vukorepa,110,18.333333333333332,0.5,HRV,74.05,3.92,99.68487,Europe & Central Asia,High income: nonOECD,1.3066666666666666,5.437356545454546
+2019,Spain,6,6,NA,36,13,0,29,32,0,NA,0,0,5,1,María Gaspar,Òscar Rivero,110,18.333333333333332,0.8333333333333334,ESP,91.02,4.23,NA,NA,NA,0.8460000000000001,NA
+2019,Slovenia,6,5,1,41,5,14,21,28,0,NA,0,2,1,3,Gregor Dolinar,Jakob Jurij Snoj,109,18.166666666666668,0.5,SVN,76.47,4.89,99.68487,Europe & Central Asia,High income: OECD,1.63,5.487240550458716
+2019,Georgia,6,6,NA,42,10,0,36,20,0,NA,0,1,4,1,George Chelidze,Givi Nadibaidze,108,18,0.8333333333333334,GEO,69.02,3.83,99.68487,Europe & Central Asia,Lower middle income,0.766,5.538048333333333
+2019,Czech Republic,6,5,1,35,2,1,26,42,0,NA,0,0,4,2,Michal Rolinek,Josef Tkadlec,106,17.666666666666668,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2019,South Africa,6,6,NA,41,4,0,35,26,0,NA,0,0,4,2,Liam Baker,Phil Labuschagne,106,17.666666666666668,0.6666666666666666,ZAF,24.02,5.91,98,Sub-Saharan Africa,Upper middle income,1.4775,5.547169811320754
+2019,Denmark,6,6,NA,35,15,5,20,30,0,NA,0,1,2,3,Kirsten Rosenkilde,Alexander Christgau,105,17.5,0.5,DNK,81.69,7.26,99.68487,Europe & Central Asia,High income: OECD,2.42,5.6962782857142855
+2019,Armenia,6,5,1,41,15,1,21,26,0,NA,0,2,1,2,Smbat Gogyan,Gurgen Asatryan,104,17.333333333333332,0.5,ARM,53.31,2.57,99.68487,Europe & Central Asia,Lower middle income,0.8566666666666666,5.751050192307693
+2019,Republic of Moldova,6,6,NA,41,17,0,23,10,9,NA,0,1,1,3,Valeriu Gutu,Valeriu Baltag,100,16.666666666666668,0.3333333333333333,NA,54.78,6.23,99.68487,Europe & Central Asia,Lower middle income,3.115,5.9810922
+2019,Azerbaijan,6,6,NA,36,29,0,29,4,0,NA,0,0,3,2,Fuad Garayev,Hasan Hasanzade,98,16.333333333333332,0.5,AZE,32.92,3.18,100,Europe & Central Asia,Upper middle income,1.06,6.122448979591837
+2019,Lithuania,6,4,2,42,4,0,35,15,0,NA,0,0,3,3,Arturas Dubickas,Leonas Narkevičius,96,16,0.5,LTU,70.18,3.96,99.68487,Europe & Central Asia,High income: nonOECD,1.32,6.230304375
+2019,Argentina,6,5,1,34,17,1,24,19,0,NA,0,0,3,1,Patricia Fauring,Martín Mereb,95,15.833333333333334,0.5,ARG,95.08,4.77,NA,NA,NA,1.5899999999999999,NA
+2019,Portugal,6,6,NA,32,10,0,28,23,0,NA,0,1,1,4,Joana Teles,Rodrigo Farinha Matias,93,15.5,0.3333333333333333,PRT,65.93,4.63,99.68487,Europe & Central Asia,High income: OECD,2.315,6.431281935483871
+2019,Macau,6,6,NA,34,3,0,35,20,0,NA,0,0,3,3,Ieng Tak Leong,Sio Meng Lao,92,15.333333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Sweden,6,5,1,33,10,7,22,20,0,NA,1,0,1,3,Paul Vaderlind,Victor Ufnarovski,92,15.333333333333334,0.3333333333333333,SWE,75.11,7.64,99.68487,Europe & Central Asia,High income: OECD,3.82,6.501187173913044
+2019,Syria,6,6,NA,36,27,0,17,12,0,NA,0,1,1,3,Omran Kouba,Mohamad Firas Alhalabi,92,15.333333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2019,New Zealand,6,5,1,28,0,0,36,25,0,NA,0,0,2,2,Chris Tuffley,Ross Atkins,89,14.833333333333334,0.3333333333333333,NZL,77.58,5.18,98.68928,East Asia & Pacific,High income: OECD,2.59,6.653209887640449
+2019,Switzerland,6,5,1,29,6,0,22,32,0,NA,0,0,3,1,Louis Hainaut,David Rusch,89,14.833333333333334,0.5,CHE,66.31,5.01,99.68487,Europe & Central Asia,High income: OECD,1.67,6.720328314606742
+2019,Austria,6,5,1,32,17,2,15,18,0,NA,0,0,4,1,Robert Geretschläger,Stefan Leopoldseder,84,14,0.6666666666666666,AUT,86.32,5.22,99.68487,Europe & Central Asia,High income: OECD,1.305,7.120347857142858
+2019,Bosnia and Herzegovina,6,6,NA,41,8,0,22,13,0,NA,0,0,0,5,Admir Beširević,Ivan Vanja Boroja,84,14,0,BIH,41.6,4.04,99.68487,Europe & Central Asia,Upper middle income,NA,7.120347857142858
+2019,Tajikistan,6,6,NA,40,12,1,17,8,4,NA,0,1,1,2,Umed Karimov,Olimjoni Pirahmad,82,13.666666666666666,0.3333333333333333,TJK,NA,5.48,99.68487,Europe & Central Asia,Low income,2.74,7.294014878048781
+2019,Uzbekistan,6,6,NA,34,15,0,24,8,0,NA,0,0,1,3,Rustam Turdibaev,Muratkhon Sharakhimov,81,13.5,0.16666666666666666,UZB,12.45,6.3,100,Europe & Central Asia,Lower middle income,6.3,7.407407407407407
+2019,Morocco,6,4,2,40,12,0,18,10,0,NA,0,0,1,4,Mohamed Berraho,Mohamed El Ibbaoui,80,13.333333333333334,0.16666666666666666,MAR,38.02,5,90.11926,Middle East & North Africa,Lower middle income,5,6.758944499999999
+2019,Finland,6,5,1,30,7,1,20,20,0,NA,0,1,1,2,Lauri Hallila,Otte Heinävaara,78,13,0.3333333333333333,FIN,94.59,6.42,99.68487,Europe & Central Asia,High income: OECD,3.21,7.668066923076923
+2019,Colombia,6,6,NA,30,4,0,20,23,0,NA,0,0,2,2,Maria Elizabeth Losada,Leandro Remolina Ardila,77,12.833333333333334,0.3333333333333333,COL,56.67,NA,98.82,Latin America & Caribbean,Upper middle income,NA,7.70025974025974
+2019,Bangladesh,6,6,NA,32,15,0,19,10,0,NA,0,0,1,4,Mahbubul Alam Majumdar,A A Munir Hasan,76,12.666666666666666,0.16666666666666666,BGD,22.81,1.68,95,NA,NA,1.68,7.5
+2019,Belgium,6,5,1,31,10,0,23,11,0,NA,0,1,1,3,Bart Windels,Philippe Niederkorn,75,12.5,0.3333333333333333,BEL,79.3,6.33,NA,NA,NA,3.165,NA
+2019,Sri Lanka,6,5,1,39,6,0,15,13,0,NA,0,0,1,5,Dayal B. Dharmasena,Kaushika De Silva,73,12.166666666666666,0.16666666666666666,LKA,20.22,NA,99,NA,NA,NA,8.136986301369863
+2019,Malaysia,6,6,NA,21,5,0,23,22,0,NA,0,0,2,2,Muhammad Syafiq Johar,Nor Sakinah Mohamad,71,11.833333333333334,0.3333333333333333,MYS,43.2,3.98,97,East Asia & Pacific,Upper middle income,1.99,8.197183098591548
+2019,Ireland,6,4,2,21,10,7,10,13,0,NA,0,1,0,2,Bernd Kreussler,Gordon Lessells,61,10.166666666666666,0.16666666666666666,IRL,75.18,3.3,99.68487,Europe & Central Asia,High income: OECD,3.3,9.80506918032787
+2019,Latvia,6,5,1,29,1,0,8,18,0,NA,0,0,0,4,Jevgēnijs Vihrovs,Juris Škuškovniks,56,9.333333333333334,0,LVA,94.86,4.44,99.68487,Europe & Central Asia,High income: nonOECD,NA,10.680521785714285
+2019,Turkmenistan,6,6,NA,35,4,0,8,6,0,NA,0,0,0,3,Arslan Hojiyev,Perman Jorayev,53,8.833333333333334,0,TKM,12.98,3.12,99.68487,Europe & Central Asia,Upper middle income,NA,11.28507962264151
+2019,Tunisia,6,6,NA,27,6,0,4,11,0,NA,0,0,0,4,Taoufik Charrada,Raouf Thabet,48,8,0,TUN,31.82,6.17,97,Middle East & North Africa,Upper middle income,NA,12.125
+2019,Cyprus,6,5,1,31,3,0,9,4,0,NA,0,0,0,3,Gregoris Makrides,Demetres Christofides,47,7.833333333333333,0,CYP,88.49,5.21,99.68487,Europe & Central Asia,High income: nonOECD,NA,12.725728085106384
+2019,North Macedonia,6,3,3,23,9,0,7,8,0,NA,0,0,0,2,Daniel Velinov,Sanja Atanasova,47,7.833333333333333,0,MKD,43.2,NA,NA,NA,NA,NA,NA
+2019,Algeria,5,5,NA,28,8,0,8,2,0,NA,0,0,1,3,Abdallah Rahmani,Djamel Aouadi,46,9.2,0.2,DZA,54.19,5.58,74.03,NA,NA,5.58,8.046739130434784
+2019,El Salvador,4,4,NA,21,2,0,14,8,0,NA,0,0,2,0,Gabriel Alexander Chicas Reyes,Gabriel Emiliano Carranza Menjívar,45,11.25,0.5,SLV,28.37,3.39,98.35,Latin America & Caribbean,Lower middle income,1.695,8.742222222222221
+2019,Kosovo,6,6,NA,24,6,0,9,4,0,NA,0,0,0,3,Faton Berisha,Valmir Krasniqi,43,7.166666666666667,0,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Albania,6,4,2,22,3,0,3,9,0,NA,0,0,0,2,Adrian Naco,Enkel Hysnelaj,37,6.166666666666667,0,ALB,61.41,3.92,99.68487,Europe & Central Asia,Upper middle income,NA,16.165114054054055
+2019,Iceland,6,5,1,16,0,0,6,15,0,NA,0,0,0,2,Marteinn Þór Harðarson,Jóhanna Katrín Eggertsdóttir,37,6.166666666666667,0,ISL,70.61,7.6,99.68487,Europe & Central Asia,High income: OECD,NA,16.165114054054055
+2019,Panama,4,4,NA,20,1,0,6,10,0,NA,0,0,1,1,Pablo Jaen,Leonel Castillo,37,9.25,0.25,PAN,NA,3.09,98.88,Latin America & Caribbean,Upper middle income,3.09,10.689729729729729
+2019,Costa Rica,6,4,2,22,0,0,6,6,0,NA,0,0,0,2,Jeremías Ramírez Jiménez,German José Mora Sáenz,34,5.666666666666667,0,CRI,54.72,6.74,98.59456,Latin America & Caribbean,Upper middle income,NA,17.39904
+2019,Pakistan,5,4,1,18,2,0,7,7,0,NA,0,0,1,1,Sarfraz Ahmad,Hani Shaker,34,6.8,0.2,PAK,11.35,2.21,73,South Asia,Lower middle income,2.21,10.73529411764706
+2019,Trinidad and Tobago,6,5,1,17,4,1,1,11,0,NA,0,0,0,2,Indra Haraksingh,Jagdesh Ramnanan,34,5.666666666666667,0,TTO,NA,3.54,98.59456,Latin America & Caribbean,High income: nonOECD,NA,17.39904
+2019,Montenegro,5,5,NA,17,7,0,1,8,0,NA,0,0,0,1,Goran Popivoda,Gojko Jelovac,33,6.6,0,MNE,56.26,NA,99.68487,Europe & Central Asia,Upper middle income,NA,15.103768181818182
+2019,Ecuador,5,3,2,18,9,0,1,4,0,NA,0,0,0,3,Jorge Chamaidan,Adrian Delgado,32,6.4,0,ECU,47.26,4.25,94.88,Latin America & Caribbean,Upper middle income,NA,14.825
+2019,Uruguay,5,5,NA,16,2,0,9,2,0,NA,0,0,0,2,Leonardo Lois,Maximiliano Stock,29,5.8,0,URY,61.96,4.63,99.02,NA,NA,NA,17.072413793103447
+2019,Cuba,2,NA,2,10,3,0,8,2,0,NA,0,0,0,2,Evidio Quintana Fernández,Roman Fresneda Quiroga,23,11.5,0,CUB,43.99,9.05,99.61,Latin America & Caribbean,Upper middle income,NA,8.661739130434782
+2019,Chile,4,2,2,10,2,0,0,8,0,NA,0,0,0,2,Hernan Burgos,Victor Cortes,20,5,0,CHL,92.07,5.63,98.59456,Latin America & Caribbean,High income: OECD,NA,19.718912
+2019,Kyrgyzstan,6,6,NA,11,2,0,2,4,0,NA,0,0,0,0,Makhamadkhan Ishmatov,Abduvaliev Murat,19,3.1666666666666665,0,NA,41.56,6.07,99.7,Europe & Central Asia,Lower middle income,NA,31.484210526315792
+2019,Paraguay,6,5,1,15,1,0,1,1,0,NA,0,0,0,0,Juan Jose Caceres Silva,Dario De Jesus Torres Herebia,18,3,0,PRY,NA,3.49,98.36,Latin America & Caribbean,Lower middle income,NA,32.78666666666667
+2019,Iraq,6,6,NA,10,0,0,1,6,0,NA,0,0,0,1,Cuneyt Kilic,Mehmet Veysel Yildirim,17,2.8333333333333335,0,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Nepal,6,6,NA,12,1,0,0,4,0,NA,0,0,0,1,Deepak Bastola,Pitambar Acharya,17,2.8333333333333335,0,NPL,13.92,3.49,94.24,South Asia,Low income,NA,33.26117647058823
+2019,Nicaragua,2,2,NA,14,1,0,0,2,0,NA,0,0,0,2,Oscar Danilo Quintanilla Luna,Darwing José Mena Gutiérrez,17,8.5,0,NIC,17.77,4.6,98.59456,Latin America & Caribbean,Lower middle income,NA,11.59936
+2019,Egypt,4,4,NA,3,1,0,1,7,0,NA,0,0,0,0,Walid Elsayed Aly Gomaa,Moaaz Muhammad Muhammad Alqady,12,3,0,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Ghana,4,2,2,9,0,0,0,2,0,NA,0,0,0,1,Stephen Bobila,Mawuenyega Dogoe,11,2.75,0,GHA,17.43,3.15,76.31555,Sub-Saharan Africa,Lower middle income,NA,27.751109090909093
+2019,Myanmar,6,5,1,6,2,0,0,3,0,NA,0,0,0,0,Saw Win Maung,Aung Kyaw,11,1.8333333333333333,0,MMR,NA,2,95,East Asia & Pacific,Low income,NA,51.81818181818182
+2019,Cambodia,6,6,NA,2,8,0,0,0,0,NA,0,0,0,1,Ngonn Seam,Karim Ham,10,1.6666666666666667,0,KHM,16.84,2.83,NA,NA,NA,NA,NA
+2019,Bolivia,6,5,1,7,0,0,0,2,0,NA,0,0,0,0,Jaime Manuel Rojas Claure,Jhonny Angel Aguilar Blanco,9,1.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Luxembourg,6,4,2,2,1,1,0,5,0,NA,0,0,0,0,Charles Leytem,Pascal Zeihen,9,1.5,0,LUX,19.4,3.74,99.68487,Europe & Central Asia,High income: OECD,NA,66.45658
+2019,Dominican Republic,5,4,1,3,0,0,0,2,0,NA,0,0,0,0,Octavio Galan,Julio Antonio Manzueta,5,1,0,DOM,64.38,4.04,98.7,NA,NA,NA,98.7
+2019,Uganda,6,3,3,4,1,0,0,0,0,NA,0,0,0,0,Jasper Okello,Namuddu Assumpta Kasamba,5,0.8333333333333334,0,UGA,NA,2.31,76.31555,Sub-Saharan Africa,Low income,NA,91.57866
+2019,Guatemala,3,3,NA,1,1,0,0,2,0,NA,0,0,0,0,Fernando Jose Mazariegos Camas,Ana Sofía Domínguez Cajas,4,1.3333333333333333,0,GTM,22.65,3.19,98.59456,Latin America & Caribbean,Lower middle income,NA,73.94592
+2019,Honduras,3,3,NA,2,0,0,0,1,0,NA,0,0,0,0,Juan Pineda,Mario Roberto Canales Villanueva,3,1,0,HND,25.13,5.93,96.08,Latin America & Caribbean,Lower middle income,NA,96.08
+2019,Puerto Rico,1,1,NA,1,0,0,0,2,0,NA,0,0,0,0,Caceres Luis,Omar Colon,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Tanzania,6,6,NA,2,0,0,1,0,0,NA,0,0,0,0,Ertugrul Tarhan,Betinasia Kalebu Manyama,3,0.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Venezuela,2,1,1,3,0,0,0,0,0,NA,0,0,0,0,Rafael Sánchez,José Nieto,3,1.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Botswana,2,1,1,0,0,0,0,2,0,NA,0,0,0,0,Mmoloki Lekhutlile,Mathews Masole,2,1,0,BWA,22.97,8.4,76.31555,Sub-Saharan Africa,Upper middle income,NA,76.31555
+2019,Angola,2,2,NA,0,0,0,0,0,0,NA,0,0,0,0,Gabriel Boaventura,Aldemar Guzo Camuege,0,0,0,AGO,11.06,2.07,NA,NA,NA,NA,NA
+2019,Kenya,2,1,1,0,0,0,0,0,0,NA,0,0,0,0,James Katende,Silas Isaac Wafula,0,0,0,KEN,10.57,5.37,76.31555,Sub-Saharan Africa,Low income,NA,NA
+2019,United Arab Emirates,6,NA,6,0,0,0,0,0,0,NA,0,0,0,0,Rachad Zaki,Badriya Alshehhi,0,0,0,ARE,56.57,3.86,98,Middle East & North Africa,High income: nonOECD,NA,NA
+2018,United States of America,6,6,NA,42,41,14,42,42,31,NA,5,1,0,0,Po-Shen Loh,Oleksandr Rudenko,212,35.333333333333336,1,NA,88.3,4.9,NA,North America,High income: OECD,0.8166666666666668,NA
+2018,Russian Federation,6,6,NA,42,42,11,42,41,23,NA,5,1,0,0,Nazar Agakhanov,Kirill Sukhov,201,33.5,1,RUS,81.57,4.68,99.69845,Europe & Central Asia,High income: nonOECD,0.7799999999999999,2.976073134328358
+2018,People's Republic of China,6,6,NA,42,37,17,42,42,19,NA,4,2,0,0,Zhenhua Qu,Yijie He,199,33.166666666666664,1,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Ukraine,6,5,1,42,34,12,42,42,14,NA,4,2,0,0,Bogdan Rublov,Andrii Pankov,186,31,1,UKR,81.49,5.32,99.67011,Europe & Central Asia,Lower middle income,0.8866666666666667,3.2151648387096774
+2018,Thailand,6,4,2,42,38,3,42,42,16,NA,3,3,0,0,Dungjade Shiowattana,Teeradej Kittipassorn,183,30.5,1,THA,46.54,3.2,98,NA,NA,0.5333333333333333,3.2131147540983607
+2018,Taiwan,6,6,NA,42,42,15,37,25,18,NA,3,1,2,0,Tzer-Jen Wei,John Meng Kai Hong,179,29.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Republic of Korea,6,5,1,42,42,3,42,36,12,NA,3,3,0,0,Yongjin Song,Sang-Il Oum,177,29.5,1,NA,93.33,4.46,100,East Asia & Pacific,High income: OECD,0.7433333333333333,3.389830508474576
+2018,Singapore,6,6,NA,41,42,3,42,37,10,NA,2,3,1,0,Yan Loi Wong,Teck Kian Teo,175,29.166666666666668,1,SGP,88.89,2.86,100,East Asia & Pacific,High income: nonOECD,0.4766666666666666,3.4285714285714284
+2018,Poland,6,6,NA,42,39,7,42,37,7,NA,1,5,0,0,Michał Pilipczuk,Andrzej Grzesik,174,29,1,POL,71.02,4.61,99.67011,Europe & Central Asia,High income: OECD,0.7683333333333334,3.436900344827586
+2018,Indonesia,6,6,NA,42,38,3,42,36,10,NA,1,5,0,0,Aleams Barra,Hery Susanto,171,28.5,1,IDN,36.8,0.99,100,East Asia & Pacific,Lower middle income,0.165,3.508771929824561
+2018,Australia,6,6,NA,42,34,13,42,31,7,NA,2,3,1,0,Angelo Di Pasquale,Andrew Thomas Elvey Price,169,28.166666666666668,1,AUS,103.32,5.41,NA,NA,NA,0.9016666666666667,NA
+2018,United Kingdom,6,6,NA,42,30,7,37,33,12,NA,1,4,0,1,Geoff Smith,Dominic Yeo,161,26.833333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Japan,6,6,NA,40,37,3,32,36,10,NA,1,3,2,0,Yasuo Morita,Keiko Tasaki,158,26.333333333333332,1,JPN,62.21,3.08,98.65081,East Asia & Pacific,High income: OECD,0.5133333333333333,3.746233291139241
+2018,Serbia,6,5,1,42,37,5,35,35,4,NA,2,2,2,0,Marko Radovanović,Bojan Bašić,158,26.333333333333332,1,SRB,68.32,3.58,99.67011,Europe & Central Asia,Upper middle income,0.5966666666666667,3.7849408860759493
+2018,Hungary,6,5,1,42,28,2,41,35,9,NA,0,4,2,0,József Pelikán,Sándor Dobos,157,26.166666666666668,1,HUN,50.9,4.62,99.67011,Europe & Central Asia,Upper middle income,0.77,3.8090487898089167
+2018,Canada,6,6,NA,42,27,1,42,36,8,NA,0,5,1,0,James Rickards,Calvin Deng,156,26,1,CAN,69.58,4.89,NA,North America,High income: OECD,0.815,NA
+2018,Italy,6,6,NA,42,31,1,37,37,6,NA,0,4,2,0,Massimo Gobbino,Alessandra Caraceni,154,25.666666666666668,1,ITA,64.48,4.26,99.93,Europe & Central Asia,High income: OECD,0.71,3.8933766233766236
+2018,Kazakhstan,6,5,1,42,29,0,42,33,5,NA,0,4,2,0,Damir Yeliussizov,Anton Vassilyev,151,25.166666666666668,1,KAZ,53.52,3.15,99.89736,Europe & Central Asia,Upper middle income,0.525,3.969431523178808
+2018,Islamic Republic of Iran,6,6,NA,42,37,6,39,18,8,NA,1,3,1,1,Omid Hatami Varzaneh,Seyed Hesam Firouzi,150,25,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Vietnam,6,6,NA,42,40,7,25,29,5,NA,1,2,3,0,Anh Vinh Lê,Bá Khánh Trình Lê,148,24.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Bulgaria,6,6,NA,42,30,2,35,29,8,NA,1,3,1,1,Peter Boyvalenkov,Emil Kolev,146,24.333333333333332,0.8333333333333334,BGR,83.13,4.05,99.67011,Europe & Central Asia,Upper middle income,0.8099999999999999,4.096031917808219
+2018,Croatia,6,6,NA,35,33,0,36,38,3,NA,0,4,1,0,Matija Bucić,Petar Bakić,145,24.166666666666668,0.8333333333333334,HRV,72.86,3.91,99.67011,Europe & Central Asia,High income: nonOECD,0.782,4.124280413793103
+2018,Slovakia,6,5,1,37,28,0,42,32,1,NA,0,3,3,0,Peter Novotný,Patrik Bak,140,23.333333333333332,1,NA,47.81,3.95,NA,NA,NA,0.6583333333333333,NA
+2018,Sweden,6,6,NA,42,23,5,42,24,2,NA,1,2,2,1,Paul Vaderlind,Victor Ufnarovski,138,23,0.8333333333333334,SWE,73.41,7.64,99.67011,Europe & Central Asia,High income: OECD,1.528,4.33348304347826
+2018,Türkiye,6,6,NA,42,30,7,31,26,2,NA,1,1,4,0,Azer Kerimov,Selim Bahadır,138,23,1,NA,115.46,4.3,99.39,NA,NA,0.7166666666666667,4.321304347826087
+2018,Israel,6,5,1,38,30,2,31,26,9,NA,0,2,4,0,Dan Carmon,Lev Radzivilovsky,136,22.666666666666668,1,ISR,57.39,6.06,89.90199,Middle East & North Africa,High income: OECD,1.01,3.966264264705882
+2018,Georgia,6,6,NA,42,17,0,40,23,11,NA,0,1,5,0,George Chelidze,Givi Nadibaidze,133,22.166666666666668,1,GEO,66.04,3.46,99.92,Europe & Central Asia,Lower middle income,0.5766666666666667,4.507669172932331
+2018,Brazil,6,6,NA,35,30,1,42,13,11,NA,1,0,4,1,Régis Prado Barbosa,José Armando Barbosa Filho,132,22,0.8333333333333334,BRA,51.19,6.09,99.04,NA,NA,1.218,4.501818181818182
+2018,India,6,6,NA,36,28,0,28,33,7,NA,0,3,2,1,Venkatachala Belur Jana,Prashant Sohani,132,22,0.8333333333333334,IND,28.53,4.38,91.66404,South Asia,Lower middle income,0.876,4.166547272727272
+2018,Mongolia,6,6,NA,42,28,0,42,18,2,NA,0,1,5,0,Bayarmagnai Gombodorj,Battsengel Baasanjav,132,22,1,MNG,65.65,4,99.53,East Asia & Pacific,Lower middle income,0.6666666666666666,4.524090909090909
+2018,Germany,6,6,NA,30,23,3,42,24,9,NA,1,2,1,2,Jürgen Prestin,Christian Reiher,131,21.833333333333332,0.6666666666666666,DEU,69.16,4.98,99.67011,Europe & Central Asia,High income: OECD,1.245,4.56504320610687
+2018,Armenia,6,5,1,42,25,0,37,26,0,NA,0,2,4,0,Smbat Gogyan,Gurgen Asatryan,130,21.666666666666668,1,ARM,56.17,2.26,99.67011,Europe & Central Asia,Lower middle income,0.37666666666666665,4.600158923076923
+2018,France,6,6,NA,30,22,1,42,23,11,NA,1,1,4,0,Jean-Louis Tu,Cécile Gachet,129,21.5,1,FRA,67.54,5.41,99.67011,Europe & Central Asia,High income: OECD,0.9016666666666667,4.635819069767441
+2018,Romania,6,6,NA,41,33,0,25,24,6,NA,1,1,2,2,Cătălin-Liviu Gherghe,Mihai Chiş,129,21.5,0.6666666666666666,ROU,51.99,3.32,99.42919,Europe & Central Asia,Upper middle income,0.83,4.624613488372093
+2018,Peru,6,5,1,42,24,0,33,24,2,NA,0,2,3,1,Fidel Guillermo Jimenez Pasapera,Jonathan Samuel Farfan Vargas,125,20.833333333333332,0.8333333333333334,PER,NA,3.71,99.04,Latin America & Caribbean,Upper middle income,0.742,4.753920000000001
+2018,Mexico,6,6,NA,36,20,0,38,23,6,NA,0,1,4,1,Marco Antonio Figueroa Ibarra,Daniel Perales Anaya,123,20.5,0.8333333333333334,MEX,41.64,4.14,98.61,NA,NA,0.828,4.810243902439025
+2018,Netherlands,6,6,NA,35,22,0,42,23,1,NA,0,1,4,1,Quintijn Puite,Birgit van Dalen,123,20.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Philippines,6,6,NA,42,26,3,33,16,1,NA,1,1,2,2,Richard Eden,Christian Paul Chan Shio,121,20.166666666666668,0.6666666666666666,PHL,29.43,3.86,98.65081,East Asia & Pacific,Lower middle income,0.965,4.891775702479339
+2018,Argentina,6,6,NA,36,16,0,39,22,2,NA,0,1,4,0,Patricia Fauring,Martín Mereb,115,19.166666666666668,0.8333333333333334,ARG,90.97,4.88,99.50552,NA,NA,0.976,5.191592347826087
+2018,Czech Republic,6,5,1,36,22,0,35,19,3,NA,0,2,2,2,Josef Tkadlec,Michal Rolínek,115,19.166666666666668,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Bangladesh,6,6,NA,42,30,3,27,10,2,NA,1,0,3,2,Mahbubul Alam Majumdar,A A Munir Hasan,114,19,0.6666666666666666,BGD,19.7,1.66,93,NA,NA,0.415,4.894736842105263
+2018,Slovenia,6,6,NA,33,14,4,37,14,2,NA,0,1,1,4,Gregor Dolinar,Jakob Jurij Snoj,104,17.333333333333332,0.3333333333333333,SVN,77.3,4.93,99.67011,Europe & Central Asia,High income: OECD,2.465,5.750198653846154
+2018,Bosnia and Herzegovina,6,5,1,39,17,0,36,10,1,NA,0,0,4,2,Admir Beširević,Marko Ćitić,103,17.166666666666668,0.6666666666666666,BIH,43.16,3.89,99.67011,Europe & Central Asia,Upper middle income,0.9725,5.806025825242718
+2018,Tajikistan,6,6,NA,42,27,0,16,17,1,NA,0,0,5,1,Umed Karimov,Pirahmad Olimjon,103,17.166666666666668,0.8333333333333334,TJK,NA,5.39,99.67011,Europe & Central Asia,Low income,1.0779999999999998,5.806025825242718
+2018,Belarus,6,6,NA,32,14,1,28,25,2,NA,0,0,4,1,Igor Voronovich,Mikhail Karpuk,102,17,0.6666666666666666,BLR,84.54,5.38,99.85,Europe & Central Asia,Upper middle income,1.345,5.8735294117647054
+2018,New Zealand,6,6,NA,35,19,0,34,14,0,NA,0,1,2,3,Ross Atkins,Peter Huxford,102,17,0.5,NZL,81.25,5.19,98.65081,East Asia & Pacific,High income: OECD,1.7300000000000002,5.802988823529412
+2018,Belgium,6,5,1,35,16,0,28,10,3,NA,0,0,4,1,Bart Windels,Philippe Niederkorn,92,15.333333333333334,0.6666666666666666,BEL,79.12,6.38,NA,NA,NA,1.595,NA
+2018,Malaysia,6,6,NA,35,18,0,18,18,1,NA,0,0,2,3,Muhammad Syafiq Johar,Nor Sakinah Mohamad,90,15,0.3333333333333333,MYS,45.28,4.13,97,East Asia & Pacific,Upper middle income,2.065,6.466666666666667
+2018,Hong Kong,6,6,NA,32,22,0,14,17,4,NA,0,0,2,4,Ka Ho Law,Shun Ming Samuel Lee,89,14.833333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Republic of Moldova,6,6,NA,35,14,0,18,16,3,NA,0,0,3,3,Valeriu Baltag,Valeriu Guțu,86,14.333333333333334,0.5,NA,52.84,5.54,99.67011,Europe & Central Asia,Lower middle income,1.8466666666666667,6.953728604651162
+2018,Estonia,6,5,1,25,16,0,26,12,1,NA,0,1,0,3,Oleg Košik,Sandra Schumann,80,13.333333333333334,0.16666666666666666,EST,72.07,5.24,99.67011,Europe & Central Asia,High income: OECD,5.24,7.4752582499999995
+2018,Lithuania,6,3,3,35,10,0,20,12,0,NA,0,0,2,3,Artūras Dubickas,Leonas Narkevičius,77,12.833333333333334,0.3333333333333333,LTU,69.72,3.89,99.67011,Europe & Central Asia,High income: nonOECD,1.945,7.766502077922077
+2018,Portugal,6,5,1,24,13,0,28,11,1,NA,0,0,2,3,Joana Teles,Rodrigo Matias,77,12.833333333333334,0.3333333333333333,PRT,65.03,4.68,99.66392,Europe & Central Asia,High income: OECD,2.34,7.766019740259741
+2018,Greece,6,6,NA,36,11,0,16,9,2,NA,0,0,2,2,Anargyros Fellouris,Evangelos Zotos,74,12.333333333333334,0.3333333333333333,GRC,140.95,3.6,99.16,Europe & Central Asia,High income: OECD,1.8,8.04
+2018,Spain,6,6,NA,36,9,0,18,11,0,NA,0,0,2,4,María Gaspar,Óscar Rivero,74,12.333333333333334,0.3333333333333333,ESP,92.17,4.18,100,NA,NA,2.09,8.108108108108107
+2018,Norway,6,5,1,21,11,0,24,15,2,NA,0,0,2,1,Dávid Kunszenti-Kovács,Johannes Kleppe,73,12.166666666666666,0.3333333333333333,NOR,85.39,7.6,99.67011,Europe & Central Asia,High income: OECD,3.8,8.192063835616437
+2018,Austria,6,5,1,15,18,0,20,19,0,NA,0,0,3,1,Robert Geretschläger,Stefan Leopoldseder,72,12,0.5,AUT,85.87,5.23,99.67011,Europe & Central Asia,High income: OECD,1.7433333333333334,8.305842499999999
+2018,Denmark,6,6,NA,23,15,0,22,10,1,NA,0,0,3,0,Kirsten Rosenkilde,Frederik Ravn Klausen,71,11.833333333333334,0.5,DNK,81.14,7.3,99.67011,Europe & Central Asia,High income: OECD,2.433333333333333,8.422826197183097
+2018,Finland,6,5,1,21,13,0,25,10,1,NA,0,0,2,2,Neea Palojärvi,Otte Heinävaara,70,11.666666666666666,0.3333333333333333,FIN,92.39,6.28,99.67011,Europe & Central Asia,High income: OECD,3.14,8.543152285714285
+2018,Saudi Arabia,6,5,1,22,16,0,15,14,2,NA,0,1,1,1,Fawzi Al-Thukair,Tarek Shehata,69,11.5,0.3333333333333333,SAU,74.53,NA,89.90199,Middle East & North Africa,High income: nonOECD,NA,7.817564347826087
+2018,Syria,6,6,NA,30,13,0,9,17,0,NA,0,0,2,2,Omran Kouba,Abdullatif Hanano,69,11.5,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2018,South Africa,6,6,NA,31,9,0,16,9,1,NA,0,0,1,4,Liam Baker,Phil Labuschagne,66,11,0.16666666666666666,ZAF,23.39,5.64,75.92827,Sub-Saharan Africa,Upper middle income,5.64,6.90257
+2018,Costa Rica,5,5,NA,29,7,0,19,10,0,NA,0,0,2,2,Edward Leonardo Coto Mora,German José Mora Sáenz,65,13,0.4,CRI,52.87,6.77,80.55,Latin America & Caribbean,Upper middle income,3.385,6.196153846153846
+2018,Turkmenistan,6,6,NA,36,9,0,16,3,1,NA,0,0,1,4,Arslan Hojiyev,Gurbangeldi Bayjayev,65,10.833333333333334,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Macau,6,5,1,31,12,0,13,5,0,NA,0,0,1,3,Lung Yam Wan,Hio Tong Wu,61,10.166666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Colombia,6,5,1,29,9,0,16,3,2,NA,0,0,1,2,Maria Elizabeth Losada,Juan Sebastian Díaz,59,9.833333333333334,0.16666666666666666,COL,57.32,NA,98.88,Latin America & Caribbean,Upper middle income,NA,10.055593220338983
+2018,Iceland,6,6,NA,22,4,0,27,3,0,NA,0,0,1,3,Marteinn Þór Harðarson,Jóhanna Katrín Eggertsdóttir,56,9.333333333333334,0.16666666666666666,ISL,69.34,7.56,99.67011,Europe & Central Asia,High income: OECD,7.56,10.678940357142856
+2018,Switzerland,6,6,NA,13,11,0,23,5,0,NA,0,0,1,1,Arnaud Maret,Cyril Jonas Frei,52,8.666666666666666,0.16666666666666666,CHE,64.35,4.93,99.67011,Europe & Central Asia,High income: OECD,4.93,11.500397307692309
+2018,Azerbaijan,6,6,NA,28,8,0,9,3,2,NA,0,0,0,5,Fuad Garayev,Mahammad Shirinov,50,8.333333333333334,0,AZE,28.97,2.46,99.67011,Europe & Central Asia,Upper middle income,NA,11.960413199999998
+2018,Tunisia,6,6,NA,27,7,0,10,5,0,NA,0,0,0,3,Salah Marzougui,Mohsen Ben Ahmed Ben Abdallah,49,8.166666666666666,0,TUN,31.14,NA,97.98,Middle East & North Africa,Upper middle income,NA,11.997551020408165
+2018,Ecuador,6,4,2,19,4,0,19,4,2,NA,0,0,0,3,Fernando Alberto Alvarez,Anthony Flores,48,8,0,ECU,47.33,4.62,96.5,Latin America & Caribbean,Upper middle income,NA,12.0625
+2018,Sri Lanka,6,4,2,28,6,0,9,4,0,NA,0,0,1,3,Kaushika De Silva,Rusiru Rangika Gambheera Arachchige,47,7.833333333333333,0.16666666666666666,LKA,18.67,1.99,99,NA,NA,1.99,12.638297872340425
+2018,Morocco,6,6,NA,27,6,0,6,6,1,NA,0,0,0,3,Mohamed Berraho,Mohamed El Ibbaoui,46,7.666666666666667,0,MAR,35.62,4.96,97.73,Middle East & North Africa,Lower middle income,NA,12.747391304347826
+2018,Puerto Rico,6,5,1,19,4,0,13,10,0,NA,0,0,1,1,Luis Fernando Cáceres Duque,Omar Colón Reyes,46,7.666666666666667,0.16666666666666666,PRI,102.15,NA,98.54553,Latin America & Caribbean,High income: nonOECD,NA,12.853764782608694
+2018,Cyprus,5,5,NA,13,11,0,18,3,0,NA,0,0,1,1,Andreas Philippou,Theoklitos Paragyiou,45,9,0.2,CYP,81.34,5.03,99.67011,Europe & Central Asia,High income: nonOECD,5.03,11.074456666666666
+2018,Ireland,6,4,2,19,2,0,19,2,1,NA,0,0,1,1,Mark Flanagan,Anca Mustata,43,7.166666666666667,0.16666666666666666,IRL,77.28,3.38,99.67011,Europe & Central Asia,High income: OECD,3.38,13.907457209302324
+2018,Kyrgyzstan,6,5,1,28,5,0,7,1,0,NA,0,0,0,4,Saltanat Saparalieva,Ruhidin Asanov,41,6.833333333333333,0,NA,39.92,5.55,99.67011,Europe & Central Asia,Lower middle income,NA,14.58586975609756
+2018,Latvia,6,4,2,9,12,0,13,5,1,NA,0,0,0,2,Filips Jeļisejevs,Juris Škuškovniks,40,6.666666666666667,0,LVA,93.02,4.24,99.82,Europe & Central Asia,High income: nonOECD,NA,14.972999999999999
+2018,Albania,6,5,1,19,3,0,6,9,0,NA,0,0,0,1,Adrian Naço,Enkel Hysnelaj,37,6.166666666666667,0,ALB,56.08,3.15,99.33,Europe & Central Asia,Upper middle income,NA,16.107567567567568
+2018,Pakistan,6,6,NA,21,3,0,6,5,0,NA,0,0,0,3,Sarfraz Ahmad,Kashif Ali,35,5.833333333333333,0,PAK,8.39,2.33,72,South Asia,Lower middle income,NA,12.342857142857143
+2018,Bolivia,6,5,1,27,1,0,3,2,0,NA,0,0,0,3,Felix Cepeda Ayaviri,Ismael Chavez Guevara,33,5.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2018,North Macedonia,6,3,3,20,2,0,3,1,1,NA,0,0,0,2,Aleksa Malcheski,Daniel Velinov,27,4.5,0,MKD,43.85,NA,NA,NA,NA,NA,NA
+2018,Nigeria,3,3,NA,19,3,0,2,0,2,NA,0,0,0,2,Stephen Ejugwu Onah,Solomon Gboyega Ojo,26,8.666666666666666,0,NGA,11.81,0.42,65.78,Sub-Saharan Africa,Lower middle income,NA,7.590000000000001
+2018,Trinidad and Tobago,3,2,1,9,5,0,8,3,1,NA,0,0,0,1,Indra Haraksingh,Jagdesh Ramnanan,26,8.666666666666666,0,TTO,NA,3.64,98.54553,Latin America & Caribbean,High income: nonOECD,NA,11.370638076923077
+2018,Myanmar,6,6,NA,14,2,0,6,1,0,NA,0,0,0,2,Saw Win Maung,Aung Kyaw,23,3.8333333333333335,0,MMR,20.39,1.99,98.65081,East Asia & Pacific,Low income,NA,25.73499391304348
+2018,Kosovo,6,6,NA,14,1,0,3,1,2,NA,0,0,0,2,Faton Berisha,Valmir Krasniqi,21,3.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Panama,4,4,NA,14,1,0,6,0,0,NA,0,0,0,2,Naicolette Agudo,NA,21,5.25,0,PAN,NA,3.45,99.1,Latin America & Caribbean,Upper middle income,NA,18.876190476190477
+2018,Uzbekistan,3,3,NA,16,4,0,1,0,0,NA,0,0,0,2,Shukhrat Ismailov,Muratkhon Sharakhimov,21,7,0,UZB,9.96,4.84,100,Europe & Central Asia,Lower middle income,NA,14.285714285714286
+2018,Montenegro,4,3,1,8,7,0,4,1,0,NA,0,0,0,1,Goran Popivoda,Gojko Jelovac,20,5,0,MNE,58.18,NA,97.42,Europe & Central Asia,Upper middle income,NA,19.484
+2018,El Salvador,2,2,NA,14,3,0,2,1,0,NA,0,0,0,2,Gabriel Alexander Chicas Reyes,Rodrigo Alberto Vásquez Posada,20,10,0,SLV,28.03,3.61,97.97,Latin America & Caribbean,Lower middle income,NA,9.797
+2018,Chile,4,3,1,1,2,0,14,2,0,NA,0,0,0,2,Hernan Burgos,Jacinto Larenas,19,4.75,0,CHL,91.2,5.47,98.54553,Latin America & Caribbean,High income: OECD,NA,20.746427368421053
+2018,Algeria,4,4,NA,10,2,0,4,1,1,NA,0,0,0,0,Abdallah Rahmani,Djamel Aouadi,18,4.5,0,DZA,53.16,5.81,97.43,NA,NA,NA,21.651111111111113
+2018,Luxembourg,2,2,NA,7,3,0,4,0,0,NA,0,0,0,1,Charles Leytem,Pascal Zeihen,14,7,0,LUX,19.39,3.66,99.67011,Europe & Central Asia,High income: OECD,NA,14.238587142857142
+2018,Ghana,5,3,2,8,3,0,2,0,0,NA,0,0,0,0,Mawuenyega Dogoe,NA,13,2.6,0,GHA,16.02,3.02,92.49097,Sub-Saharan Africa,Lower middle income,NA,35.57345
+2018,Botswana,6,3,3,7,0,0,4,1,0,NA,0,0,0,1,Mmoloki Lekhutlile,Mathews Masole,12,2,0,BWA,NA,7.91,75.92827,Sub-Saharan Africa,Upper middle income,NA,37.964135
+2018,Paraguay,6,5,1,7,0,0,2,3,0,NA,0,0,0,0,Juan José Cáceres Silva,Darío De Jesús Torres Herebia,12,2,0,PRY,NA,3.3,98.28,Latin America & Caribbean,Lower middle income,NA,49.14
+2018,Cambodia,6,3,3,11,0,0,0,0,0,NA,0,0,0,0,Ngonn Seam,Karim Ham,11,1.8333333333333333,0,KHM,15.71,2.45,NA,NA,NA,NA,NA
+2018,Guatemala,3,3,NA,1,1,0,7,2,0,NA,0,0,0,1,NA,Carlos Adrián Ramírez Álvarez,11,3.6666666666666665,0,GTM,17.52,3.13,95,Latin America & Caribbean,Lower middle income,NA,25.90909090909091
+2018,Egypt,4,3,1,1,2,0,7,0,0,NA,0,0,0,1,Walid Gomaa,Fatma Mohamed,10,2.5,0,NA,36.72,NA,89.90199,Middle East & North Africa,Lower middle income,NA,35.960796
+2018,Iraq,6,5,1,7,0,0,1,1,0,NA,0,0,0,0,Cuneyt Kilic,Muhammed Celiktas,9,1.5,0,IRQ,NA,NA,89.90199,Middle East & North Africa,Upper middle income,NA,59.93466
+2018,Uganda,4,2,2,8,0,0,0,0,1,NA,0,0,0,0,Jasper Okello,Namuddu Assumpta Kasamba,9,2.25,0,UGA,NA,2.13,89.39631,Sub-Saharan Africa,Low income,NA,39.73169333333333
+2018,Ivory Coast,6,6,NA,8,0,0,0,0,0,NA,0,0,0,1,Adama Coulibaly,Aboubacar Camara,8,1.3333333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Uruguay,4,4,NA,0,3,0,1,3,0,NA,0,0,0,0,Guillermo Stock,Javier Peraza,7,1.75,0,URY,60.28,4.6,98.87,NA,NA,NA,56.49714285714286
+2018,Honduras,3,1,2,2,1,0,2,1,0,NA,0,0,0,0,José Alberto Fajardo Tejada,Edgar Vásquez  Alberto,6,2,0,HND,26.21,6.06,96.52,Latin America & Caribbean,Lower middle income,NA,48.26
+2018,Nepal,6,6,NA,2,0,0,1,2,0,NA,0,0,0,0,Deepak Bastola,Mahendra Lal Shrestha,5,0.8333333333333334,0,NPL,13.01,3.66,92.39381,South Asia,Low income,NA,110.87257199999999
+2018,Venezuela,1,NA,1,1,1,0,0,0,0,NA,0,0,0,0,Rafael Sánchez,José Nieto,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Tanzania,3,3,NA,1,0,0,0,0,0,NA,0,0,0,0,Ertugrul Tarhan,Jennete Lucy D'Mello,1,0.3333333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Republic of Korea,6,5,1,42,39,1,42,22,24,NA,6,0,0,0,Yongjin Song,Suyoung Choi,170,28.333333333333332,1,NA,93.72,4.33,98.64629,East Asia & Pacific,High income: OECD,0.7216666666666667,3.481633764705882
+2017,People's Republic of China,6,6,NA,42,25,0,42,19,31,NA,5,1,0,0,Yijun Yao,Sihui Zhang,159,26.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Vietnam,6,6,NA,42,36,0,42,21,14,NA,4,1,1,0,Anh Vinh Lê,Bá Khánh Trình Lê,155,25.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2017,United States of America,6,6,NA,42,29,0,42,23,12,NA,3,3,0,0,Po-Shen Loh,Brian Lawrence,148,24.666666666666668,1,NA,88.17,5.09,NA,North America,High income: OECD,0.8483333333333333,NA
+2017,Islamic Republic of Iran,6,6,NA,42,32,0,42,17,9,NA,2,3,1,0,Omid Hatami Varzaneh,Seyed Hesam Firouzi,142,23.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Japan,6,6,NA,41,21,0,42,23,7,NA,2,2,2,0,Yasuo Morita,Keiko Tasaki,134,22.333333333333332,1,JPN,62.46,3.13,98.64629,East Asia & Pacific,High income: OECD,0.5216666666666666,4.416998059701492
+2017,Singapore,6,6,NA,42,26,0,37,22,4,NA,2,1,2,1,Yan Loi Wong,Xinghuan Ai,131,21.833333333333332,0.8333333333333334,SGP,84.79,2.76,100,East Asia & Pacific,High income: nonOECD,0.5519999999999999,4.580152671755726
+2017,Thailand,6,6,NA,41,30,0,42,17,1,NA,3,0,2,1,Wittawat Kositwattanarerk,Dungjade Shiowattana,131,21.833333333333332,0.8333333333333334,THA,47.72,3.47,NA,NA,NA,0.6940000000000001,NA
+2017,Taiwan,6,6,NA,40,31,0,42,7,10,NA,1,4,1,0,Chu-Lan Kao,Wen-Ching Yu,130,21.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2017,United Kingdom,6,5,1,42,17,5,42,8,16,NA,3,0,2,1,Geoff Smith,Dominic Yeo,130,21.666666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Russian Federation,6,6,NA,42,26,7,37,8,8,NA,1,3,2,0,Nazar Agakhanov,Dmitry Tereshin,128,21.333333333333332,1,RUS,81.71,4.69,99.65887,Europe & Central Asia,High income: nonOECD,0.7816666666666667,4.67150953125
+2017,Georgia,6,6,NA,42,22,0,42,18,3,NA,1,2,3,0,George Chelidze,Givi Nadibaidze,127,21.166666666666668,1,GEO,62.75,3.52,100,Europe & Central Asia,Lower middle income,0.5866666666666667,4.724409448818897
+2017,Greece,6,6,NA,42,33,0,42,9,1,NA,1,4,1,0,Anargyros Fellouris,Silouanos Brazitikos,127,21.166666666666668,1,GRC,135.33,3.48,99.65887,Europe & Central Asia,High income: OECD,0.58,4.708293070866141
+2017,Belarus,6,6,NA,40,23,1,42,16,0,NA,1,1,4,0,Igor Voronovich,Mikhail Karpuk,122,20.333333333333332,1,BLR,91.33,4.8,99.65887,Europe & Central Asia,Upper middle income,0.7999999999999999,4.901255901639344
+2017,Czech Republic,6,6,NA,42,26,4,34,16,0,NA,1,2,2,1,Josef Tkadlec,Jaroslav Zhouf,122,20.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Ukraine,6,6,NA,42,30,0,36,10,4,NA,1,2,2,1,Bogdan Rublov,Andrii Pankov,122,20.333333333333332,0.8333333333333334,UKR,80.2,5.42,99.65887,Europe & Central Asia,Lower middle income,1.084,4.901255901639344
+2017,Philippines,6,6,NA,42,25,0,42,11,0,NA,0,3,3,0,Richard Eden,Louie John Vallejo,120,20,1,PHL,35.41,3.96,98.64629,East Asia & Pacific,Lower middle income,0.66,4.9323144999999995
+2017,Bulgaria,6,5,1,40,31,0,42,1,2,NA,0,4,2,0,Peter Boyvalenkov,Emil Kolev,116,19.333333333333332,1,BGR,81.22,4.08,99.65887,Europe & Central Asia,Upper middle income,0.68,5.1547691379310345
+2017,Italy,6,6,NA,42,22,0,34,18,0,NA,2,1,1,2,Roberto Dvornicich,Ludovico Pernazza,116,19.333333333333332,0.6666666666666666,ITA,62.7,4.04,99.65887,Europe & Central Asia,High income: OECD,1.01,5.1547691379310345
+2017,Netherlands,6,6,NA,41,21,0,39,15,0,NA,1,2,1,1,Quintijn Puite,Birgit van Dalen,116,19.333333333333332,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Serbia,6,5,1,40,30,0,42,4,0,NA,0,4,2,0,Dušan Đukić,Bojan Bašić,116,19.333333333333332,1,SRB,67.58,3.71,99.65887,Europe & Central Asia,Upper middle income,0.6183333333333333,5.1547691379310345
+2017,Hungary,6,5,1,40,22,0,34,16,3,NA,2,1,1,1,József Pelikán,Sándor Dobos,115,19.166666666666668,0.6666666666666666,HUN,49.91,4.65,99.65887,Europe & Central Asia,Upper middle income,1.1625,5.199593217391303
+2017,Poland,6,6,NA,39,23,0,42,9,2,NA,1,0,5,0,Michał Pilipczuk,Andrzej Grzesik,115,19.166666666666668,1,POL,70.62,4.57,99.65887,Europe & Central Asia,High income: OECD,0.7616666666666667,5.199593217391303
+2017,Romania,6,5,1,42,17,0,42,9,5,NA,0,3,2,1,Radu Gologan,Mihai Chiş,115,19.166666666666668,0.8333333333333334,ROU,50.51,3.12,99.65887,Europe & Central Asia,Upper middle income,0.624,5.199593217391303
+2017,Kazakhstan,6,5,1,40,18,0,35,15,5,NA,1,2,1,1,Damir Yeliussizov,Kanat Satylkhanov,113,18.833333333333332,0.6666666666666666,KAZ,51.07,3.39,99.65887,Europe & Central Asia,Upper middle income,0.8475,5.291621415929203
+2017,Argentina,6,6,NA,40,20,0,42,9,0,NA,1,2,1,2,Patricia Fauring,Martín Mereb,111,18.5,0.6666666666666666,ARG,89.23,5.45,NA,NA,NA,1.3625,NA
+2017,Bangladesh,6,6,NA,42,17,0,42,10,0,NA,0,2,2,2,Mahbubul Alam Majumdar,A A Munir Hasan,111,18.5,0.6666666666666666,BGD,18.53,1.85,93,NA,NA,0.4625,5.027027027027027
+2017,Hong Kong,6,5,1,42,20,0,23,26,0,NA,1,1,3,1,Tat Wing Leung,Tak Wing Ching,111,18.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Canada,6,5,1,42,22,0,37,1,8,NA,1,2,2,1,James Rickards,Sarah Sun,110,18.333333333333332,0.8333333333333334,CAN,70.63,4.96,NA,North America,High income: OECD,0.992,NA
+2017,Peru,6,6,NA,38,27,0,42,1,1,NA,0,2,3,1,Jorge Tipe Villanueva,Emilio Gonzaga Ramírez,109,18.166666666666668,0.8333333333333334,PER,71.25,3.93,99.08,Latin America & Caribbean,Upper middle income,0.786,5.45394495412844
+2017,Indonesia,6,6,NA,40,22,0,42,4,0,NA,0,2,3,1,Aleams Barra,Hery Susanto,108,18,0.8333333333333334,IDN,36.63,1.05,99.58,East Asia & Pacific,Lower middle income,0.21000000000000002,5.532222222222222
+2017,Israel,6,6,NA,40,33,0,30,1,3,NA,0,3,2,0,Dan Carmon,Shachar Carmeli,107,17.833333333333332,0.8333333333333334,ISR,59.07,6.01,93.59566,Middle East & North Africa,High income: OECD,1.202,5.24835476635514
+2017,Germany,6,6,NA,41,16,0,34,15,0,NA,0,1,3,2,Jürgen Prestin,Eric Müller,106,17.666666666666668,0.6666666666666666,DEU,68.47,4.87,99.65887,Europe & Central Asia,High income: OECD,1.2175,5.641068113207546
+2017,Australia,6,6,NA,42,10,8,31,11,1,NA,0,3,2,1,Angelo Di Pasquale,Andrew Elvey Price,103,17.166666666666668,0.8333333333333334,AUS,109.99,5.32,NA,NA,NA,1.064,NA
+2017,Croatia,6,6,NA,38,25,0,37,2,0,NA,0,2,3,1,Mea Bombardelli,Ivan Krijan,102,17,0.8333333333333334,HRV,71.38,3.86,99.65887,Europe & Central Asia,High income: nonOECD,0.772,5.862286470588235
+2017,Türkiye,6,6,NA,40,15,0,42,4,1,NA,0,1,3,2,Azer Kerimov,Şahin Emrah,102,17,0.6666666666666666,NA,110.53,4.32,100,NA,NA,1.08,5.882352941176471
+2017,Brazil,6,6,NA,40,17,0,37,6,1,NA,0,2,1,3,Krerley Irraciel Martins Oliveira,Frederico Vale Girão,101,16.833333333333332,0.5,BRA,50.03,6.32,99.14,NA,NA,2.106666666666667,5.88950495049505
+2017,Malaysia,6,5,1,40,17,0,42,2,0,NA,0,2,2,2,M. Suhaimi Ramly,Nor Sakinah Mohamad,101,16.833333333333332,0.6666666666666666,MYS,43.67,4.18,97,East Asia & Pacific,Upper middle income,1.045,5.762376237623763
+2017,France,6,6,NA,41,11,0,32,16,0,NA,0,2,2,2,Pierre Bornsztein,Vincent Jugé,100,16.666666666666668,0.6666666666666666,FRA,65.8,5.45,99.65887,Europe & Central Asia,High income: OECD,1.3625,5.9795321999999995
+2017,Saudi Arabia,6,4,2,40,17,0,36,7,0,NA,0,2,2,1,Fawzi Al-Thukair,Abdulrahman Alguwaizani,100,16.666666666666668,0.6666666666666666,SAU,72.48,NA,99,Middle East & North Africa,High income: nonOECD,NA,5.9399999999999995
+2017,Armenia,6,5,1,41,18,0,38,2,0,NA,0,2,2,1,Tigran Margaryan,Smbat Gogyan,99,16.5,0.6666666666666666,ARM,53.59,2.71,100,Europe & Central Asia,Lower middle income,0.6775,6.0606060606060606
+2017,Azerbaijan,6,6,NA,37,19,0,42,0,0,NA,0,0,4,2,Javid Habibov,Fuad Garayev,98,16.333333333333332,0.6666666666666666,AZE,28.47,2.47,100,Europe & Central Asia,Upper middle income,0.6175,6.122448979591837
+2017,Mexico,6,6,NA,42,13,0,39,2,0,NA,0,1,2,3,Rogelio Valdez,Jorge Garza Vargas,96,16,0.5,MEX,40.34,4.4,99,NA,NA,1.4666666666666668,6.1875
+2017,Bosnia and Herzegovina,6,4,2,41,15,0,39,0,0,NA,0,0,4,2,Harun Hindija,Marko Ćitić,95,15.833333333333334,0.6666666666666666,BIH,46.42,2.84,99.65887,Europe & Central Asia,Upper middle income,0.71,6.294244421052631
+2017,Tajikistan,6,6,NA,40,13,0,42,0,0,NA,0,0,3,3,Pirahmad Olimjon,NA,95,15.833333333333334,0.5,TJK,31.11,5.54,98.81,Europe & Central Asia,Low income,1.8466666666666667,6.240631578947369
+2017,Macau,6,5,1,39,10,0,36,9,0,NA,1,0,0,5,Lung Yam Wan,Ieng Tak Leong,94,15.666666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2017,New Zealand,6,5,1,42,8,0,42,2,0,NA,0,0,3,3,Michael Albert,Robin Hankin,94,15.666666666666666,0.5,NZL,81.27,5.28,98.64629,East Asia & Pacific,High income: OECD,1.76,6.296571702127659
+2017,Cyprus,6,5,1,42,15,0,36,0,0,NA,0,0,5,1,Dimitrios Karantanos,Theoklitos Paragyiou,93,15.5,0.8333333333333334,CYP,75.94,5.7,99.65887,Europe & Central Asia,High income: nonOECD,1.1400000000000001,6.429604516129031
+2017,Mongolia,6,6,NA,37,12,0,42,1,1,NA,0,1,2,3,Bayarmagnai Gombodorj,Otgonbayar Uuye,93,15.5,0.5,MNG,65.41,4.32,98.64629,East Asia & Pacific,Lower middle income,1.4400000000000002,6.364276774193548
+2017,Turkmenistan,6,6,NA,40,11,0,42,0,0,NA,0,0,2,4,Arslan Hojiyev,Orazmammet Annaorazov,93,15.5,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Sweden,6,5,1,42,13,0,27,8,1,NA,0,1,2,3,Paul Vaderlind,Victor Ufnarovski,91,15.166666666666666,0.5,SWE,70.43,7.57,99.65887,Europe & Central Asia,High income: OECD,2.5233333333333334,6.570914505494505
+2017,India,6,6,NA,42,18,0,30,0,0,NA,0,0,3,3,Chudamani R. Pranesachar,Vaibhav Vaish,90,15,0.5,IND,27.91,4.31,88.62945,South Asia,Lower middle income,1.4366666666666665,5.9086300000000005
+2017,Slovenia,6,6,NA,42,16,0,32,0,0,NA,0,0,2,4,Gregor Dolinar,Veno Mramor,90,15,0.3333333333333333,SVN,79.27,4.78,99.65887,Europe & Central Asia,High income: OECD,2.39,6.643924666666666
+2017,Portugal,6,5,1,39,19,0,28,3,0,NA,0,0,2,2,Joana Teles,António Salgueiro,89,14.833333333333334,0.3333333333333333,PRT,64.17,5.02,99.65887,Europe & Central Asia,High income: OECD,2.51,6.718575505617977
+2017,Spain,6,6,NA,41,20,0,25,0,0,NA,0,0,3,2,María Gaspar,Marco Castrillón,86,14.333333333333334,0.5,ESP,91.89,4.21,NA,NA,NA,1.4033333333333333,NA
+2017,Syria,6,6,NA,33,10,0,42,0,0,NA,0,1,0,5,Abdullatif Hanano,Imad Fattash,85,14.166666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Latvia,6,5,1,39,8,0,24,13,0,NA,0,0,3,2,Filips Jeļisejevs,Agnese Zalcmane,84,14,0.5,LVA,88.06,4.37,99.65887,Europe & Central Asia,High income: nonOECD,1.4566666666666668,7.118490714285714
+2017,Republic of Moldova,6,6,NA,38,11,0,27,7,0,NA,0,1,0,4,Valeriu Baltag,Valeriu Guțu,83,13.833333333333334,0.16666666666666666,NA,51.95,5.71,99.65887,Europe & Central Asia,Lower middle income,5.71,7.204255662650602
+2017,Switzerland,6,6,NA,42,9,0,22,10,0,NA,0,0,1,5,Arnaud Maret,Paul Seidel,83,13.833333333333334,0.16666666666666666,CHE,62.46,5.02,99.65887,Europe & Central Asia,High income: OECD,5.02,7.204255662650602
+2017,Colombia,6,3,3,41,2,0,35,3,0,NA,0,0,1,5,Maria Elizabeth Losada,Juan Carlos Basto,81,13.5,0.16666666666666666,COL,58.4,NA,98.65,Latin America & Caribbean,Upper middle income,NA,7.307407407407408
+2017,South Africa,6,6,NA,41,7,0,27,6,0,NA,0,0,2,4,Liam Baker,Phil Labuschagne,81,13.5,0.3333333333333333,ZAF,21.42,5.6,95,Sub-Saharan Africa,Upper middle income,2.8,7.037037037037037
+2017,Belgium,6,5,1,39,14,0,23,3,1,NA,0,1,2,2,Bart Windels,Philippe Niederkorn,80,13.333333333333334,0.5,BEL,80.77,6.43,NA,NA,NA,2.143333333333333,NA
+2017,Ireland,6,4,2,36,8,0,34,2,0,NA,0,0,2,4,Mark Flanagan,Anca Mustata,80,13.333333333333334,0.3333333333333333,IRL,77.78,3.49,99.65887,Europe & Central Asia,High income: OECD,1.745,7.474415249999999
+2017,Sri Lanka,6,5,1,42,8,0,30,0,0,NA,0,0,3,3,NA,Rusiru Rangika Gambheera Arachchige,80,13.333333333333334,0.5,LKA,17.95,2.59,99,NA,NA,0.8633333333333333,7.425
+2017,Denmark,6,5,1,41,5,0,27,4,0,NA,0,0,1,5,Asbjørn Christian Nordentoft,Frederik Ravn Klausen,77,12.833333333333334,0.16666666666666666,DNK,81.32,7.12,99.65887,Europe & Central Asia,High income: OECD,7.12,7.765626233766233
+2017,North Macedonia,6,4,2,35,6,0,36,0,0,NA,0,0,1,4,Alekso Malcheski,Velinov Daniel,77,12.833333333333334,0.16666666666666666,MKD,43.51,NA,NA,NA,NA,NA,NA
+2017,Kyrgyzstan,6,6,NA,34,4,0,35,2,0,NA,0,0,2,3,Saltanat Saparalieva,Azamat Askarov,75,12.5,0.3333333333333333,NA,41.28,6.03,99.65887,Europe & Central Asia,Lower middle income,3.015,7.972709599999999
+2017,Morocco,6,6,NA,37,13,0,25,0,0,NA,0,0,1,4,Mohamed Berraho,Mohamed El Ibbaoui,75,12.5,0.16666666666666666,MAR,33.74,4.74,93.59566,Middle East & North Africa,Lower middle income,4.74,7.487652799999999
+2017,Slovakia,6,5,1,40,4,0,26,5,0,NA,0,0,1,5,Peter Novotný,Martin Vodička,75,12.5,0.16666666666666666,NA,49.13,3.93,NA,NA,NA,3.93,NA
+2017,Austria,6,6,NA,40,5,0,15,14,0,NA,0,2,0,2,Robert Geretschläger,Heinrich Josef Gstöttner,74,12.333333333333334,0.3333333333333333,AUT,83.84,5.37,99.65887,Europe & Central Asia,High income: OECD,2.685,8.080448918918918
+2017,Estonia,6,6,NA,40,14,0,16,2,0,NA,0,1,0,4,Urve Kangro,Sandra Schumann,72,12,0.16666666666666666,EST,72.14,4.96,99.65887,Europe & Central Asia,High income: OECD,4.96,8.304905833333333
+2017,Norway,6,5,1,38,11,0,17,5,0,NA,0,0,2,3,Dávid Kunszenti-Kovács,Johannes Kleppe,71,11.833333333333334,0.3333333333333333,NOR,83.74,7.85,99.65887,Europe & Central Asia,High income: OECD,3.925,8.421876338028168
+2017,Algeria,6,5,1,28,11,0,31,0,0,NA,0,0,1,4,Malik Talbi,Ali Atia,70,11.666666666666666,0.16666666666666666,DZA,49.38,5.73,NA,NA,NA,5.73,NA
+2017,Lithuania,6,5,1,41,7,0,20,1,0,NA,0,0,2,3,Artūras Dubickas,Romualdas Kašuba,69,11.5,0.3333333333333333,LTU,68.39,3.81,99.65887,Europe & Central Asia,High income: nonOECD,1.905,8.665988695652173
+2017,Uzbekistan,5,5,NA,16,18,0,35,0,0,NA,0,1,0,4,Shukhrat Ismailov,NA,69,13.8,0.2,UZB,8.65,5.03,99.65887,Europe & Central Asia,Lower middle income,5.03,7.221657246376811
+2017,Albania,6,5,1,41,4,0,22,0,0,NA,0,0,1,5,Adrian Naço,Enkel Hysnelaj,67,11.166666666666666,0.16666666666666666,ALB,58.02,3.61,99.02,Europe & Central Asia,Upper middle income,3.61,8.867462686567164
+2017,Chile,6,5,1,36,5,0,26,0,0,NA,0,0,1,4,Hernan Burgos,Mario Ponce,67,11.166666666666666,0.16666666666666666,CHL,89.92,5.43,99.02,Latin America & Caribbean,High income: OECD,5.43,8.867462686567164
+2017,Ecuador,6,5,1,38,6,0,20,2,0,NA,0,0,1,4,Jorge Chamaidan,Hugo Peña,66,11,0.16666666666666666,ECU,NA,4.61,97.54,Latin America & Caribbean,Upper middle income,4.61,8.867272727272727
+2017,Tunisia,5,5,NA,28,3,0,28,0,0,NA,0,0,1,3,Mohsen Ben Ahmed Ben Abdallah,Mourad Khecharem,59,11.8,0.2,TUN,31.02,NA,93.59566,Middle East & North Africa,Upper middle income,NA,7.931835593220338
+2017,Venezuela,5,2,3,29,4,0,24,2,0,NA,0,0,2,2,Rafael Sánchez,José Nieto,59,11.8,0.4,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Costa Rica,6,5,1,34,1,0,23,0,0,NA,0,0,0,5,Jeremías Ramírez Jiménez,Juleana Lucia Villegas Segura,58,9.666666666666666,0,CRI,54.46,7.07,98.47008,Latin America & Caribbean,Upper middle income,NA,10.18656
+2017,Pakistan,6,6,NA,23,6,0,29,0,0,NA,0,0,1,3,Sarfraz Ahmad,Kashif Ali,58,9.666666666666666,0.16666666666666666,PAK,8.8,2.14,75,South Asia,Lower middle income,2.14,7.758620689655173
+2017,El Salvador,4,4,NA,25,5,0,25,2,0,NA,0,0,1,3,Gabriel Alexander Chicas Reyes,Eduardo Arnoldo Aguilar Cañas,57,14.25,0.25,SLV,27.47,3.73,97.98,Latin America & Caribbean,Lower middle income,3.73,6.875789473684211
+2017,Finland,6,6,NA,40,4,0,10,1,1,NA,0,0,0,6,Lauri Hallila,Otte Heinävaara,56,9.333333333333334,0,FIN,90.7,6.36,99.65887,Europe & Central Asia,High income: OECD,NA,10.67773607142857
+2017,Kosovo,5,3,2,29,1,0,22,2,1,NA,0,0,1,2,Faton Berisha,Eliot Bytyçi,55,11,0.2,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Puerto Rico,5,4,1,33,3,0,19,0,0,NA,0,0,0,4,Luis Fernando Cáceres Duque,Omar Colón Reyes,55,11,0,PRI,NA,NA,92,Latin America & Caribbean,High income: nonOECD,NA,8.363636363636363
+2017,Nigeria,4,4,NA,21,5,0,25,0,0,NA,0,0,0,4,Stephen Ejuggwu Onah,Steve Dele Oluwaniyi,51,12.75,0,NGA,11.58,0.4,75.53063,Sub-Saharan Africa,Lower middle income,NA,5.923970980392157
+2017,Paraguay,6,5,1,35,1,0,12,0,0,NA,0,0,0,2,Roberto Daniel Filizzola Ortiz,Stefania Yuliana Viterbori Ugarte,48,8,0,PRY,NA,3.09,98.26,Latin America & Caribbean,Lower middle income,NA,12.2825
+2017,Iceland,6,6,NA,31,5,0,9,0,0,NA,0,0,0,3,Marteinn Þór Harðarson,Jóhanna Katrín Eggertsdóttir,45,7.5,0,ISL,71.34,7.58,99.65887,Europe & Central Asia,High income: OECD,NA,13.287849333333332
+2017,Luxembourg,6,5,1,27,1,0,15,2,0,NA,0,0,1,1,Charles Leytem,Pascal Zeihen,45,7.5,0.16666666666666666,LUX,19.6,3.49,99.65887,Europe & Central Asia,High income: OECD,3.49,13.287849333333332
+2017,Nicaragua,4,4,NA,17,4,0,22,1,0,NA,0,0,1,2,Ricardo Largaespada,Ervin Ramirez,44,11,0.25,NIC,NA,4.36,98.47008,Latin America & Caribbean,Lower middle income,4.36,8.951825454545455
+2017,Uruguay,6,6,NA,37,0,0,6,0,0,NA,0,0,0,3,Leonardo Lois Da Silva,Nelson Chocca,43,7.166666666666667,0,URY,59.75,4.42,98.93,NA,NA,NA,13.804186046511628
+2017,Montenegro,4,3,1,21,4,0,10,7,0,NA,0,0,1,2,Zana Kovijanic-Vukicevic,Gojko Jelovac,42,10.5,0.25,MNE,60.91,NA,99.65887,Europe & Central Asia,Upper middle income,NA,9.491320952380951
+2017,Bolivia,6,5,1,24,0,0,17,0,0,NA,0,0,0,4,Jimmy Santamaria Torrez,Patricia Claudia Velasquez Garnica,41,6.833333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Liechtenstein,3,NA,3,19,0,0,3,0,0,NA,0,0,0,2,Louis Hainaut,Jana Cslovjecsek,22,7.333333333333333,0,LIE,35.62,NA,99.65887,Europe & Central Asia,High income: nonOECD,NA,13.589845909090908
+2017,Uganda,6,5,1,6,5,0,11,0,0,NA,0,0,0,1,Jasper Okello,Namuddu Assumpta Kasamba,22,3.6666666666666665,0,UGA,NA,2.25,75.53063,Sub-Saharan Africa,Low income,NA,20.59926272727273
+2017,Guatemala,4,3,1,12,0,0,6,2,0,NA,0,0,0,1,José Carlos Alberto Bonilla Aldana,William Roberto Gutiérrez Herrera,20,5,0,GTM,17.1,2.95,98.47008,Latin America & Caribbean,Lower middle income,NA,19.694015999999998
+2017,Botswana,6,3,3,8,1,0,10,0,0,NA,0,0,0,1,Mmoloki Lekhutlile,Mathews Masole,19,3.1666666666666665,0,BWA,22.44,7.81,75.53063,Sub-Saharan Africa,Upper middle income,NA,23.851777894736845
+2017,Myanmar,6,5,1,2,2,0,11,0,0,NA,0,0,0,1,Saw Win Maung,Htin Aung,15,2.5,0,MMR,NA,2.17,98.64629,East Asia & Pacific,Low income,NA,39.458515999999996
+2017,Panama,1,1,NA,7,3,0,5,0,0,NA,0,0,0,1,NA,Pablo Jaen,15,15,0,PAN,NA,3.49,99.07,Latin America & Caribbean,Upper middle income,NA,6.604666666666666
+2017,Trinidad and Tobago,1,1,NA,7,1,0,7,0,0,NA,0,0,0,1,Indra Haraksingh,NA,15,15,0,TTO,NA,3.53,98.47008,Latin America & Caribbean,High income: nonOECD,NA,6.564672
+2017,Cuba,1,1,NA,5,1,0,7,0,0,NA,0,0,0,1,Nelson Tomás Hernández Reyes,NA,13,13,0,CUB,40.43,NA,98.47008,Latin America & Caribbean,Upper middle income,NA,7.574621538461538
+2017,Iraq,4,4,NA,11,0,0,2,0,0,NA,0,0,0,1,Ramazan Ince,Fatih Emre Tokyay,13,3.25,0,IRQ,NA,NA,94,Middle East & North Africa,Upper middle income,NA,28.923076923076923
+2017,Honduras,2,2,NA,6,0,0,6,0,0,NA,0,0,0,0,José Alberto Fajardo Tejada,Devis Moises Alvarado Zavala,12,6,0,HND,24.46,5.74,98.47008,Latin America & Caribbean,Lower middle income,NA,16.41168
+2017,Cambodia,6,5,1,1,0,0,10,0,0,NA,0,0,0,1,Kamerane Meak,Karim Ham,11,1.8333333333333333,0,KHM,15.07,2.1,NA,NA,NA,NA,NA
+2017,Ivory Coast,6,5,1,2,2,0,7,0,0,NA,0,0,0,0,Adama Coulibaly,Aboubacar Camara,11,1.8333333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Kenya,6,4,2,3,0,0,3,2,0,NA,0,0,0,0,James Katende,Jared Ongaro,8,1.3333333333333333,0,KEN,11.89,4.27,75.53063,Sub-Saharan Africa,Low income,NA,56.6479725
+2017,Ghana,1,1,NA,5,0,0,1,0,0,NA,0,0,0,0,Brian Basham,Mawuenyega Dogoe,6,6,0,GHA,16.37,3.19,87.78,Sub-Saharan Africa,Lower middle income,NA,14.63
+2017,Tanzania,2,2,NA,4,0,0,1,0,0,NA,0,0,0,0,Ertugrul Tarhan,Mahadevan Koipallil,5,2.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2017,Egypt,3,3,NA,2,0,0,1,0,0,NA,0,0,0,0,Ahmed Radwan,NA,3,1,0,NA,33.16,NA,88,Middle East & North Africa,Lower middle income,NA,88
+2017,Nepal,6,6,NA,0,1,0,2,0,0,NA,0,0,0,0,Deepak Bastola,Pitambar Acharya,3,0.5,0,NPL,12.11,3.53,88.62945,South Asia,Low income,NA,177.2589
+2016,United States of America,6,6,NA,37,42,27,42,41,25,NA,6,0,0,0,Po-Shen Loh,Razvan Gelca,214,35.666666666666664,1,NA,88.84,4.78,NA,North America,High income: OECD,0.7966666666666667,NA
+2016,Republic of Korea,6,6,NA,42,41,23,42,33,26,NA,4,2,0,0,Yongjin Song,Bo-Hae Im,207,34.5,1,NA,93.66,4.33,98.61837,East Asia & Pacific,High income: OECD,0.7216666666666667,2.8585034782608694
+2016,People's Republic of China,6,6,NA,42,30,20,42,42,28,NA,4,2,0,0,Bin Xiong,Qiusheng Li,204,34,1,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Singapore,6,6,NA,42,42,11,39,42,20,NA,4,2,0,0,Yan Loi Wong,Lixing Zong,196,32.666666666666664,1,SGP,83.94,2.87,100,East Asia & Pacific,High income: nonOECD,0.47833333333333333,3.0612244897959187
+2016,Taiwan,6,6,NA,42,37,7,38,30,21,NA,3,3,0,0,Yen-Chi Roger Lin,John Meng Kai Hong,175,29.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Democratic People's Republic of Korea,6,6,NA,41,30,2,42,31,22,NA,2,4,0,0,Yong Chol Ham,Kwang Nam O,168,28,1,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Russian Federation,6,6,NA,42,28,10,41,37,7,NA,4,1,1,0,Nazar Agakhanov,Dmitry Tereshin,165,27.5,1,RUS,83.86,3.76,99.6416,Europe & Central Asia,High income: nonOECD,0.6266666666666666,3.623330909090909
+2016,United Kingdom,6,6,NA,35,36,4,41,28,21,NA,2,4,0,0,Geoff Smith,Dominic Yeo,165,27.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Hong Kong,6,5,1,42,34,0,42,34,9,NA,3,2,1,0,Kin Yin Li,Cesar Jose Alaban,161,26.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Japan,6,6,NA,39,35,2,42,20,18,NA,1,4,1,0,Yasuo Morita,Keiko Tasaki,156,26,1,JPN,63.19,3.15,98.61837,East Asia & Pacific,High income: OECD,0.525,3.7930142307692307
+2016,Vietnam,6,6,NA,42,30,1,40,33,5,NA,1,4,1,0,Anh Vinh Lê,Bá Khánh Trình Lê,151,25.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Canada,6,5,1,36,27,3,42,30,10,NA,2,2,1,1,Robert Morewood,Hunter Spink,148,24.666666666666668,0.8333333333333334,CAN,69.51,4.82,NA,North America,High income: OECD,0.9640000000000001,NA
+2016,Thailand,6,6,NA,42,18,0,42,26,20,NA,2,2,1,1,Wittawat Kositwattanarerk,Dungjade Shiowattana,148,24.666666666666668,0.8333333333333334,THA,49.51,3.77,97.49,NA,NA,0.754,3.9522972972972967
+2016,Hungary,6,5,1,42,28,2,41,19,13,NA,1,3,2,0,József Pelikán,Sándor Dobos,145,24.166666666666668,1,HUN,49.48,4.62,99.6416,Europe & Central Asia,Upper middle income,0.77,4.123100689655172
+2016,Brazil,6,6,NA,42,25,0,42,16,13,NA,0,5,1,0,Nicolau C. Saldanha,Samuel Barbosa Feitosa,138,23,1,BRA,48.33,6.31,99.07,NA,NA,1.0516666666666665,4.307391304347826
+2016,Italy,6,6,NA,41,28,2,38,22,7,NA,1,3,0,2,Massimo Gobbino,Davide Lombardo,138,23,0.6666666666666666,ITA,61.36,3.82,99.6416,Europe & Central Asia,High income: OECD,0.955,4.332243478260869
+2016,Philippines,6,6,NA,40,28,0,42,12,11,NA,2,2,0,2,Richard Eden,Louie John Vallejo,133,22.166666666666668,0.6666666666666666,PHL,40.49,3.3,98.61837,East Asia & Pacific,Lower middle income,0.825,4.44894902255639
+2016,Bulgaria,6,5,1,42,13,3,42,18,14,NA,0,3,3,0,Peter Boyvalenkov,Emil Kolev,132,22,1,BGR,80.64,3.39,99.6416,Europe & Central Asia,Upper middle income,0.5650000000000001,4.529163636363636
+2016,Germany,6,5,1,40,29,7,42,10,3,NA,0,3,3,0,Jürgen Prestin,Eric Müller,131,21.833333333333332,1,DEU,67.95,4.84,99.6416,Europe & Central Asia,High income: OECD,0.8066666666666666,4.563737404580153
+2016,Indonesia,6,6,NA,42,17,0,42,21,8,NA,0,3,3,0,Aleams Barra,Hery Susanto,130,21.666666666666668,1,IDN,35.48,1.21,100,East Asia & Pacific,Lower middle income,0.20166666666666666,4.615384615384615
+2016,Romania,6,6,NA,42,30,1,39,16,2,NA,0,5,1,0,Radu Gologan,Cătălin-Liviu Gherghe,130,21.666666666666668,1,ROU,49.91,3.03,99.6416,Europe & Central Asia,Upper middle income,0.505,4.598843076923076
+2016,Israel,6,6,NA,42,9,9,34,27,6,NA,0,3,3,0,Dan Carmon,Amos Onn,127,21.166666666666668,1,ISR,60.45,5.8,93.01966,Middle East & North Africa,High income: OECD,0.9666666666666667,4.394629606299213
+2016,Mexico,6,5,1,42,22,0,39,6,17,NA,0,4,1,1,Rogelio Valdez,Marco Antonio Figueroa Ibarra,126,21,0.8333333333333334,MEX,38.59,4.76,98.6,NA,NA,0.952,4.6952380952380945
+2016,Islamic Republic of Iran,6,6,NA,42,16,3,42,18,4,NA,0,3,3,0,Omid Hatami,Mohsen Jamaali,125,20.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Australia,6,5,1,42,23,2,42,10,5,NA,0,2,4,0,Angelo Di Pasquale,Andrew Elvey Price,124,20.666666666666668,1,AUS,119.68,5.43,NA,NA,NA,0.9049999999999999,NA
+2016,France,6,5,1,41,21,1,39,15,7,NA,0,3,2,1,Jean-Louis Tu,Vincent Jugé,124,20.666666666666668,0.8333333333333334,FRA,64.73,5.41,99.6416,Europe & Central Asia,High income: OECD,1.082,4.821367741935483
+2016,Peru,6,6,NA,42,18,0,42,21,1,NA,0,2,3,1,Jesús Zapata Samanez,Jorge Tipe Villanueva,124,20.666666666666668,0.8333333333333334,PER,73.33,3.81,98.94,Latin America & Caribbean,Upper middle income,0.762,4.787419354838709
+2016,Kazakhstan,6,5,1,42,20,0,41,12,7,NA,1,1,3,1,Damir Yeliussizov,Anton Vassilyev,122,20.333333333333332,0.8333333333333334,KAZ,46.82,3.56,99.6416,Europe & Central Asia,Upper middle income,0.712,4.90040655737705
+2016,Türkiye,6,5,1,42,21,1,42,11,4,NA,0,2,4,0,Azer Kerimov,Şahin Emrah,121,20.166666666666668,1,NA,103.72,4.63,100,NA,NA,0.7716666666666666,4.958677685950413
+2016,Armenia,6,6,NA,42,16,0,41,11,8,NA,0,1,4,1,Tigran Margaryan,Smbat Gogyan,118,19.666666666666668,0.8333333333333334,ARM,51.75,2.76,100,Europe & Central Asia,Lower middle income,0.5519999999999999,5.084745762711864
+2016,Croatia,6,6,NA,42,16,0,41,12,7,NA,0,1,4,1,Tonći Kokan,Nikola Adžaga,118,19.666666666666668,0.8333333333333334,HRV,69.59,4.9,99.6416,Europe & Central Asia,High income: nonOECD,0.9800000000000001,5.066522033898305
+2016,Ukraine,6,5,1,42,13,0,42,21,0,NA,0,2,4,0,Bogdan Rublov,Andrii Pankov,118,19.666666666666668,1,UKR,77.04,5.01,99.6416,Europe & Central Asia,Lower middle income,0.835,5.066522033898305
+2016,Mongolia,6,6,NA,42,22,0,42,8,1,NA,0,2,2,2,Bayarmagnai Gombodorj,Bayarjargal Batsukh,115,19.166666666666668,0.6666666666666666,MNG,66.98,5.2,98.61837,East Asia & Pacific,Lower middle income,1.3,5.145306260869565
+2016,India,6,6,NA,37,17,2,37,13,7,NA,0,1,5,0,Prithwijit De,Udayan Prajapati,113,18.833333333333332,1,IND,27.3,4.26,90.29,South Asia,Lower middle income,0.71,4.794159292035399
+2016,Bangladesh,6,6,NA,42,14,0,39,11,6,NA,0,1,3,2,Mahbubul Alam Majumdar,A A Munir Hasan,112,18.666666666666668,0.6666666666666666,BGD,17.4,2.22,92,NA,NA,0.555,4.928571428571428
+2016,Belarus,6,5,1,41,11,1,42,17,0,NA,0,1,4,1,Igor Voronovich,Mikhail Karpuk,112,18.666666666666668,0.8333333333333334,BLR,94.76,4.95,99.6416,Europe & Central Asia,Upper middle income,0.99,5.337942857142856
+2016,Czech Republic,6,6,NA,36,23,0,36,7,7,NA,0,2,1,2,Martin Panák,Pavel Calábek,109,18.166666666666668,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Sweden,6,4,2,30,17,0,36,16,10,NA,0,3,0,2,Paul Vaderlind,Victor Ufnarovski,109,18.166666666666668,0.5,SWE,68.31,7.62,99.6416,Europe & Central Asia,High income: OECD,2.54,5.48485871559633
+2016,Macau,6,4,2,42,14,0,34,14,4,NA,1,1,0,4,Lung Yam Wan,Ieng Tak Leong,108,18,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Serbia,6,6,NA,42,13,1,40,9,1,NA,0,1,4,1,Dušan Đukić,Marko Radovanović,106,17.666666666666668,0.8333333333333334,SRB,62.91,3.63,100,Europe & Central Asia,Upper middle income,0.726,5.660377358490566
+2016,Saudi Arabia,6,5,1,42,8,1,42,11,0,NA,0,0,4,2,Fawzi Al-Thukair,Abdulrahman Alguwaizani,104,17.333333333333332,0.6666666666666666,SAU,64.66,NA,93.01966,Middle East & North Africa,High income: nonOECD,NA,5.366518846153847
+2016,Poland,6,6,NA,38,10,1,37,16,0,NA,0,2,2,2,Michał Pilipczuk,Joanna Ochremiak,102,17,0.6666666666666666,POL,69.85,4.66,99.6416,Europe & Central Asia,High income: OECD,1.165,5.861270588235294
+2016,Switzerland,6,5,1,29,22,0,34,14,0,NA,0,1,4,0,Arnaud Maret,Cyril Jonas Frei,99,16.5,0.8333333333333334,CHE,61.19,4.98,99.6416,Europe & Central Asia,High income: OECD,0.9960000000000001,6.038884848484848
+2016,Netherlands,6,6,NA,36,15,0,36,11,0,NA,0,0,3,3,Julian Lyczak,Birgit van Dalen,98,16.333333333333332,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Bosnia and Herzegovina,6,3,3,42,9,0,42,4,0,NA,0,0,4,2,Jelena Radović,Sead Delalić,97,16.166666666666668,0.6666666666666666,BIH,48.67,4.26,99.6416,Europe & Central Asia,Upper middle income,1.065,6.163397938144329
+2016,Austria,6,6,NA,33,3,0,37,6,10,NA,0,0,3,3,Robert Geretschläger,Stefan Leopoldseder,89,14.833333333333334,0.5,AUT,82.85,5.48,99.6416,Europe & Central Asia,High income: OECD,1.8266666666666669,6.717411235955056
+2016,Portugal,6,6,NA,36,12,0,34,6,0,NA,0,0,1,5,Joana Teles,António Salgueiro,88,14.666666666666666,0.16666666666666666,PRT,63.27,4.77,99.6416,Europe & Central Asia,High income: OECD,4.77,6.793745454545455
+2016,Syria,6,5,1,41,8,0,28,10,0,NA,0,0,3,3,Abdullatif Hanano,Emad Alazeb,87,14.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Spain,6,6,NA,34,5,0,40,7,0,NA,0,0,2,3,María Gaspar,Marco Castrillón,86,14.333333333333334,0.3333333333333333,ESP,89.81,4.23,100,NA,NA,2.115,6.976744186046512
+2016,Greece,6,5,1,35,8,0,38,3,0,NA,0,0,2,3,Anargyros Fellouris,Evangelos Zotos,84,14,0.3333333333333333,GRC,131.4,4.02,99.6416,Europe & Central Asia,High income: OECD,2.01,7.1172571428571425
+2016,Lithuania,6,5,1,36,9,0,37,2,0,NA,0,0,3,3,Artūras Dubickas,Romualdas Kašuba,84,14,0.5,LTU,67.74,4,99.6416,Europe & Central Asia,High income: nonOECD,1.3333333333333333,7.1172571428571425
+2016,Belgium,6,5,1,28,11,2,34,4,3,NA,0,0,3,1,Bart Windels,Philippe Niederkorn,82,13.666666666666666,0.5,BEL,77.24,6.46,NA,NA,NA,2.1533333333333333,NA
+2016,New Zealand,6,6,NA,34,5,0,31,11,0,NA,0,1,1,2,Michael Albert,Stephen Mackereth,81,13.5,0.3333333333333333,NZL,81.86,5.51,98.61837,East Asia & Pacific,High income: OECD,2.755,7.305064444444445
+2016,Azerbaijan,6,6,NA,33,3,0,37,6,0,NA,0,0,1,4,Javid Habibov,Fuad Garayev,79,13.166666666666666,0.16666666666666666,AZE,27.24,2.9,100,Europe & Central Asia,Upper middle income,2.9,7.59493670886076
+2016,Slovakia,6,5,1,32,9,0,32,5,0,NA,0,0,2,3,Stanislav Krajči,Martin Vodička,78,13,0.3333333333333333,NA,50.3,3.9,NA,NA,NA,1.95,NA
+2016,Malaysia,6,5,1,35,7,0,29,5,1,NA,0,0,2,3,Irwan Iqbal Ihsanuddin,Nor Sakinah Mohamad,77,12.833333333333334,0.3333333333333333,MYS,46.4,4.35,98,East Asia & Pacific,Upper middle income,2.175,7.636363636363636
+2016,Argentina,6,5,1,37,7,1,29,1,0,NA,0,0,2,3,Patricia Fauring,Martín Mereb,75,12.5,0.3333333333333333,ARG,86.62,5.55,99.50271,NA,NA,2.775,7.9602167999999995
+2016,South Africa,6,6,NA,31,8,0,30,4,0,NA,0,0,1,4,Dirk Basson,Phil Labuschagne,73,12.166666666666666,0.16666666666666666,ZAF,18.96,5.44,96.71,Sub-Saharan Africa,Upper middle income,5.44,7.948767123287671
+2016,Costa Rica,6,6,NA,31,11,0,20,0,7,NA,0,0,2,2,Juan Gabriel Calvo,Juleana Villegas Segura,69,11.5,0.3333333333333333,CRI,52.13,6.89,98.43203,Latin America & Caribbean,Upper middle income,3.445,8.55930695652174
+2016,Georgia,6,5,1,37,3,0,28,0,1,NA,0,0,1,4,George Chelidze,Givi Nadibaidze,69,11.5,0.16666666666666666,GEO,57.39,3.52,99.6416,Europe & Central Asia,Lower middle income,3.52,8.664486956521738
+2016,Estonia,6,6,NA,31,3,0,28,5,0,NA,0,0,1,3,Oleg Košik,Heiki Niglas,67,11.166666666666666,0.16666666666666666,EST,73.03,5.16,99.6416,Europe & Central Asia,High income: OECD,5.16,8.923128358208956
+2016,Tajikistan,6,6,NA,42,1,0,23,0,0,NA,0,0,0,6,Umed Karimov,Mirzobedil Jamolzoda,66,11,0,TJK,29.12,5.73,99.6416,Europe & Central Asia,Low income,NA,9.058327272727272
+2016,Cyprus,6,6,NA,17,1,0,36,4,7,NA,0,1,0,3,Andreas Philippou,Theoklitos Paragyiou,65,10.833333333333334,0.16666666666666666,CYP,67.17,6.12,99.6416,Europe & Central Asia,High income: nonOECD,6.12,9.197686153846153
+2016,Republic of Moldova,6,6,NA,38,5,0,18,4,0,NA,0,0,1,3,Valeriu Baltag,Vladimir Izbaş,65,10.833333333333334,0.16666666666666666,NA,52.84,5.67,99.6416,Europe & Central Asia,Lower middle income,5.67,9.197686153846153
+2016,Slovenia,6,6,NA,34,3,0,26,2,0,NA,0,0,0,5,Gregor Dolinar,Matej Aleksandrov,65,10.833333333333334,0,SVN,79.47,4.79,99.6416,Europe & Central Asia,High income: OECD,NA,9.197686153846153
+2016,Colombia,6,5,1,19,13,0,22,9,0,NA,0,0,2,1,Maria Elizabeth Losada,Pedro Barrios,63,10.5,0.3333333333333333,COL,57.14,NA,98.65,Latin America & Caribbean,Upper middle income,NA,9.395238095238096
+2016,Sri Lanka,6,6,NA,36,7,0,20,0,0,NA,0,0,1,4,Dayal B. Dharmasena,Mohamed Sabri Mohamed Fuard,63,10.5,0.16666666666666666,LKA,17.81,3.23,99,NA,NA,3.23,9.428571428571429
+2016,El Salvador,5,5,NA,35,0,0,12,0,13,NA,0,0,1,4,Ernesto Americo Hidalgo Castellanos,Gabriel Alexander Chicas Reyes,60,12,0.2,SLV,27.01,3.83,98.01,Latin America & Caribbean,Lower middle income,3.83,8.1675
+2016,Albania,6,4,2,31,1,0,22,4,0,NA,0,0,1,3,Adrian Naço,Enkel Hysnelaj,58,9.666666666666666,0.16666666666666666,ALB,58.49,3.96,99.6416,Europe & Central Asia,Upper middle income,3.96,10.307751724137932
+2016,Turkmenistan,6,6,NA,28,2,0,28,0,0,NA,0,0,0,5,Dovran Annanyyazov,Orazmammet Annaorazov,58,9.666666666666666,0,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Finland,6,5,1,14,6,0,23,2,10,NA,0,0,0,3,Esa Vesalainen,Jesse Jääsaari,55,9.166666666666666,0,FIN,89.33,6.85,99.6416,Europe & Central Asia,High income: OECD,NA,10.869992727272727
+2016,Paraguay,6,6,NA,25,7,0,22,1,0,NA,0,0,2,1,Marcos Martínez Sugastti,Enrique Diaz Barriocanal,55,9.166666666666666,0.3333333333333333,PRY,NA,3.43,98.44,Latin America & Caribbean,Lower middle income,1.715,10.738909090909091
+2016,North Macedonia,6,4,2,27,0,0,25,0,1,NA,0,0,0,3,Alekso Malcheski,Velinov Daniel,53,8.833333333333334,0,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Latvia,6,6,NA,21,6,0,19,0,6,NA,0,0,0,2,Jevgēnijs Vihrovs,Juris Škuškovniks,52,8.666666666666666,0,LVA,80.6,4.66,99.6416,Europe & Central Asia,High income: nonOECD,NA,11.497107692307694
+2016,Ireland,6,3,3,23,2,0,20,6,0,NA,0,0,0,3,Bernd Kreussler,Anca Mustata,51,8.5,0,IRL,77.56,3.75,99.6416,Europe & Central Asia,High income: OECD,NA,11.722541176470587
+2016,Tunisia,6,4,2,38,0,0,12,0,0,NA,0,0,0,4,Salah Marzougui,Mimouni Abderrahmen,50,8.333333333333334,0,TUN,31.19,NA,93.01966,Middle East & North Africa,Upper middle income,NA,11.1623592
+2016,Kosovo,6,4,2,19,2,1,25,0,0,NA,0,0,1,2,Faton Berisha,Güven Gokceoglu,47,7.833333333333333,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Uzbekistan,6,5,1,20,5,0,19,3,0,NA,0,0,1,2,Shukhrat Ismailov,Muratkhon Sharakhimov,47,7.833333333333333,0.16666666666666666,UZB,8.34,5.42,100,Europe & Central Asia,Lower middle income,5.42,12.76595744680851
+2016,Morocco,6,5,1,30,1,0,11,4,0,NA,0,0,1,2,Mohamed Berraho,Elhassan Rhomari,46,7.666666666666667,0.16666666666666666,MAR,32.27,5.09,93.01966,Middle East & North Africa,Lower middle income,5.09,12.132999130434783
+2016,Nicaragua,5,5,NA,29,2,0,12,2,0,NA,0,0,1,3,Darwing José Mena Gutiérrez,NA,45,9,0.2,NIC,17.77,4.08,98.43203,Latin America & Caribbean,Lower middle income,4.08,10.936892222222221
+2016,Denmark,6,6,NA,23,2,0,19,0,0,NA,0,0,0,2,Kirsten Rosenkilde,Jan Agentoft Nielsen,44,7.333333333333333,0,DNK,82.17,7.69,99.6416,Europe & Central Asia,High income: OECD,NA,13.58749090909091
+2016,Algeria,4,4,NA,22,2,0,17,0,0,NA,0,0,0,2,Malik Talbi,Ali Atia,41,10.25,0,DZA,44.11,6.5,NA,NA,NA,NA,NA
+2016,Ecuador,6,5,1,20,0,0,16,2,0,NA,0,0,0,2,Jorge Chamaidan,Romnie Acosta,38,6.333333333333333,0,ECU,NA,4.36,97,Latin America & Caribbean,Upper middle income,NA,15.31578947368421
+2016,Kyrgyzstan,6,5,1,23,0,0,11,0,0,NA,0,0,0,3,Saltanat Saparalieva,Asel Abdyldaeva,34,5.666666666666667,0,NA,43.4,6.59,99.6416,Europe & Central Asia,Lower middle income,NA,17.58381176470588
+2016,Norway,6,5,1,20,1,0,11,2,0,NA,0,0,0,2,Dávid Kunszenti-Kovács,Johannes Kleppe,34,5.666666666666667,0,NOR,82.04,7.98,99.6416,Europe & Central Asia,High income: OECD,NA,17.58381176470588
+2016,Venezuela,3,2,1,16,2,0,11,0,0,NA,0,0,1,1,Rafael Sánchez,José Nieto,29,9.666666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Puerto Rico,2,1,1,12,0,0,8,0,7,NA,0,0,1,0,Luis Fernando Cáceres Duque,Omar Colón Reyes,27,13.5,0.5,PRI,99.68,NA,98.43203,Latin America & Caribbean,High income: nonOECD,NA,7.291261481481481
+2016,Montenegro,2,2,NA,7,3,0,7,7,0,NA,0,1,0,0,Vladimir Jaćimović,Gojko Jelovac,24,12,0.5,MNE,59.18,NA,99.6416,Europe & Central Asia,Upper middle income,NA,8.303466666666667
+2016,Nigeria,6,6,NA,16,0,0,6,0,2,NA,0,0,0,1,Olusola John Adeniran,Pius Aje Onah,24,4,0,NGA,NA,0.39,72.96,Sub-Saharan Africa,Lower middle income,NA,18.24
+2016,Iceland,6,4,2,13,1,0,5,4,0,NA,0,0,0,0,Marteinn Þór Harðarson,Jóhanna Katrín Eggertsdóttir,23,3.8333333333333335,0,ISL,74.7,7.43,99.6416,Europe & Central Asia,High income: OECD,NA,25.993460869565215
+2016,Chile,3,3,NA,14,2,0,2,0,0,NA,0,0,0,2,Hernan Burgos,Victor Cortes,18,6,0,CHL,88.85,5.37,98.43203,Latin America & Caribbean,High income: OECD,NA,16.405338333333333
+2016,Pakistan,6,5,1,8,0,0,8,0,2,NA,0,0,0,0,Sarfraz Ahmad,Hani Shaker,18,3,0,PAK,8.48,2.42,88.08789,South Asia,Lower middle income,NA,29.36263
+2016,Uruguay,1,1,NA,7,2,0,7,1,0,NA,0,0,1,0,Leonardo Lois Da Silva,NA,17,17,1,URY,59.65,4.36,99.15,NA,NA,4.36,5.832352941176471
+2016,Trinidad and Tobago,4,2,2,10,2,0,2,0,1,NA,0,0,0,1,Indra Haraksingh,Jagdesh Ramnanan,15,3.75,0,TTO,NA,4.17,98.43203,Latin America & Caribbean,High income: nonOECD,NA,26.248541333333332
+2016,Luxembourg,3,2,1,13,0,0,1,0,0,NA,0,0,0,0,Charles Leytem,Mike Dostert,14,4.666666666666667,0,LUX,19.92,4.47,99.6416,Europe & Central Asia,High income: OECD,NA,21.351771428571425
+2016,Cambodia,6,5,1,13,0,0,0,0,0,NA,0,0,0,1,Kamerane Meak,Ngonn Seam,13,2.1666666666666665,0,KHM,NA,1.87,NA,NA,NA,NA,NA
+2016,Myanmar,6,5,1,6,3,0,2,0,2,NA,0,0,0,0,Saw Win Maung,Htin Aung,13,2.1666666666666665,0,MMR,NA,2.16,90.42,East Asia & Pacific,Low income,NA,41.73230769230769
+2016,Uganda,6,5,1,11,1,0,0,0,0,NA,0,0,0,1,Jasper Okello,Namuddu Assumpta Kasamba,12,2,0,UGA,4.76,2.14,79.78,Sub-Saharan Africa,Low income,NA,39.89
+2016,Kenya,6,5,1,4,0,0,0,2,5,NA,0,0,0,0,James Katende,Jared Ongaro,11,1.8333333333333333,0,KEN,11.7,4.67,74.90617,Sub-Saharan Africa,Low income,NA,40.85791090909091
+2016,Honduras,2,2,NA,2,2,0,6,0,0,NA,0,0,0,0,Iván Henríquez,Mariano Eliseo Solorzano Alvarado,10,5,0,HND,20.95,6.1,96.13,Latin America & Caribbean,Lower middle income,NA,19.226
+2016,Madagascar,5,3,2,7,2,0,0,0,1,NA,0,0,0,0,Fanilo Rajaofetra Randriamahaleo,Maminirina Franck Ramaharo,10,2,0,MDG,4.76,2.7,74.90617,Sub-Saharan Africa,Low income,NA,37.453085
+2016,Jamaica,1,1,NA,5,0,0,4,0,0,NA,0,0,0,0,Raymond Vincent McEachin Jr.,Samuel Alexander McDaniel,9,9,0,JAM,NA,5.31,98.43203,Latin America & Caribbean,Upper middle income,NA,10.936892222222221
+2016,Botswana,6,4,2,7,0,0,0,0,0,NA,0,0,0,1,Mmoloki Lekhutlile,Mathews Masole,7,1.1666666666666667,0,BWA,23.29,8.74,74.90617,Sub-Saharan Africa,Upper middle income,NA,64.20528857142857
+2016,Egypt,5,3,2,3,2,0,0,0,0,NA,0,0,0,0,Adel Darwish,NA,5,1,0,NA,31.93,NA,93.01966,Middle East & North Africa,Lower middle income,NA,93.01966
+2016,Ghana,3,2,1,2,2,0,1,0,0,NA,0,0,0,0,Mawuenyega Dogoe,Selorm Yao Ohene,5,1.6666666666666667,0,GHA,14.21,3.45,74.90617,Sub-Saharan Africa,Lower middle income,NA,44.943702
+2016,Tanzania,2,2,NA,3,0,0,0,0,0,NA,0,0,0,0,Ertugrul Tarhan,Ismail Alli Nguno,3,1.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2016,Iraq,5,5,NA,1,0,0,0,0,1,NA,0,0,0,0,Yusuf Zeybek,Mehmet Said Topkaya,2,0.4,0,IRQ,NA,NA,91,Middle East & North Africa,Upper middle income,NA,227.5
+2016,Liechtenstein,1,NA,1,1,1,0,0,0,0,NA,0,0,0,0,Robert Meier,Masato Fabian Keller,2,2,0,LIE,35.02,NA,99.6416,Europe & Central Asia,High income: nonOECD,NA,49.8208
+2016,Laos,6,2,4,0,0,0,0,0,0,NA,0,0,0,0,Khamphouth Phommasone,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+2015,United States of America,6,6,NA,42,32,31,42,25,13,NA,5,1,0,0,Po-Shen Loh,John Berman,185,30.833333333333332,1,NA,88.89,4.93,NA,North America,High income: OECD,0.8216666666666667,NA
+2015,People's Republic of China,6,6,NA,42,36,12,42,22,27,NA,4,2,0,0,Bin Xiong,Qiusheng Li,181,30.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Republic of Korea,6,6,NA,42,15,18,42,25,19,NA,3,1,2,0,Yongjin Song,Bo-Hae Im,161,26.833333333333332,1,NA,93.97,4.45,98.59689,East Asia & Pacific,High income: OECD,0.7416666666666667,3.6744182608695652
+2015,Democratic People's Republic of Korea,6,6,NA,42,25,17,42,22,8,NA,3,3,0,0,Yong Chol Ham,Ryong Gol Yom,156,26,1,NA,28.02,NA,NA,NA,NA,NA,NA
+2015,Vietnam,6,5,1,35,21,23,42,28,2,NA,2,3,1,0,Bá Khánh Trình Lê,Anh Vinh Lê,151,25.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Australia,6,6,NA,42,26,11,42,20,7,NA,2,4,0,0,Angelo Di Pasquale,Andrew Elvey Price,148,24.666666666666668,1,AUS,119.68,5.46,NA,NA,NA,0.91,NA
+2015,Islamic Republic of Iran,6,6,NA,40,14,31,42,12,6,NA,3,2,1,0,Erfan Salavati,Kasra Alishahi,145,24.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Russian Federation,6,6,NA,42,19,8,42,9,21,NA,0,6,0,0,Nazar Agakhanov,Dmitry Tereshin,141,23.5,1,RUS,84.24,3.83,99.60965,Europe & Central Asia,High income: nonOECD,0.6383333333333333,4.238708510638298
+2015,Canada,6,6,NA,39,17,7,42,21,14,NA,2,0,4,0,Jacob Tsimerman,Lindsey Shorser,140,23.333333333333332,1,CAN,67.4,4.74,NA,North America,High income: OECD,0.79,NA
+2015,Singapore,6,6,NA,39,26,10,42,17,5,NA,1,4,1,0,Yan Loi Wong,Teck Kian Teo,139,23.166666666666668,1,SGP,NA,2.86,100,East Asia & Pacific,High income: nonOECD,0.4766666666666666,4.316546762589928
+2015,Ukraine,6,3,3,33,22,10,42,19,9,NA,2,3,1,0,Bogdan Rublov,Andrii Pankov,135,22.5,1,UKR,76.86,5.74,99.60965,Europe & Central Asia,Lower middle income,0.9566666666666667,4.427095555555556
+2015,Thailand,6,6,NA,42,21,1,42,28,0,NA,2,3,1,0,Wicharn Lewkeeratiyutkul,Utsanee Leerawat,134,22.333333333333332,1,THA,NA,3.86,98,NA,NA,0.6433333333333333,4.388059701492538
+2015,Romania,6,5,1,37,21,12,42,20,0,NA,1,4,1,0,Radu Gologan,Cătălin-Liviu Gherghe,132,22,1,ROU,49.36,3.11,99.60965,Europe & Central Asia,Upper middle income,0.5183333333333333,4.527711363636364
+2015,France,6,6,NA,36,16,8,41,16,3,NA,0,3,3,0,Pierre Bornsztein,Vincent Jugé,120,20,1,FRA,62.79,5.45,99.60965,Europe & Central Asia,High income: OECD,0.9083333333333333,4.9804825
+2015,Croatia,6,6,NA,36,18,4,39,22,0,NA,1,3,1,0,Matija Bašić,Kristina Ana Škreb,119,19.833333333333332,0.8333333333333334,HRV,68.44,4.97,99.60965,Europe & Central Asia,High income: nonOECD,0.994,5.022335294117648
+2015,Peru,6,6,NA,33,16,9,37,23,0,NA,2,2,1,0,Jesús Zapata Samanez,Jorge Tipe Villanueva,118,19.666666666666668,0.8333333333333334,PER,NA,3.97,99.05,Latin America & Caribbean,Upper middle income,0.794,5.036440677966101
+2015,Poland,6,6,NA,33,12,21,38,7,6,NA,1,1,4,0,Michał Pilipczuk,Andrzej Grzesik,117,19.5,1,POL,69.37,4.82,99.60965,Europe & Central Asia,High income: OECD,0.8033333333333333,5.10818717948718
+2015,Taiwan,6,6,NA,35,9,5,40,18,8,NA,0,4,1,1,Shou-Jen Hsiao,John Meng Kai Hong,115,19.166666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Mexico,6,6,NA,42,14,5,42,9,2,NA,1,2,3,0,Leonardo Ignacio Martínez Sandoval,Rogelio Valdez Delgado,114,19,1,MEX,31.97,5.05,99,NA,NA,0.8416666666666667,5.2105263157894735
+2015,Hungary,6,5,1,42,13,4,38,11,5,NA,0,3,3,0,József Pelikán,Sándor Dobos,113,18.833333333333332,1,HUN,50.07,4.5,99.60965,Europe & Central Asia,Upper middle income,0.75,5.289007964601771
+2015,Türkiye,6,5,1,36,26,6,35,10,0,NA,0,5,0,0,Azer Kerimov,Şahin Emrah,113,18.833333333333332,0.8333333333333334,NA,95.56,4.31,99,NA,NA,0.8619999999999999,5.2566371681415935
+2015,Brazil,6,6,NA,38,7,5,42,14,3,NA,0,3,3,0,Luciano Guimarães Monteiro De Castro,Carlos Yuzo Shine,109,18.166666666666668,1,BRA,48.43,6.24,98.96,NA,NA,1.04,5.447339449541284
+2015,Japan,6,6,NA,42,11,8,38,8,2,NA,0,3,3,0,Takahiko Fujita,Yasuharu Asai,109,18.166666666666668,1,JPN,62.47,3.31,98.59689,East Asia & Pacific,High income: OECD,0.5516666666666666,5.4273517431192655
+2015,United Kingdom,6,6,NA,42,15,3,36,12,1,NA,0,4,1,1,Geoff Smith,Dominic Yeo,109,18.166666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Kazakhstan,6,6,NA,30,14,3,42,16,0,NA,1,1,2,2,Damir Yeliussizov,Anton Vassilyev,105,17.5,0.6666666666666666,KAZ,49.03,3.34,99.60965,Europe & Central Asia,Upper middle income,0.835,5.69198
+2015,Armenia,6,6,NA,39,7,9,42,7,0,NA,0,1,5,0,Tigran Margaryan,Smbat Gogyan,104,17.333333333333332,1,ARM,45.47,2.81,99.60965,Europe & Central Asia,Lower middle income,0.4683333333333333,5.7467105769230775
+2015,Germany,6,6,NA,35,14,3,33,9,8,NA,0,2,3,0,Jürgen Prestin,Eric Müller,102,17,0.8333333333333334,DEU,68.23,4.86,99.60965,Europe & Central Asia,High income: OECD,0.9720000000000001,5.859391176470588
+2015,Hong Kong,6,5,1,41,12,1,23,17,7,NA,0,2,3,1,Ka Ho Law,Chi Hong Chow,101,16.833333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Bulgaria,6,4,2,36,13,9,32,5,5,NA,0,2,1,2,Peter Boyvalenkov,Emil Kolev,100,16.666666666666668,0.5,BGR,78.3,3.91,99.60965,Europe & Central Asia,Upper middle income,1.3033333333333335,5.976579
+2015,Indonesia,6,6,NA,36,5,1,42,16,0,NA,0,2,4,0,Aleams Barra,Budi Surodjo,100,16.666666666666668,1,IDN,33.03,3.58,100,East Asia & Pacific,Lower middle income,0.5966666666666667,6
+2015,Italy,6,6,NA,27,16,15,26,12,4,NA,1,2,0,0,Roberto Dvornicich,Ludovico Pernazza,100,16.666666666666668,0.5,ITA,60.94,4.07,99.60965,Europe & Central Asia,High income: OECD,1.3566666666666667,5.976579
+2015,Serbia,6,4,2,35,11,1,35,18,0,NA,1,1,2,2,Dušan Đukić,Marko Radovanović,100,16.666666666666668,0.6666666666666666,SRB,58.95,NA,99.60965,Europe & Central Asia,Upper middle income,NA,5.976579
+2015,Bangladesh,6,6,NA,32,6,4,42,13,0,NA,0,1,4,1,Mahbubul Alam Majumdar,A A Munir Hasan,97,16.166666666666668,0.8333333333333334,BGD,15.59,1.87,88,NA,NA,0.374,5.443298969072164
+2015,Slovakia,6,6,NA,33,13,0,36,5,10,NA,0,2,3,0,Peter Novotný,Tomáš Jurík,97,16.166666666666668,0.8333333333333334,NA,52.72,4.58,NA,NA,NA,0.916,NA
+2015,Macau,6,6,NA,26,2,3,42,15,0,NA,0,1,2,3,Ieng Tak Leong,Lung Yam Wan,88,14.666666666666666,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Philippines,6,6,NA,35,6,2,35,7,2,NA,0,2,2,1,Jose Ernie Lope,Louie John Vallejo,87,14.5,0.6666666666666666,PHL,38.1,2.83,99,East Asia & Pacific,Lower middle income,0.7075,6.827586206896552
+2015,India,6,5,1,17,23,4,37,5,0,NA,0,1,2,3,Chudamani R. Pranesachar,Rajendra Pawale,86,14.333333333333334,0.5,IND,27.28,4.11,86.96437,South Asia,Lower middle income,1.37,6.067281627906977
+2015,Republic of Moldova,6,6,NA,32,1,8,31,13,0,NA,0,1,2,3,Valeriu Guțu,Valeriu Baltag,85,14.166666666666666,0.5,NA,52.1,5.81,99.60965,Europe & Central Asia,Lower middle income,1.9366666666666665,7.031269411764706
+2015,Belarus,6,6,NA,31,7,2,38,6,0,NA,0,0,3,3,Igor Voronovich,Sergei Mazanik,84,14,0.5,BLR,98.03,4.79,99.60965,Europe & Central Asia,Upper middle income,1.5966666666666667,7.114975
+2015,Israel,6,6,NA,36,14,5,18,9,1,NA,1,0,2,2,Dan Carmon,Amos Onn,83,13.833333333333334,0.5,ISR,60.82,5.8,90.77456,Middle East & North Africa,High income: OECD,1.9333333333333333,6.562016385542168
+2015,Saudi Arabia,6,5,1,25,6,1,39,10,0,NA,0,1,3,2,Fawzi Al-Thukair,Abdulrahman Alguwaizani,81,13.5,0.6666666666666666,SAU,56.55,NA,90.77456,Middle East & North Africa,High income: nonOECD,NA,6.724041481481481
+2015,Georgia,6,6,NA,31,6,1,35,7,0,NA,0,1,3,1,George Chelidze,Givi Nadibaidze,80,13.333333333333334,0.6666666666666666,GEO,51.18,3.16,99.60965,Europe & Central Asia,Lower middle income,0.79,7.470723749999999
+2015,Bosnia and Herzegovina,6,3,3,21,4,3,42,6,0,NA,0,0,2,4,Dina Kamber,Marko Ćitić,76,12.666666666666666,0.3333333333333333,BIH,48.62,3.02,99.60965,Europe & Central Asia,Upper middle income,1.51,7.863919736842106
+2015,Netherlands,6,5,1,35,7,0,29,5,0,NA,0,0,3,1,Quintijn Puite,Birgit van Dalen,76,12.666666666666666,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Czech Republic,6,6,NA,38,5,0,24,7,0,NA,0,0,3,3,Karel Horak,Michal Rolinek,74,12.333333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Mongolia,6,6,NA,23,4,2,35,10,0,NA,0,0,2,4,Bayarmagnai Gombodorj,Otgonbayar Uuye,74,12.333333333333334,0.3333333333333333,MNG,71.43,4.39,98.59689,East Asia & Pacific,Lower middle income,2.195,7.994342432432433
+2015,Switzerland,6,5,1,38,4,0,25,7,0,NA,0,0,3,2,Clemens Pohle,Dimitri Wyss,74,12.333333333333334,0.5,CHE,60.82,5,99.60965,Europe & Central Asia,High income: OECD,1.6666666666666667,8.076458108108108
+2015,Azerbaijan,6,6,NA,12,10,1,42,8,0,NA,0,0,2,4,Fuad Garayev,Elvin Mammadov,73,12.166666666666666,0.3333333333333333,AZE,25.48,2.95,100,Europe & Central Asia,Upper middle income,1.475,8.219178082191782
+2015,Colombia,6,6,NA,32,3,2,31,3,1,NA,0,0,4,0,Maria Elizabeth Losada,Esteban González,72,12,0.6666666666666666,COL,54.8,NA,98.52,Latin America & Caribbean,Upper middle income,NA,8.209999999999999
+2015,New Zealand,6,6,NA,30,1,0,33,8,0,NA,0,0,2,4,Chris Tuffley,Malcolm Granville,72,12,0.3333333333333333,NZL,82.18,5.71,98.59689,East Asia & Pacific,High income: OECD,2.855,8.2164075
+2015,Greece,6,5,1,19,7,1,37,7,0,NA,0,1,2,2,Anargyros Fellouris,Evangelos Zotos,71,11.833333333333334,0.5,GRC,NA,3.66,99.60965,Europe & Central Asia,High income: OECD,1.22,8.41771690140845
+2015,Argentina,6,5,1,33,4,0,29,4,0,NA,0,0,1,4,Patricia Fauring,Martín Mereb,70,11.666666666666666,0.16666666666666666,ARG,83.76,5.78,99.5597,NA,NA,5.78,8.533688571428572
+2015,Portugal,6,6,NA,32,5,1,22,10,0,NA,0,0,3,1,António Salgueiro,Joana Teles,70,11.666666666666666,0.5,PRT,61.86,4.89,99.60965,Europe & Central Asia,High income: OECD,1.63,8.537970000000001
+2015,Syria,6,6,NA,17,4,1,39,8,0,NA,0,1,1,3,Abdullatif Hanano,Imad Fattash,69,11.5,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2015,South Africa,6,6,NA,27,4,0,27,8,2,NA,0,0,1,2,Dirk Basson,Melissa Kistner,68,11.333333333333334,0.16666666666666666,ZAF,18.86,5.48,99,Sub-Saharan Africa,Upper middle income,5.48,8.735294117647058
+2015,Belgium,6,6,NA,31,6,1,18,8,3,NA,0,1,0,3,Bart Windels,Philippe Niederkorn,67,11.166666666666666,0.16666666666666666,BEL,76.42,6.45,NA,NA,NA,6.45,NA
+2015,Malaysia,6,5,1,28,2,1,30,5,0,NA,0,0,3,1,M. Suhaimi Ramly,Nor Sakinah Mohamad,66,11,0.5,MYS,44.87,4.7,98.59689,East Asia & Pacific,Upper middle income,1.5666666666666667,8.963353636363637
+2015,Turkmenistan,6,6,NA,18,3,1,29,13,0,NA,0,0,2,2,Annamurat Gundogdyyev,Orazmammet Annaorazov,64,10.666666666666666,0.3333333333333333,TKM,NA,NA,99.60965,Europe & Central Asia,Upper middle income,NA,9.3384046875
+2015,Uzbekistan,6,6,NA,6,9,1,37,11,0,NA,0,0,3,2,Shukhrat Ismailov,Umid Rakhmonov,64,10.666666666666666,0.5,UZB,8.05,5.49,100,Europe & Central Asia,Lower middle income,1.83,9.375
+2015,Austria,6,6,NA,30,4,0,25,4,0,NA,0,0,3,1,Robert Geretschläger,Heinrich Josef Gstöttner,63,10.5,0.5,AUT,82.26,5.46,99.60965,Europe & Central Asia,High income: OECD,1.82,9.486633333333334
+2015,Sweden,6,5,1,36,2,1,18,6,0,NA,0,0,2,2,Paul Vaderlind,Victor Ufnarovski,63,10.5,0.3333333333333333,SWE,66.43,7.44,99.60965,Europe & Central Asia,High income: OECD,3.72,9.486633333333334
+2015,Algeria,6,6,NA,17,6,2,30,5,0,NA,0,1,1,2,Abed-Seddik Bouchoucha,Ali Atia,60,10,0.3333333333333333,DZA,38.33,6.18,NA,NA,NA,3.09,NA
+2015,Cyprus,6,6,NA,27,1,4,18,8,0,NA,0,1,0,2,Dimitrios Karantanos,Theoklitos Paragyiou,58,9.666666666666666,0.16666666666666666,CYP,60.1,6.3,99.60965,Europe & Central Asia,High income: nonOECD,6.3,10.304446551724139
+2015,Tajikistan,5,5,NA,11,10,2,30,4,0,NA,0,1,1,2,Umed Karimov,Mirzobedil Jamolzoda,57,11.4,0.4,TJK,26.46,4.97,99.60965,Europe & Central Asia,Low income,2.485,8.737688596491228
+2015,Lithuania,6,6,NA,30,3,0,17,4,0,NA,0,0,1,1,Artūras Dubickas,Romualdas Kašuba,54,9,0.16666666666666666,LTU,67.74,4.23,99.60965,Europe & Central Asia,High income: nonOECD,4.23,11.06773888888889
+2015,Norway,6,5,1,29,4,0,14,7,0,NA,0,1,0,2,Dávid Kunszenti-Kovács,Johannes Kleppe,54,9,0.16666666666666666,NOR,79.21,7.52,99.60965,Europe & Central Asia,High income: OECD,7.52,11.06773888888889
+2015,Costa Rica,6,5,1,18,1,0,30,4,0,NA,0,0,2,2,Luis Gómez,Oscar Zamora Luna,53,8.833333333333334,0.3333333333333333,CRI,51.65,6.87,98.30745,Latin America & Caribbean,Upper middle income,3.435,11.129145283018868
+2015,Paraguay,6,6,NA,20,4,0,25,4,0,NA,0,0,3,0,Marcos Martínez Sugastti,Ariel Schvartzman Cohenca,53,8.833333333333334,0.5,PRY,NA,3.33,98.65,Latin America & Caribbean,Lower middle income,1.11,11.167924528301887
+2015,Denmark,6,5,1,23,3,0,23,3,0,NA,0,0,2,1,Kirsten Rosenkilde,Asbjørn Christian Nordentoft,52,8.666666666666666,0.3333333333333333,DNK,83.3,7.01,99.60965,Europe & Central Asia,High income: OECD,3.505,11.493421153846155
+2015,Estonia,6,5,1,28,1,0,14,7,1,NA,0,0,1,3,Urve Kangro,Oleg Košik,51,8.5,0.16666666666666666,EST,74.58,5.14,99.60965,Europe & Central Asia,High income: OECD,5.14,11.718782352941176
+2015,Sri Lanka,6,5,1,15,0,1,30,5,0,NA,0,0,0,4,Dayal Buddhika Dharmasena,Thameera Priyadarshi Senanayaka,51,8.5,0,LKA,18.69,2.11,NA,NA,NA,NA,NA
+2015,Spain,6,5,1,27,1,0,15,4,0,NA,0,0,1,2,María Gaspar,Marco Castrillón,47,7.833333333333333,0.16666666666666666,ESP,88.57,4.28,100,NA,NA,4.28,12.76595744680851
+2015,Slovenia,6,6,NA,30,1,0,14,1,0,NA,0,0,1,1,Gregor Dolinar,Matej Aleksandrov,46,7.666666666666667,0.16666666666666666,SVN,82.2,4.91,99.60965,Europe & Central Asia,High income: OECD,4.91,12.992563043478262
+2015,North Macedonia,6,5,1,12,1,2,24,6,0,NA,0,0,1,1,Vesna Manova-Erakovikj,Alekso Malcheski,45,7.5,0.16666666666666666,MKD,42.08,NA,NA,NA,NA,NA,NA
+2015,Iceland,6,6,NA,19,2,0,19,1,0,NA,0,0,0,3,Marteinn Þór Harðarson,Jóhanna Katrín Eggertsdóttir,41,6.833333333333333,0,ISL,75.64,7.46,99.60965,Europe & Central Asia,High income: OECD,NA,14.577021951219512
+2015,Tunisia,4,4,NA,16,1,1,18,5,0,NA,0,0,1,2,NA,Ali Rahmouni,41,10.25,0.25,TUN,33.06,6.22,90.77456,Middle East & North Africa,Upper middle income,6.22,8.856054634146341
+2015,Albania,6,4,2,7,2,1,23,4,0,NA,0,0,0,3,Adrian Naço,Fatos Kopliku,37,6.166666666666667,0,ALB,61.96,3.44,99.60965,Europe & Central Asia,Upper middle income,NA,16.152916216216216
+2015,Ireland,6,4,2,12,2,0,19,4,0,NA,0,0,0,3,Mark Flanagan,Gordon Lessells,37,6.166666666666667,0,IRL,77.23,3.75,99.60965,Europe & Central Asia,High income: OECD,NA,16.152916216216216
+2015,Latvia,6,5,1,20,1,0,11,4,0,NA,0,0,0,3,Jevgēnijs Vihrovs,Juris Škuškovniks,36,6,0,LVA,74.3,5.28,99.60965,Europe & Central Asia,High income: nonOECD,NA,16.601608333333335
+2015,Ecuador,6,4,2,7,2,0,16,2,0,NA,0,0,0,2,Julio Rivera,Alfredo Sánchez,27,4.5,0,ECU,44.54,5.11,97.25,Latin America & Caribbean,Upper middle income,NA,21.61111111111111
+2015,Morocco,6,6,NA,6,1,1,11,8,0,NA,0,0,0,1,Mohamed Berraho,Abdellatif Zerouale,27,4.5,0,MAR,28.7,5.13,90.77456,Middle East & North Africa,Lower middle income,NA,20.172124444444442
+2015,Finland,6,4,2,17,0,0,8,1,0,NA,0,0,0,1,Matti Lehtinen,Joni Teräväinen,26,4.333333333333333,0,FIN,89.66,7.03,99.60965,Europe & Central Asia,High income: OECD,NA,22.98684230769231
+2015,Nicaragua,3,3,NA,1,1,1,21,2,0,NA,0,0,0,3,Nelson Miranda,Carlos Walsh,26,8.666666666666666,0,NIC,17.34,4.08,91.57,Latin America & Caribbean,Lower middle income,NA,10.56576923076923
+2015,Trinidad and Tobago,4,4,NA,11,4,0,9,2,0,NA,0,1,0,0,Indra Haraksingh,Jagdesh Ramnanan,26,6.5,0.25,TTO,NA,4.45,98.30745,Latin America & Caribbean,High income: nonOECD,4.45,15.124223076923077
+2015,Pakistan,6,5,1,7,3,0,13,2,0,NA,0,0,1,0,Sarfraz Ahmad,Sana Javed,25,4.166666666666667,0.16666666666666666,PAK,8.61,2.39,86.96437,South Asia,Lower middle income,2.39,20.8714488
+2015,Cambodia,6,5,1,1,0,1,20,2,0,NA,0,0,0,2,Lin Sok,Sovann Suon,24,4,0,KHM,14.65,1.7,92,NA,NA,NA,23
+2015,Kosovo,6,5,1,6,2,0,10,6,0,NA,0,0,0,1,Ramadan Limani,Güven Gokceoglu,24,4,0,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Nigeria,6,5,1,4,1,1,14,2,0,NA,0,0,0,2,Adewale Roland Tunde Solarin,Pius Aje Onah,22,3.6666666666666665,0,NGA,NA,0.44,74.40408,Sub-Saharan Africa,Lower middle income,NA,20.292021818181816
+2015,Montenegro,3,2,1,7,2,0,7,3,0,NA,0,0,1,0,Zana Kovijanic-Vukicevic,Gojko Jelovac,19,6.333333333333333,0.3333333333333333,MNE,63.94,NA,99.60965,Europe & Central Asia,Upper middle income,NA,15.727839473684211
+2015,Liechtenstein,1,1,NA,7,2,0,7,2,0,NA,0,0,1,0,Alain Rossier,Jana Cslovjecsek,18,18,1,LIE,33.54,NA,99.60965,Europe & Central Asia,High income: nonOECD,NA,5.533869444444445
+2015,Puerto Rico,3,2,1,8,0,0,10,0,0,NA,0,0,1,0,Luis Fernando Cáceres Duque,Omar Colón Reyes,18,6,0.3333333333333333,PRI,98.27,NA,98.30745,Latin America & Caribbean,High income: nonOECD,NA,16.384575
+2015,Kyrgyzstan,6,6,NA,1,2,1,11,2,0,NA,0,0,0,0,Saltanat Saparalieva,Asel Abdyldaeva,17,2.8333333333333335,0,NA,44.67,6.97,99.60965,Europe & Central Asia,Lower middle income,NA,35.15634705882353
+2015,Uruguay,6,5,1,7,0,0,8,1,0,NA,0,0,0,1,Ismael Valentín Rodríguez Brena,Nicolás Uviedo Saavedra,16,2.6666666666666665,0,URY,57.79,4.21,98.93,NA,NA,NA,37.09875
+2015,Cuba,1,1,NA,7,0,0,7,1,0,NA,0,0,1,0,Eduardo Miguel Pérez Almarales,NA,15,15,1,CUB,36.22,8.96,98.30745,Latin America & Caribbean,Upper middle income,8.96,6.5538300000000005
+2015,El Salvador,4,4,NA,2,2,1,2,7,0,NA,0,0,0,0,Ernesto Americo Hidalgo Castellanos,Jeanette Alejandra Fernández Rivera,14,3.5,0,SLV,27.21,3.91,97.95,Latin America & Caribbean,Lower middle income,NA,27.985714285714288
+2015,Venezuela,2,2,NA,2,0,0,10,1,0,NA,0,0,0,1,Rafael Sánchez,Sofía Taylor,13,6.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Chile,2,2,NA,2,1,0,9,0,0,NA,0,0,0,1,Hernan Burgos,Victor Cortes,12,6,0,CHL,86.42,4.9,99.36,Latin America & Caribbean,High income: OECD,NA,16.56
+2015,Luxembourg,2,1,1,2,0,0,9,1,0,NA,0,0,0,1,Charles Leytem,Mike Dostert,12,6,0,LUX,20.29,3.77,99.60965,Europe & Central Asia,High income: OECD,NA,16.601608333333335
+2015,Panama,3,3,NA,2,0,1,4,2,0,NA,0,0,0,0,Jaime Gutierrez,NA,9,3,0,PAN,47.93,3.37,98.24,Latin America & Caribbean,Upper middle income,NA,32.74666666666666
+2015,Uganda,5,4,1,0,0,0,6,0,0,NA,0,0,0,0,Jasper Okello,Assumpta Kasamba Namuddu,6,1.2,0,UGA,4.92,2.32,74.40408,Sub-Saharan Africa,Low income,NA,62.0034
+2015,Bolivia,5,4,1,1,1,0,3,0,0,NA,0,0,0,0,Sonia Ximena Nivia Cordero Cárdenas,NA,5,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Ghana,5,3,2,1,0,0,4,0,0,NA,0,0,0,0,Joel M. Dogoe,Selorm Yao Ohene,5,1,0,GHA,15.73,3.69,74.40408,Sub-Saharan Africa,Lower middle income,NA,74.40408
+2015,Botswana,6,5,1,0,0,0,1,0,0,NA,0,0,0,0,Mmoloki Lekhutlile,Mathews Masole,1,0.16666666666666666,0,BWA,27.17,8.39,74.40408,Sub-Saharan Africa,Upper middle income,NA,446.42447999999996
+2015,Tanzania,3,3,NA,0,0,0,0,0,0,NA,0,0,0,0,Ertugrul Tarhan,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+2014,People's Republic of China,6,6,NA,42,42,16,42,35,24,NA,5,1,0,0,Yijun Yao,Qiusheng Li,201,33.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2014,United States of America,6,6,NA,42,40,23,42,31,15,NA,5,1,0,0,Po-Shen Loh,Razvan Gelca,193,32.166666666666664,1,NA,88.63,6.13,NA,North America,High income: OECD,1.0216666666666667,NA
+2014,Taiwan,6,6,NA,42,38,28,42,29,13,NA,4,0,2,0,Yen-Chi Roger Lin,John Meng Kai Hong,192,32,1,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Russian Federation,6,6,NA,42,40,29,42,24,14,NA,3,3,0,0,Nazar Agakhanov,Dmitry Tereshin,191,31.833333333333332,1,RUS,84.52,4.01,99.59408,Europe & Central Asia,High income: nonOECD,0.6683333333333333,3.1286098429319376
+2014,Japan,6,6,NA,38,36,9,37,37,20,NA,4,1,1,0,Takahiko Fujita,Yasuharu Asai,177,29.5,1,JPN,62.73,3.42,98.54473,East Asia & Pacific,High income: OECD,0.57,3.3404993220338985
+2014,Ukraine,6,4,2,42,38,8,42,35,10,NA,2,3,1,0,Bogdan Rublov,Andrii Pankov,175,29.166666666666668,1,UKR,83.78,5.87,99.59408,Europe & Central Asia,Lower middle income,0.9783333333333334,3.4146541714285714
+2014,Republic of Korea,6,6,NA,42,29,23,42,27,9,NA,2,4,0,0,Yongjin Song,Sang-Hyun Kim,172,28.666666666666668,1,NA,94.44,NA,98.54473,East Asia & Pacific,High income: OECD,NA,3.437606860465116
+2014,Singapore,6,6,NA,41,38,6,42,29,5,NA,3,2,1,0,Yan Loi Wong,Shang-Yi Lu,161,26.833333333333332,1,SGP,NA,2.92,100,East Asia & Pacific,High income: nonOECD,0.48666666666666664,3.726708074534162
+2014,Canada,6,6,NA,41,37,6,38,24,13,NA,2,1,3,0,David Arthur,Dorette Pronk,159,26.5,1,CAN,67.23,4.84,NA,North America,High income: OECD,0.8066666666666666,NA
+2014,Vietnam,6,5,1,38,32,23,42,19,3,NA,3,2,1,0,Bá Khánh Trình Lê,Anh Vinh Lê,157,26.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Australia,6,6,NA,42,31,7,42,27,7,NA,1,3,2,0,Angelo Di Pasquale,Andrew Elvey Price,156,26,1,AUS,NA,5.44,NA,NA,NA,0.9066666666666667,NA
+2014,Romania,6,5,1,41,40,9,42,22,2,NA,1,5,0,0,Radu Gologan,Bogdan Enescu,156,26,1,ROU,51.1,3.13,99.59408,Europe & Central Asia,Upper middle income,0.5216666666666666,3.8305415384615387
+2014,Netherlands,6,5,1,40,35,1,34,32,13,NA,3,2,1,0,Quintijn Puite,Birgit van Dalen,155,25.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Democratic People's Republic of Korea,6,6,NA,42,30,7,42,28,5,NA,1,4,0,1,Yong Chol Ham,Ryong Gol Yom,154,25.666666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Hungary,6,6,NA,42,42,6,39,18,6,NA,1,4,1,0,József Pelikán,Sándor Dobos,153,25.5,1,HUN,52.82,4.6,98.8,Europe & Central Asia,Upper middle income,0.7666666666666666,3.8745098039215686
+2014,Germany,6,6,NA,42,33,8,40,22,7,NA,0,6,0,0,Hans-Dietrich Gronau,Eric Müller,152,25.333333333333332,1,DEU,65.18,4.92,99.59408,Europe & Central Asia,High income: OECD,0.82,3.9313452631578953
+2014,Türkiye,6,6,NA,42,28,11,42,21,3,NA,1,3,2,0,Azer Kerimov,Selim Bahadır,147,24.5,1,NA,87,4.41,99,NA,NA,0.735,4.040816326530612
+2014,Hong Kong,6,5,1,42,37,0,36,28,0,NA,0,4,2,0,Tat Wing Leung,Tak Wing Ching,143,23.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Israel,6,6,NA,42,39,1,37,22,2,NA,0,5,1,0,Lev Radzivilovsky,Amos Onn,143,23.833333333333332,1,ISR,62.11,5.7,93.93317,Middle East & North Africa,High income: OECD,0.9500000000000001,3.9412518881118883
+2014,United Kingdom,6,6,NA,40,35,1,42,24,0,NA,0,4,2,0,Geoff Smith,Dominic Yeo,142,23.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Islamic Republic of Iran,6,5,1,42,27,2,42,18,0,NA,0,4,2,0,Arash Rastegar,Mir Omid Haji Mirsadeghi,131,21.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Thailand,6,6,NA,42,31,5,42,9,2,NA,0,4,2,0,Wicharn Lewkeeratiyutkul,Khamron Mekchay,131,21.833333333333332,1,THA,49.76,3.92,NA,NA,NA,0.6533333333333333,NA
+2014,Kazakhstan,6,6,NA,42,20,1,42,24,0,NA,1,1,4,0,Damir Yeliussizov,Anton Vassilyev,129,21.5,1,KAZ,51.71,3.43,99.59408,Europe & Central Asia,Upper middle income,0.5716666666666667,4.6322827906976745
+2014,Malaysia,6,6,NA,42,32,8,37,10,0,NA,2,1,1,2,M. Suhaimi Ramly,Irwan Iqbal Ihsanuddin,129,21.5,0.6666666666666666,MYS,38.68,5.03,98.54473,East Asia & Pacific,Upper middle income,1.2575,4.583475813953489
+2014,Serbia,6,5,1,39,33,7,42,8,0,NA,1,3,2,0,Dušan Đukić,Marko Radovanović,129,21.5,1,SRB,58.37,NA,99.59408,Europe & Central Asia,Upper middle income,NA,4.6322827906976745
+2014,Italy,6,6,NA,41,27,9,33,11,7,NA,1,2,1,1,Roberto Dvornicich,Federico Poloni,128,21.333333333333332,0.6666666666666666,ITA,60.88,4.06,99.59408,Europe & Central Asia,High income: OECD,1.015,4.668472500000001
+2014,Mexico,6,6,NA,42,31,2,41,12,0,NA,0,4,1,1,Leonardo Ignacio Martínez Sandoval,David Cossio Ruiz,128,21.333333333333332,0.8333333333333334,MEX,31.21,5.07,98.65,NA,NA,1.014,4.624218750000001
+2014,Poland,6,6,NA,41,31,5,42,8,1,NA,1,0,4,1,Michał Pilipczuk,Andrzej Grzesik,128,21.333333333333332,0.8333333333333334,POL,70.24,4.97,99.59408,Europe & Central Asia,High income: OECD,0.994,4.668472500000001
+2014,Croatia,6,5,1,42,30,1,42,11,0,NA,1,2,2,1,Mea Bombardelli,Tonći Kokan,126,21,0.8333333333333334,HRV,68.64,5.18,99.59408,Europe & Central Asia,High income: nonOECD,1.036,4.742575238095238
+2014,Indonesia,6,5,1,40,30,0,42,14,0,NA,0,2,3,1,Alhaji Akbar Bachtiar,Yudi Satria,126,21,0.8333333333333334,IDN,30.53,3.29,100,East Asia & Pacific,Lower middle income,0.658,4.761904761904762
+2014,Peru,6,6,NA,42,28,7,42,7,0,NA,0,1,5,0,Jesús Zapata Samanez,Claudio Espinoza Choqquepura,126,21,1,PER,NA,3.7,98.99,Latin America & Caribbean,Upper middle income,0.6166666666666667,4.713809523809523
+2014,Czech Republic,6,6,NA,37,34,0,42,11,0,NA,0,1,5,0,Jaromír Šimša,Jaroslav Švrček,124,20.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Portugal,6,6,NA,42,24,1,37,18,1,NA,0,2,3,1,António Salgueiro,João M. Pereira,123,20.5,0.8333333333333334,PRT,NA,5.12,99.59408,Europe & Central Asia,High income: OECD,1.024,4.858247804878049
+2014,Belarus,6,6,NA,42,21,0,42,14,3,NA,1,1,3,1,Igor Voronovich,Sergei Mazanik,122,20.333333333333332,0.8333333333333334,BLR,99.85,4.82,99.59408,Europe & Central Asia,Upper middle income,0.9640000000000001,4.898069508196722
+2014,Brazil,6,6,NA,41,24,1,42,11,3,NA,0,3,2,1,Onofre Campos Da Silva Farias,Samuel Barbosa Feitosa,122,20.333333333333332,0.8333333333333334,BRA,47.16,5.95,98.85,NA,NA,1.19,4.861475409836066
+2014,Slovakia,6,5,1,39,29,1,42,11,0,NA,0,1,5,0,Peter Novotný,Filip Sládek,122,20.333333333333332,1,NA,53.88,4.22,NA,NA,NA,0.7033333333333333,NA
+2014,Bulgaria,6,4,2,39,25,2,42,12,0,NA,0,3,1,2,Peter Boyvalenkov,Stoyan Boev,120,20,0.6666666666666666,BGR,72.98,4.07,99.59408,Europe & Central Asia,Upper middle income,1.0175,4.979704
+2014,Switzerland,6,5,1,42,21,0,35,16,0,NA,0,2,4,0,Raphael Steiner,Dimitri Wyss,114,19,1,CHE,58.07,4.93,99.59408,Europe & Central Asia,High income: OECD,0.8216666666666667,5.241793684210527
+2014,Armenia,6,6,NA,42,20,2,36,10,0,NA,0,2,1,3,Tigran Margaryan,Smbat Gogyan,110,18.333333333333332,0.5,ARM,44.41,2.25,99.59408,Europe & Central Asia,Lower middle income,0.75,5.432404363636365
+2014,India,6,6,NA,36,17,2,42,11,2,NA,0,1,3,2,Venkatachala Belur Jana,Kiran Hanumant Barve,110,18.333333333333332,0.6666666666666666,IND,25.99,3.9,85.98569,South Asia,Lower middle income,0.975,4.690128545454546
+2014,Greece,6,5,1,38,18,0,36,17,0,NA,0,2,2,2,Anargyros Fellouris,Evangelos Zotos,109,18.166666666666668,0.6666666666666666,GRC,119.1,4.32,99.59408,Europe & Central Asia,High income: OECD,1.08,5.482242935779817
+2014,Lithuania,6,6,NA,40,17,1,36,10,0,NA,0,1,3,2,Artūras Dubickas,Romualdas Kašuba,104,17.333333333333332,0.6666666666666666,LTU,68.9,4.49,99.59408,Europe & Central Asia,High income: nonOECD,1.1225,5.745812307692308
+2014,Saudi Arabia,6,5,1,41,23,1,37,1,0,NA,0,0,4,2,Fawzi Al-Thukair,Najla Altwaijry,103,17.166666666666668,0.6666666666666666,SAU,51.21,NA,93.93317,Middle East & North Africa,High income: nonOECD,NA,5.471835145631068
+2014,Mongolia,6,6,NA,39,12,0,42,9,0,NA,0,0,5,1,Dashdorj Tserendorj,Bayasgalan Banzragch,102,17,0.8333333333333334,MNG,66.93,5.43,98.54473,East Asia & Pacific,Lower middle income,1.0859999999999999,5.796748823529412
+2014,France,6,5,1,39,15,0,36,6,0,NA,0,1,4,0,Pierre Bornsztein,Vincent Jugé,96,16,0.8333333333333334,FRA,61.51,5.49,99.59408,Europe & Central Asia,High income: OECD,1.098,6.22463
+2014,Philippines,6,5,1,34,15,0,41,6,0,NA,0,1,3,2,Jose Ernie Lope,Joseph Ray Clarence Damasco,96,16,0.6666666666666666,PHL,35.96,2.66,98.54473,East Asia & Pacific,Lower middle income,0.665,6.159045625
+2014,Georgia,6,6,NA,39,17,0,24,12,0,NA,0,1,2,2,George Chelidze,Givi Nadibaidze,92,15.333333333333334,0.5,GEO,45.77,3,100,Europe & Central Asia,Lower middle income,1,6.521739130434782
+2014,Republic of Moldova,6,6,NA,40,15,1,28,6,0,NA,0,0,2,3,Valeriu Baltag,Valeriu Guțu,90,15,0.3333333333333333,NA,52.15,6.34,100,Europe & Central Asia,Lower middle income,3.17,6.666666666666667
+2014,Spain,6,6,NA,29,22,0,36,3,0,NA,0,0,3,2,María Gaspar,Víctor González,90,15,0.5,ESP,88,4.3,100,NA,NA,1.4333333333333333,6.666666666666667
+2014,Tajikistan,6,6,NA,39,6,0,42,2,0,NA,0,0,2,4,Umed Karimov,Yusuf Balkash,89,14.833333333333334,0.3333333333333333,TJK,24.48,5.59,99.9,Europe & Central Asia,Low income,2.795,6.734831460674157
+2014,Austria,6,6,NA,33,17,1,31,4,0,NA,0,1,1,3,Robert Geretschläger,Heinrich Josef Gstöttner,86,14.333333333333334,0.3333333333333333,AUT,81.02,5.45,99.59408,Europe & Central Asia,High income: OECD,2.725,6.948424186046512
+2014,Bosnia and Herzegovina,6,3,3,35,6,0,36,9,0,NA,0,1,0,4,Jelena Radović,Dina Kamber,86,14.333333333333334,0.16666666666666666,BIH,48.99,3.31,99.59408,Europe & Central Asia,Upper middle income,3.31,6.948424186046512
+2014,Bangladesh,6,6,NA,38,6,0,36,4,0,NA,0,1,1,4,Mahbubul Alam Majumdar,A A Munir Hasan,84,14,0.3333333333333333,BGD,13.65,2.1,86,NA,NA,1.05,6.142857142857143
+2014,Colombia,6,6,NA,34,0,1,37,10,0,NA,0,1,1,3,Maria Elizabeth Losada,Esteban González,82,13.666666666666666,0.3333333333333333,COL,53.18,NA,98.53,Latin America & Caribbean,Upper middle income,NA,7.209512195121952
+2014,Sri Lanka,6,6,NA,38,7,0,33,4,0,NA,0,0,2,4,Dayal Buddhika Dharmasena,Isuru Dilanka Fernando,82,13.666666666666666,0.3333333333333333,LKA,18.17,1.86,NA,NA,NA,0.93,NA
+2014,Argentina,6,6,NA,41,10,0,28,2,0,NA,0,0,2,4,Patricia Fauring,Ramiro Lafuente,81,13.5,0.3333333333333333,ARG,81.17,5.36,99.29671,NA,NA,2.68,7.3553118518518525
+2014,Sweden,6,4,2,37,17,0,19,7,0,NA,0,0,2,4,Paul Vaderlind,Victor Ufnarovski,80,13.333333333333334,0.3333333333333333,SWE,64.95,7.57,99.59408,Europe & Central Asia,High income: OECD,3.785,7.469556
+2014,Slovenia,6,5,1,38,6,0,32,2,0,NA,0,0,2,3,Gregor Dolinar,Matej Aleksandrov,78,13,0.3333333333333333,SVN,84.38,5.29,99.8,Europe & Central Asia,High income: OECD,2.645,7.676923076923076
+2014,Belgium,6,6,NA,39,7,0,27,4,0,NA,0,1,0,5,Bart Windels,Philippe Niederkorn,77,12.833333333333334,0.16666666666666666,BEL,74.04,6.59,NA,NA,NA,6.59,NA
+2014,New Zealand,6,6,NA,37,8,0,26,5,0,NA,0,1,1,3,Chris Tuffley,Malcolm Granville,76,12.666666666666666,0.3333333333333333,NZL,80.71,5.81,98.54473,East Asia & Pacific,High income: OECD,2.905,7.779847105263158
+2014,Azerbaijan,6,6,NA,31,0,0,42,2,0,NA,0,0,1,5,Fuad Garayev,Elvin Mammadov,75,12.5,0.16666666666666666,AZE,23.16,2.63,100,Europe & Central Asia,Upper middle income,2.63,8
+2014,Macau,6,6,NA,41,8,0,24,1,0,NA,0,0,2,4,Ieng Tak Leong,Lung Yam Wan,74,12.333333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Costa Rica,6,5,1,36,9,0,25,2,0,NA,0,0,1,4,David Jiménez,Oscar Arguedas Leiva,72,12,0.16666666666666666,CRI,50.76,6.68,98.23397,Latin America & Caribbean,Upper middle income,6.68,8.186164166666666
+2014,Ireland,6,5,1,37,6,0,23,1,0,NA,0,0,0,6,Bernd Kreussler,Gordon Lessells,67,11.166666666666666,0,IRL,73.81,4.87,99.59408,Europe & Central Asia,High income: OECD,NA,8.918872835820897
+2014,South Africa,6,6,NA,37,11,0,18,1,0,NA,0,0,1,4,Dirk Basson,Melissa Kistner,67,11.166666666666666,0.16666666666666666,ZAF,18.14,5.49,99,Sub-Saharan Africa,Upper middle income,5.49,8.865671641791046
+2014,Latvia,6,4,2,24,12,0,19,9,0,NA,0,1,1,1,Jevgēnijs Vihrovs,Juris Škuškovniks,64,10.666666666666666,0.3333333333333333,LVA,70.9,5.28,99.59408,Europe & Central Asia,High income: nonOECD,2.64,9.336945000000002
+2014,Denmark,6,5,1,17,19,0,26,0,0,NA,0,0,2,1,Kirsten Rosenkilde,Jan Agentoft Nielsen,62,10.333333333333334,0.3333333333333333,DNK,81.31,7.63,99.59408,Europe & Central Asia,High income: OECD,3.815,9.638136774193548
+2014,North Macedonia,6,5,1,24,5,0,29,4,0,NA,0,0,1,3,Vesna Manova-Erakovik,Alekso Malcheski,62,10.333333333333334,0.16666666666666666,MKD,39.32,NA,98.6,NA,NA,NA,9.541935483870967
+2014,Norway,6,5,1,26,7,0,23,5,0,NA,0,1,0,2,Dávid Kunszenti-Kovács,Johannes Kleppe,61,10.166666666666666,0.16666666666666666,NOR,78.24,7.64,99.59408,Europe & Central Asia,High income: OECD,7.64,9.796139016393443
+2014,Finland,6,4,2,35,8,0,7,9,0,NA,0,0,1,2,Matti Lehtinen,Joni Teräväinen,59,9.833333333333334,0.16666666666666666,FIN,89.99,7.1,99.59408,Europe & Central Asia,High income: OECD,7.1,10.128211525423728
+2014,Paraguay,6,6,NA,28,6,0,19,3,0,NA,0,0,1,2,Carlos Sauer,Marcos Martínez Sugastti,56,9.333333333333334,0.16666666666666666,PRY,NA,2.6,98.71,Latin America & Caribbean,Lower middle income,2.6,10.576071428571428
+2014,Cyprus,6,5,1,27,0,0,26,0,0,NA,0,0,0,3,Dimitrios Karantanos,Theoklitos Paragyiou,53,8.833333333333334,0,CYP,53.1,6.42,99.59408,Europe & Central Asia,High income: nonOECD,NA,11.274801509433962
+2014,Syria,6,6,NA,21,0,0,31,1,0,NA,0,0,0,4,Abdullatif Hanano,Mohamad Firas Alhalabi,53,8.833333333333334,0,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Estonia,6,5,1,24,4,0,20,4,0,NA,0,0,0,3,Härmel Nestra,Heiki Niglas,52,8.666666666666666,0,EST,76.2,4.39,99.59408,Europe & Central Asia,High income: OECD,NA,11.491624615384616
+2014,Pakistan,6,6,NA,14,10,0,26,0,0,NA,0,0,1,1,Barbu Rudolf Berceanu,Syed Waqar Ali Shah,50,8.333333333333334,0.16666666666666666,PAK,8.93,2.2,73,South Asia,Lower middle income,2.2,8.76
+2014,Iceland,6,6,NA,13,15,0,18,1,0,NA,0,0,1,1,Marteinn Þór Harðarson,Jóhanna Katrín Eggertsdóttir,47,7.833333333333333,0.16666666666666666,ISL,80.4,7.64,99.59408,Europe & Central Asia,High income: OECD,7.64,12.714137872340427
+2014,Albania,5,3,2,21,0,0,25,0,0,NA,0,0,0,3,Adrian Naço,Fatos Kopliku,46,9.2,0,ALB,65.55,3.22,99.59408,Europe & Central Asia,Upper middle income,NA,10.82544347826087
+2014,Morocco,6,6,NA,27,0,0,16,0,0,NA,0,0,0,4,Mohamed Berraho,Abdellatif Zerouale,43,7.166666666666667,0,MAR,25.45,5.48,93.93317,Middle East & North Africa,Lower middle income,NA,13.106953953488372
+2014,Luxembourg,3,2,1,16,10,0,15,0,0,NA,0,0,1,2,Charles Leytem,Mike Dostert,41,13.666666666666666,0.3333333333333333,LUX,NA,3.86,99.59408,Europe & Central Asia,High income: OECD,3.86,7.287371707317074
+2014,Tunisia,6,4,2,7,4,0,24,2,0,NA,0,0,0,3,Taoufik Charrada,Mohsen Ben Ahmed Ben Abdallah,37,6.166666666666667,0,TUN,33.08,NA,96,Middle East & North Africa,Upper middle income,NA,15.567567567567567
+2014,Chile,4,4,NA,14,7,0,9,3,0,NA,0,0,1,1,Hernan Burgos,Victor Cortes,33,8.25,0.25,CHL,83.66,4.75,98.23397,Latin America & Caribbean,High income: OECD,4.75,11.907147878787878
+2014,Nigeria,6,6,NA,10,3,0,19,0,0,NA,0,0,1,1,Adewale Roland Tunde Solarin,Olusola Adeniran,32,5.333333333333333,0.16666666666666666,NGA,NA,0.47,73.82434,Sub-Saharan Africa,Lower middle income,0.47,13.842063750000001
+2014,Trinidad and Tobago,5,4,1,10,8,0,13,1,0,NA,0,0,1,0,Indra Haraksingh,Jagdesh Ramnanan,32,6.4,0.2,TTO,NA,3.62,98.23397,Latin America & Caribbean,High income: nonOECD,3.62,15.3490578125
+2014,Uruguay,6,6,NA,15,3,0,12,1,0,NA,0,0,0,3,Ismael Valentín Rodríguez Brena,Maximiliano Stock Lorenzo,31,5.166666666666667,0,URY,59.83,4.27,98.84,NA,NA,NA,19.13032258064516
+2014,Kyrgyzstan,6,5,1,4,2,0,23,0,0,NA,0,0,0,3,Kayratbek Duyshokov,NA,29,4.833333333333333,0,NA,44.06,6.47,99.59408,Europe & Central Asia,Lower middle income,NA,20.605671724137935
+2014,Venezuela,2,2,NA,10,0,0,14,0,0,NA,0,0,0,2,Rafael Sánchez,Sofía Taylor,24,12,0,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Liechtenstein,1,1,NA,7,6,0,7,2,0,NA,0,1,0,0,Clemens Pohle,Cyril Jonas Frei,22,22,1,LIE,37.49,NA,99.59408,Europe & Central Asia,High income: nonOECD,NA,4.527003636363637
+2014,Montenegro,3,NA,3,12,0,0,9,0,0,NA,0,0,0,2,Zana Kovijanic-Vukicevic,Gojko Jelovac,21,7,0,MNE,63.22,NA,99.59408,Europe & Central Asia,Upper middle income,NA,14.227725714285715
+2014,Burkina Faso,6,5,1,5,0,0,13,1,0,NA,0,0,0,1,Victor Barry,Ouédraogo Seny,19,3.1666666666666665,0,BFA,4.92,4.05,50,Sub-Saharan Africa,Low income,NA,15.789473684210527
+2014,Ecuador,6,5,1,1,1,0,17,0,0,NA,0,0,0,2,Jorge Chamaidan,Rubén Mauricio Villacís Infante,19,3.1666666666666665,0,ECU,NA,5.21,97.27,Latin America & Caribbean,Upper middle income,NA,30.716842105263158
+2014,Puerto Rico,2,NA,2,3,0,0,9,0,0,NA,0,0,0,1,Luis Fernando Cáceres Duque,Juan Ariel Ortiz-Navarro,12,6,0,PRI,94.02,6.07,98.23397,Latin America & Caribbean,High income: nonOECD,NA,16.372328333333332
+2014,Cuba,1,1,NA,1,1,0,7,1,0,NA,0,0,0,1,Enech Juan García Martínez,NA,10,10,0,CUB,40.51,9.61,98.23397,Latin America & Caribbean,Upper middle income,NA,9.823397
+2014,Panama,1,1,NA,7,0,0,0,0,0,NA,0,0,0,1,Jaime Gutierrez,NA,7,7,0,PAN,44.97,3.17,98.01,Latin America & Caribbean,Upper middle income,NA,14.001428571428573
+2014,Bolivia,6,5,1,0,0,0,5,0,0,NA,0,0,0,0,Jaime Manuel Rojas Claure,NA,5,0.8333333333333334,0,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Uganda,4,3,1,1,0,0,4,0,0,NA,0,0,0,0,Jasper Okello,Assumpta Kasamba Namuddu,5,1.25,0,UGA,4.57,1.91,73.82434,Sub-Saharan Africa,Low income,NA,59.05947200000001
+2014,Zimbabwe,6,6,NA,1,0,0,4,0,0,NA,0,0,0,0,Gift Tapedzesa,Gerald Nqobile Mpitanyanga,5,0.8333333333333334,0,ZWE,NA,6.14,90.43,Sub-Saharan Africa,Low income,NA,108.516
+2014,Ivory Coast,6,4,2,0,0,0,3,0,0,NA,0,0,0,0,Adama Coulibaly,Aboubacar Camara,3,0.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Benin,3,2,1,0,0,0,2,0,0,NA,0,0,0,0,Gérard Olobyi Akindes,Ibitobi Victorin Abattan,2,0.6666666666666666,0,BEN,15.2,3.16,73.82434,Sub-Saharan Africa,Low income,NA,110.73651000000001
+2014,Tanzania,3,3,NA,0,0,0,2,0,0,NA,0,0,0,0,Ertugrul Tarhan,NA,2,0.6666666666666666,0,NA,NA,NA,NA,NA,NA,NA,NA
+2014,Gambia,6,5,1,0,0,0,1,0,0,NA,0,0,0,0,Kolapo I. Abdul,Adama Jimba Jobe,1,0.16666666666666666,0,NA,NA,2.22,73.82434,Sub-Saharan Africa,Low income,NA,442.94604000000004
+2014,Ghana,1,NA,1,0,0,0,0,0,0,NA,0,0,0,0,Joel Mawuenyega Dogoe,Samuel Anang Ala,0,0,0,GHA,15.21,3.68,87.6,Sub-Saharan Africa,Lower middle income,NA,NA
+2013,People's Republic of China,6,6,NA,42,38,30,41,42,15,NA,5,1,0,0,Bin Xiong,Qiusheng Li,208,34.666666666666664,1,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Republic of Korea,6,6,NA,42,38,26,42,36,20,NA,5,1,0,0,Yongjin Song,Cheol Hyun Cho,204,34,1,NA,96.34,NA,98.31574,East Asia & Pacific,High income: OECD,NA,2.891639411764706
+2013,United States of America,6,6,NA,42,35,14,42,40,17,NA,4,2,0,0,Zuming Feng,Po-Shen Loh,190,31.666666666666668,1,NA,88.73,6.23,NA,North America,High income: OECD,1.0383333333333333,NA
+2013,Russian Federation,6,6,NA,42,34,16,42,40,13,NA,4,2,0,0,Nazar Agakhanov,Dmitry Tereshin,187,31.166666666666668,1,RUS,82.8,3.76,99.56687,Europe & Central Asia,High income: nonOECD,0.6266666666666666,3.194658930481283
+2013,Democratic People's Republic of Korea,6,6,NA,42,27,21,42,41,11,NA,2,4,0,0,Yong Chol Ham,Kwang Il Ri,184,30.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Singapore,6,6,NA,42,37,14,42,42,5,NA,1,5,0,0,Yan Loi Wong,Haibin Wang,182,30.333333333333332,1,SGP,NA,2.85,100,East Asia & Pacific,High income: nonOECD,0.47500000000000003,3.296703296703297
+2013,Vietnam,6,6,NA,42,30,20,42,41,5,NA,3,3,0,0,Bá Khánh Trình Lê,Anh Vinh Lê,180,30,1,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Taiwan,6,6,NA,42,38,13,42,29,12,NA,2,4,0,0,Yen-Chi Roger Lin,John Meng Kai Hong,176,29.333333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2013,United Kingdom,6,6,NA,42,33,0,42,41,13,NA,2,3,1,0,Geoff Smith,Dominic Yeo,171,28.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Islamic Republic of Iran,6,5,1,36,23,31,42,35,1,NA,2,3,1,0,Arash Rastegar,Kasra Alishahi,168,28,1,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Canada,6,6,NA,42,23,7,42,34,15,NA,2,2,2,0,Ralph Furmaniak,Robert Morewood,163,27.166666666666668,1,CAN,65.77,4.59,NA,North America,High income: OECD,0.765,NA
+2013,Japan,6,5,1,42,28,10,42,41,0,NA,0,6,0,0,Takahiko Fujita,Yasuharu Asai,163,27.166666666666668,1,JPN,62.84,3.41,98.31574,East Asia & Pacific,High income: OECD,0.5683333333333334,3.6189842944785275
+2013,Israel,6,6,NA,42,38,7,42,28,4,NA,1,3,2,0,Lev Radzivilovsky,Dmitry Novikov,161,26.833333333333332,1,ISR,62.06,5.78,92.98097,Middle East & North Africa,High income: OECD,0.9633333333333334,3.4651293167701867
+2013,Thailand,6,6,NA,41,30,4,42,42,2,NA,1,4,1,0,Yotsanan Meemark,Ajchara Harnchoowong,161,26.833333333333332,1,THA,49.33,3.82,98,NA,NA,0.6366666666666666,3.6521739130434785
+2013,Australia,6,5,1,42,28,3,42,26,7,NA,1,2,3,0,Angelo Di Pasquale,Ivan Guo,148,24.666666666666668,1,AUS,NA,5.52,NA,NA,NA,0.9199999999999999,NA
+2013,Ukraine,6,5,1,40,20,17,42,26,1,NA,1,3,1,1,Bogdan Rublov,Liliia Gunko,146,24.333333333333332,0.8333333333333334,UKR,81.53,6.42,99.56687,Europe & Central Asia,Lower middle income,1.284,4.091789178082192
+2013,Mexico,6,6,NA,42,32,0,42,22,1,NA,0,3,3,0,Leonardo Ignacio Martínez Sandoval,Rogelio Valdez,139,23.166666666666668,1,MEX,30.33,4.51,99,NA,NA,0.7516666666666666,4.273381294964029
+2013,Türkiye,6,5,1,42,20,12,42,23,0,NA,1,2,3,0,Azer Kerimov,Şahin Emrah,139,23.166666666666668,1,NA,79.65,4.34,99,NA,NA,0.7233333333333333,4.273381294964029
+2013,Indonesia,6,5,1,42,12,16,42,26,0,NA,1,1,4,0,Budi Surodjo,Yudi Satria,138,23,1,IDN,30.44,3.36,98.31574,East Asia & Pacific,Lower middle income,0.5599999999999999,4.274597391304348
+2013,Italy,6,5,1,34,27,9,42,25,0,NA,1,2,1,2,Roberto Dvornicich,Ludovico Pernazza,137,22.833333333333332,0.6666666666666666,ITA,60.89,4.14,99.56687,Europe & Central Asia,High income: OECD,1.035,4.3605928467153285
+2013,France,6,6,NA,42,22,0,42,30,0,NA,0,2,4,0,Claude Deschamps,Pierre Bornsztein,136,22.666666666666668,1,FRA,59.85,5.49,99.56687,Europe & Central Asia,High income: OECD,0.915,4.392656029411764
+2013,Belarus,6,4,2,42,23,10,42,16,1,NA,1,2,3,0,Igor Voronovich,Sergei Mazanik,134,22.333333333333332,1,BLR,101.42,5.01,99.56687,Europe & Central Asia,Upper middle income,0.835,4.458218059701492
+2013,Hungary,6,6,NA,42,32,9,42,9,0,NA,0,2,4,0,József Pelikán,Sándor Dobos,134,22.333333333333332,1,HUN,57.21,4.19,99.56687,Europe & Central Asia,Upper middle income,0.6983333333333334,4.458218059701492
+2013,Romania,6,6,NA,39,11,9,42,31,2,NA,0,3,3,0,Radu Gologan,Mihai Bălună,134,22.333333333333332,1,ROU,51.38,3.07,99.56687,Europe & Central Asia,Upper middle income,0.5116666666666666,4.458218059701492
+2013,Netherlands,6,5,1,41,26,7,42,14,3,NA,0,2,3,1,Quintijn Puite,Birgit van Dalen,133,22.166666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Peru,6,6,NA,39,9,20,41,23,0,NA,0,3,2,1,Jonathan Farfán Vargas,Jorge Tipe Villanueva,132,22,0.8333333333333334,PER,NA,3.3,98.89,Latin America & Caribbean,Upper middle income,0.6599999999999999,4.495
+2013,Germany,6,6,NA,39,22,0,42,24,0,NA,0,2,4,0,Hans-Dietrich Gronau,Jürgen Prestin,127,21.166666666666668,1,DEU,60.9,4.94,99.56687,Europe & Central Asia,High income: OECD,0.8233333333333334,4.703946614173228
+2013,Brazil,6,6,NA,30,20,0,42,31,1,NA,0,3,1,2,Edmilson Luis Rodrigues Motta,Onofre Campos Da Silva Farias,124,20.666666666666668,0.6666666666666666,BRA,44.34,5.84,98.74,NA,NA,1.46,4.777741935483871
+2013,India,6,6,NA,30,25,3,41,23,0,NA,0,2,3,0,Chudamani R Pranesachar,Aditi Sunil Phadke,122,20.333333333333332,0.8333333333333334,IND,24.39,3.84,85.17337,South Asia,Lower middle income,0.768,4.188854262295083
+2013,Croatia,6,5,1,42,17,10,35,15,0,NA,2,0,2,2,Stipe Vidak,Kristina Ana Škreb,119,19.833333333333332,0.6666666666666666,HRV,66.71,4.52,99.56687,Europe & Central Asia,High income: nonOECD,1.13,5.020178319327731
+2013,Hong Kong,6,5,1,41,26,0,35,15,0,NA,0,1,5,0,Tat Wing Leung,Cesar Jose Alaban,117,19.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Malaysia,6,6,NA,37,23,0,40,16,1,NA,0,2,3,0,M. Suhaimi Ramly,Muhammad Ikhwan Azlan,117,19.5,0.8333333333333334,MYS,38.23,5.48,98.31574,East Asia & Pacific,Upper middle income,1.096,5.041832820512821
+2013,Kazakhstan,6,6,NA,23,16,6,42,29,0,NA,0,1,4,1,Damir Yeliussizov,Anton Vassilyev,116,19.333333333333332,0.8333333333333334,KAZ,53.47,3.45,99.56687,Europe & Central Asia,Upper middle income,0.6900000000000001,5.1500105172413795
+2013,Serbia,6,5,1,28,7,9,42,26,0,NA,1,1,2,2,Dušan Đukić,Miljan Knežević,112,18.666666666666668,0.6666666666666666,SRB,56.7,NA,99.56687,Europe & Central Asia,Upper middle income,NA,5.333939464285714
+2013,Slovakia,6,6,NA,24,23,0,42,23,0,NA,0,1,3,2,Vojtech Bálint,Filip Sládek,112,18.666666666666668,0.6666666666666666,NA,55.25,4.07,NA,NA,NA,1.0175,NA
+2013,Portugal,6,6,NA,30,12,0,40,24,5,NA,1,0,4,1,Joana Teles,Filipe Valeriano,111,18.5,0.8333333333333334,PRT,NA,5.27,99.56687,Europe & Central Asia,High income: OECD,1.0539999999999998,5.381992972972973
+2013,Czech Republic,6,6,NA,29,20,3,42,14,0,NA,1,0,3,2,Martin Panák,Josef Tkadlec,108,18,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Bulgaria,6,6,NA,31,24,5,28,13,0,NA,0,1,2,3,Nikolai Nikolov,Peter Boyvalenkov,101,16.833333333333332,0.5,BGR,68.2,4.06,99.56687,Europe & Central Asia,Upper middle income,1.3533333333333333,5.914863564356436
+2013,Greece,6,6,NA,14,9,14,42,22,0,NA,0,2,1,3,Anargyros Fellouris,Evangelos Zotos,101,16.833333333333332,0.5,GRC,112.71,4.5,99.56687,Europe & Central Asia,High income: OECD,1.5,5.914863564356436
+2013,Armenia,6,6,NA,22,13,1,42,10,0,NA,0,1,1,4,Artur Hovhannisyan,Smbat Gogyan,88,14.666666666666666,0.3333333333333333,ARM,41.62,2.65,99.56687,Europe & Central Asia,Lower middle income,1.325,6.788650227272727
+2013,Switzerland,6,6,NA,31,15,0,34,8,0,NA,0,0,3,2,Raphael Steiner,Dimitri Wyss,88,14.666666666666666,0.5,CHE,56.18,4.91,99.56687,Europe & Central Asia,High income: OECD,1.6366666666666667,6.788650227272727
+2013,Mongolia,6,5,1,18,16,2,42,6,0,NA,0,0,3,3,Dashdorj Tserendorj,Batkhuu Tserennadmid,84,14,0.5,MNG,64.66,5.24,98.31574,East Asia & Pacific,Lower middle income,1.7466666666666668,7.022552857142857
+2013,Saudi Arabia,6,6,NA,20,21,1,39,3,0,NA,0,0,4,0,Fawzi Al-Thukair,Najla Altwaijry,84,14,0.6666666666666666,SAU,43.16,NA,99,Middle East & North Africa,High income: nonOECD,NA,7.071428571428571
+2013,Belgium,6,6,NA,19,21,0,35,7,0,NA,0,1,2,2,Bart Windels,Philippe Niederkorn,82,13.666666666666666,0.5,BEL,71.78,6.63,NA,NA,NA,2.21,NA
+2013,Poland,6,6,NA,20,18,0,29,12,0,NA,0,1,1,3,Michał Pilipczuk,Andrzej Grzesik,79,13.166666666666666,0.3333333333333333,POL,73.32,5.02,99.56687,Europe & Central Asia,High income: OECD,2.51,7.562040759493671
+2013,Lithuania,6,6,NA,36,9,1,23,9,0,NA,0,0,3,3,Artūras Dubickas,Romualdas Kašuba,78,13,0.5,LTU,73.53,4.6,99.56687,Europe & Central Asia,High income: nonOECD,1.5333333333333332,7.658989999999999
+2013,Turkmenistan,6,6,NA,24,11,1,35,7,0,NA,0,0,4,1,Erol Aslan,Annaorazov Orazmammet,78,13,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Austria,6,6,NA,24,12,1,31,9,0,NA,0,1,1,2,Robert Geretschläger,Heinrich Josef Gstöttner,77,12.833333333333334,0.3333333333333333,AUT,80.96,5.55,99.56687,Europe & Central Asia,High income: OECD,2.775,7.758457402597402
+2013,Colombia,6,5,1,26,15,0,33,3,0,NA,0,0,2,2,Esteban González,Miguel Acosta,77,12.833333333333334,0.3333333333333333,COL,50.75,NA,98.27,Latin America & Caribbean,Upper middle income,NA,7.657402597402597
+2013,New Zealand,6,5,1,30,6,0,35,6,0,NA,0,0,2,3,Chris Tuffley,Peter Nelson,77,12.833333333333334,0.3333333333333333,NZL,80.39,5.89,98.31574,East Asia & Pacific,High income: OECD,2.945,7.660966753246753
+2013,Georgia,6,6,NA,22,5,2,37,9,0,NA,0,0,2,4,George Chelidze,Givi Nadibaidze,75,12.5,0.3333333333333333,GEO,39.47,3.47,99.56687,Europe & Central Asia,Lower middle income,1.735,7.9653496
+2013,Azerbaijan,6,6,NA,29,2,7,32,3,0,NA,0,0,2,3,Fuad Garayev,Yashar Shukurov,73,12.166666666666666,0.3333333333333333,AZE,21.44,2.44,100,Europe & Central Asia,Upper middle income,1.22,8.219178082191782
+2013,Philippines,5,3,2,28,7,0,35,2,0,NA,0,0,3,2,Jose Ernie Lope,Joseph Ray Clarence Damasco,72,14.4,0.6,PHL,33.79,NA,98,East Asia & Pacific,Lower middle income,NA,6.805555555555555
+2013,Republic of Moldova,6,5,1,14,2,6,42,7,0,NA,0,0,2,4,Marcel Teleucă,Valentina Ceapa,71,11.833333333333334,0.3333333333333333,NA,NA,5.91,99.56687,Europe & Central Asia,Lower middle income,2.955,8.414101690140845
+2013,Estonia,6,4,2,30,10,0,26,1,0,NA,0,0,2,3,Urve Kangro,Oleg Košik,67,11.166666666666666,0.3333333333333333,EST,75.45,4.84,99.56687,Europe & Central Asia,High income: OECD,2.42,8.916436119402984
+2013,Sri Lanka,6,6,NA,21,2,0,40,2,0,NA,0,0,1,4,Nipuna Randunu Samarasekara,Isuru Dilanka Fernando,65,10.833333333333334,0.16666666666666666,LKA,17.99,1.56,NA,NA,NA,1.56,NA
+2013,Tajikistan,6,6,NA,13,0,3,40,9,0,NA,0,0,1,4,Pirakhmad Olimdzhoni,Mirzobedil Jamolzoda,65,10.833333333333334,0.16666666666666666,TJK,22.77,5.29,99.56687,Europe & Central Asia,Low income,5.29,9.190788
+2013,South Africa,6,5,1,21,13,0,30,0,0,NA,0,0,2,3,Jay van Zyl,Dirk Basson,64,10.666666666666666,0.3333333333333333,ZAF,18.09,5.35,73.15401,Sub-Saharan Africa,Upper middle income,2.675,6.8581884375
+2013,Spain,6,6,NA,22,7,0,29,5,0,NA,0,0,2,3,José Luis Díaz,Luis Hernández,63,10.5,0.3333333333333333,ESP,85.21,4.35,100,NA,NA,2.175,9.523809523809524
+2013,Sweden,6,5,1,21,12,0,23,6,0,NA,0,1,1,2,Paul Vaderlind,Victor Ufnarovski,62,10.333333333333334,0.3333333333333333,SWE,65.78,7.61,99.56687,Europe & Central Asia,High income: OECD,3.805,9.635503548387096
+2013,Bangladesh,4,4,NA,21,7,0,28,4,0,NA,0,0,3,1,Mahbubul Alam Majumdar,A A Munir Hasan,60,15,0.75,BGD,13.65,1.97,86,NA,NA,0.6566666666666666,5.733333333333333
+2013,Costa Rica,6,3,3,12,3,0,42,2,0,NA,0,0,1,5,Ronald Bustamante Medina,Tomás Calderón Gómez,59,9.833333333333334,0.16666666666666666,CRI,47.84,6.69,97.91776,Latin America & Caribbean,Upper middle income,6.69,9.957738305084746
+2013,Bosnia and Herzegovina,6,5,1,8,10,0,36,2,0,NA,0,0,1,4,Senada Kalabušić,Boris Marjanović,56,9.333333333333334,0.16666666666666666,BIH,47.26,NA,100,Europe & Central Asia,Upper middle income,NA,10.714285714285714
+2013,Cyprus,5,5,NA,11,4,5,28,4,0,NA,0,0,1,3,Andreas Philippou,Dimitrios Karantanos,52,10.4,0.2,CYP,47.53,6.47,99.56687,Europe & Central Asia,High income: nonOECD,6.47,9.5737375
+2013,Tunisia,5,5,NA,9,2,0,28,10,0,NA,0,0,1,3,Taoufik Charrada,Mohsen Ben Ahmed Ben Abdallah,49,9.8,0.2,TUN,33.02,NA,92.98097,Middle East & North Africa,Upper middle income,NA,9.487854081632653
+2013,Latvia,6,5,1,13,10,0,16,8,0,NA,0,0,1,3,Alexander Belov,Juris Škuškovniks,47,7.833333333333333,0.16666666666666666,LVA,69.08,7,99.56687,Europe & Central Asia,High income: nonOECD,7,12.710664255319148
+2013,Argentina,6,6,NA,19,11,0,9,7,0,NA,0,0,1,1,Patricia Fauring,Flora Gutiérrez,46,7.666666666666667,0.16666666666666666,ARG,78.77,5.44,99.55132,NA,NA,5.44,12.984954782608696
+2013,Finland,6,3,3,13,12,0,7,14,0,NA,0,1,0,0,Kerkko Luosto,Olli Hirviniemi,46,7.666666666666667,0.16666666666666666,FIN,91.24,7.12,99.56687,Europe & Central Asia,High income: OECD,7.12,12.98698304347826
+2013,Ecuador,6,6,NA,9,8,0,25,3,0,NA,0,0,1,2,Jorge Chamaidan,Julio Rivera,45,7.5,0.16666666666666666,ECU,39.77,4.93,95.53,Latin America & Caribbean,Upper middle income,4.93,12.737333333333334
+2013,Paraguay,6,5,1,15,1,0,21,1,0,NA,0,0,2,1,Roberto Viveros Vera,Claudia Montanía Portillo,38,6.333333333333333,0.3333333333333333,PRY,NA,2.68,98.9,Latin America & Caribbean,Lower middle income,1.34,15.615789473684211
+2013,Kyrgyzstan,6,6,NA,3,0,9,23,1,0,NA,0,0,1,2,Buras Boljiev,Taalaibek Dyikanov,36,6,0.16666666666666666,NA,46.14,6.78,99.56687,Europe & Central Asia,Lower middle income,6.78,16.59447833333333
+2013,Norway,6,4,2,9,17,0,7,2,1,NA,0,0,1,1,Dávid Kunszenti-Kovács,Pål Hermunn Johansen,36,6,0.16666666666666666,NOR,75.86,7.44,99.56687,Europe & Central Asia,High income: OECD,7.44,16.59447833333333
+2013,Chile,3,2,1,8,5,0,15,7,0,NA,0,0,1,2,Hernan Burgos,Victor Cortes,35,11.666666666666666,0.3333333333333333,CHL,79.87,4.55,99.07,Latin America & Caribbean,High income: OECD,4.55,8.491714285714286
+2013,North Macedonia,6,6,NA,3,11,0,18,2,0,NA,0,0,1,1,Vesna Manova-Erakovik,Alekso Malcheski,34,5.666666666666667,0.16666666666666666,MKD,38.95,NA,NA,NA,NA,NA,NA
+2013,Slovenia,6,4,2,1,2,0,31,0,0,NA,0,0,0,4,Gregor Dolinar,Matej Aleksandrov,34,5.666666666666667,0,SVN,87.86,5.41,99.56687,Europe & Central Asia,High income: OECD,NA,17.570624117647057
+2013,Ireland,6,5,1,8,9,0,14,2,0,NA,0,0,0,4,Bernd Kreussler,Gordon Lessells,33,5.5,0,IRL,71.7,5.35,99.56687,Europe & Central Asia,High income: OECD,NA,18.103067272727273
+2013,Denmark,6,6,NA,3,7,0,20,1,0,NA,0,0,0,3,Kirsten Rosenkilde,Sune Precht Reeh,31,5.166666666666667,0,DNK,80.42,8.49,99.56687,Europe & Central Asia,High income: OECD,NA,19.27100709677419
+2013,Iceland,6,5,1,7,16,0,3,1,0,NA,0,0,0,2,Marteinn Þór Harðarson,Jóhanna Katrín Eggertsdóttir,27,4.5,0,ISL,78.37,7.45,99.56687,Europe & Central Asia,High income: OECD,NA,22.12597111111111
+2013,Kosovo,6,5,1,4,0,0,21,0,0,NA,0,0,0,3,Ramadan Limani,Kajtaz Bllaca,25,4.166666666666667,0,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Luxembourg,2,1,1,8,7,0,9,1,0,NA,0,0,1,0,Charles Leytem,Mike Dostert,25,12.5,0.5,LUX,NA,4.69,99.56687,Europe & Central Asia,High income: OECD,4.69,7.9653496
+2013,Pakistan,6,6,NA,2,0,0,22,1,0,NA,0,0,0,3,Barbu Rudolf Berceanu,Ejaz Hussain Malik,25,4.166666666666667,0,PAK,8.9,2.24,72,South Asia,Lower middle income,NA,17.279999999999998
+2013,Nicaragua,3,3,NA,1,0,0,21,0,0,NA,0,0,0,3,Carlos Walsh,María Auxiliadora Cortedano,22,7.333333333333333,0,NIC,16.36,NA,97.91776,Latin America & Caribbean,Lower middle income,NA,13.352421818181819
+2013,Panama,4,4,NA,3,0,0,16,0,0,NA,0,0,0,2,Jaime Gutierrez,David Narvaez,19,4.75,0,PAN,NA,NA,97.91776,Latin America & Caribbean,Upper middle income,NA,20.614265263157893
+2013,Nigeria,1,1,NA,1,3,0,7,7,0,NA,0,0,1,0,Adewale Roland Tunde Solarin,Steve Dele Oluwaniyi,18,18,1,NGA,NA,0.53,79.16,Sub-Saharan Africa,Lower middle income,0.53,4.397777777777778
+2013,Morocco,5,4,1,5,0,0,8,4,0,NA,0,0,0,1,Mohamed Berraho,Abdellatif Zerouale,17,3.4,0,MAR,22.55,NA,92.98097,Middle East & North Africa,Lower middle income,NA,27.347344117647058
+2013,Trinidad and Tobago,6,4,2,2,1,0,10,3,0,NA,0,0,0,1,Shavak Keshari Sinanan,Jagdesh Ramnanan,16,2.6666666666666665,0,TTO,NA,3.77,97.91776,Latin America & Caribbean,High income: nonOECD,NA,36.71916
+2013,Liechtenstein,1,1,NA,0,7,0,7,1,0,NA,0,0,1,0,Philipp Wirth,Andreas Bärtschi,15,15,1,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Puerto Rico,4,3,1,2,1,0,11,0,0,NA,0,0,0,1,Arturo Portnoy,Omar Colon Reyes,14,3.5,0,PRI,92.38,6.48,97.91776,Latin America & Caribbean,High income: nonOECD,NA,27.976502857142858
+2013,El Salvador,2,1,1,0,0,0,14,0,0,NA,0,0,0,2,Gabriel Alexander Chicas Reyes,Eder Alexander Jacobo Arévalo,14,7,0,SLV,28.11,3.8,97.22,Latin America & Caribbean,Lower middle income,NA,13.888571428571428
+2013,Syria,4,4,NA,1,0,0,13,0,0,NA,0,0,0,1,Abdullatif Hanano,Imad Fattash,14,3.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Cuba,1,1,NA,1,1,0,7,2,0,NA,0,0,0,1,Eduardo Pérez Almarales,NA,11,11,0,CUB,48,10.67,97.91776,Latin America & Caribbean,Upper middle income,NA,8.901614545454546
+2013,Venezuela,1,NA,1,2,0,0,7,0,0,NA,0,0,0,1,Rafael Sánchez,Sofía Taylor,9,9,0,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Uruguay,6,6,NA,1,1,0,5,0,0,NA,0,0,0,0,Leonardo Lois Da Silva,Nelson Raúl Chocca Soubes,7,1.1666666666666667,0,URY,59.95,4.24,98.93,NA,NA,NA,84.79714285714286
+2013,Bolivia,5,3,2,1,0,0,4,0,0,NA,0,0,0,0,Sonia Ximena Nivia Cordero Cárdenas,Ismael Chávez Guevara,5,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+2013,Montenegro,4,2,2,1,0,0,0,0,0,NA,0,0,0,0,David Kalaj,Svetlana Nikic,1,0.25,0,MNE,60.43,NA,99.56687,Europe & Central Asia,Upper middle income,NA,398.26748
+2013,Uganda,5,4,1,1,0,0,0,0,0,NA,0,0,0,0,Jasper Okello,Assumpta Kasamba Namuddu,1,0.2,0,UGA,4.02,1.87,73.15401,Sub-Saharan Africa,Low income,NA,365.77004999999997
+2013,Honduras,1,1,NA,0,0,0,0,0,0,NA,0,0,0,0,José Alberto Fajardo Tejada,Luis Armando Ramos Palacios,0,0,0,HND,19.39,5.87,95.07,Latin America & Caribbean,Lower middle income,NA,NA
+2012,Republic of Korea,6,6,NA,42,42,21,39,42,23,NA,6,0,0,0,Yongjin Song,Sang-Il Oum,209,34.833333333333336,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,People's Republic of China,6,6,NA,42,40,14,31,38,30,NA,5,0,1,0,Bin Xiong,Zhigang Feng,195,32.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,United States of America,6,6,NA,42,40,33,38,23,18,NA,5,1,0,0,Zuming Feng,Po-Shen Loh,194,32.333333333333336,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Russian Federation,6,6,NA,42,35,21,41,29,9,NA,4,2,0,0,Nazar Agakhanov,Dmitry Tereshin,177,29.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Canada,6,6,NA,42,32,9,39,24,13,NA,3,1,2,0,Jacob Tsimerman,Lindsey Shorser,159,26.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Thailand,6,6,NA,42,42,4,39,30,2,NA,3,3,0,0,Yotsanan Meemark,Ajchara Harnchoowong,159,26.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Singapore,6,6,NA,42,35,11,32,27,7,NA,1,3,2,0,Yan Loi Wong,Boon Leong Ng,154,25.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Islamic Republic of Iran,6,5,1,42,29,6,39,34,1,NA,3,2,1,0,Arash Rastegar,Omid Naghshineh Arjmand,151,25.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Vietnam,6,6,NA,42,36,4,31,35,0,NA,1,3,2,0,Đình Hòa Vũ,Bá Khánh Trình Lê,148,24.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Romania,6,5,1,40,36,7,36,20,5,NA,2,3,1,0,Radu Gologan,Mihai Bălună,144,24,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,India,6,5,1,36,36,4,23,35,2,NA,2,3,0,1,Venkatachala Belur Jana,Narasimhan Ramanujachari,136,22.666666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Democratic People's Republic of Korea,6,6,NA,42,30,0,30,22,4,NA,2,1,3,0,Yong Chol Ham,Kwang Il Ri,128,21.333333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Türkiye,6,5,1,42,19,1,42,21,3,NA,1,3,2,0,Azer Kerimov,Şahin Emrah,128,21.333333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Taiwan,6,6,NA,42,20,5,29,23,8,NA,1,3,0,2,Wen-Liang Hung,Yen-Chi Roger Lin,127,21.166666666666668,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Serbia,6,6,NA,42,21,7,26,26,4,NA,1,2,1,2,Đorđe Krtinić,Dušan Đukić,126,21,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Peru,6,6,NA,42,29,3,34,17,0,NA,0,3,2,1,Emilio Gonzaga Ramírez,John Carlos Cuya Barrios,125,20.833333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Japan,6,6,NA,42,15,4,27,28,5,NA,0,4,1,1,Yuji Ito,Yasuharu Asai,121,20.166666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Poland,6,6,NA,40,22,10,25,22,0,NA,0,2,4,0,Waldemar Pompe,Andrzej Grzesik,119,19.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Brazil,6,5,1,42,23,3,33,14,1,NA,1,1,3,1,Luciano Guimarães Monteiro De Castro,Carlos Yuzo Shine,116,19.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Bulgaria,6,6,NA,42,22,7,38,4,3,NA,1,2,2,1,Nikolai Nikolov,Peter Boyvalenkov,116,19.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Ukraine,6,5,1,42,16,0,30,28,0,NA,0,3,2,1,Georgiy Shevchenko,Andriy Pankov,116,19.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Netherlands,6,5,1,38,22,6,34,14,1,NA,2,0,3,1,Quintijn Puite,Birgit van Dalen,115,19.166666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,United Kingdom,6,6,NA,36,12,9,41,11,6,NA,1,1,4,0,James Cranch,Jack Shotton,115,19.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Belarus,6,4,2,42,29,0,31,11,1,NA,0,4,1,1,Igor Voronovich,Sergei Mazanik,114,19,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Croatia,6,5,1,42,18,3,34,13,0,NA,1,1,3,1,Mea Bombardelli,Matija Bašić,110,18.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Greece,6,6,NA,42,21,0,15,29,0,NA,1,1,3,1,Anargyros Fellouris,Evangelos Zotos,107,17.833333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Australia,6,5,1,42,16,1,39,7,1,NA,0,2,4,0,Angelo Di Pasquale,Ivan Guo,106,17.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Hong Kong,6,5,1,42,17,0,32,14,1,NA,0,3,1,2,Tat Wing Leung,Chit Wan Leung,106,17.666666666666668,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Saudi Arabia,6,6,NA,40,35,0,25,5,0,NA,0,2,3,0,Fawzi Al-Thukair,Najla Altwaijry,105,17.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Republic of Moldova,6,5,1,42,35,0,25,2,0,NA,0,2,3,1,Valeriu Baltag,Radu Bairac,104,17.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Germany,6,6,NA,27,15,8,34,11,7,NA,0,2,3,1,Hans-Dietrich Gronau,Christian Reiher,102,17,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Israel,6,6,NA,35,16,4,35,11,1,NA,0,3,1,1,Lev Radzivilovsky,Dmitry Novikov,102,17,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Mexico,6,6,NA,42,15,0,28,17,0,NA,1,1,2,2,Leonardo Ignacio Martínez Sandoval,Marco Antonio Figueroa Ibarra,102,17,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Kazakhstan,6,6,NA,42,30,0,26,3,0,NA,0,1,4,1,Damir Yeliussizov,Anton Vassilyev,101,16.833333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Indonesia,6,5,1,39,12,0,35,12,2,NA,0,1,3,1,Hery Susanto,Yudi Satria,100,16.666666666666668,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Malaysia,6,6,NA,42,7,0,24,24,3,NA,0,2,3,1,Muhammad Ikhwan Azlan,M. Suhaimi Ramly,100,16.666666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Portugal,6,6,NA,31,23,0,29,13,0,NA,1,1,2,1,Joana Teles,Filipe Valeriano,96,16,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Belgium,6,6,NA,39,14,0,30,8,2,NA,0,2,1,2,Bart Windels,Philippe Niederkorn,93,15.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,France,6,5,1,35,17,5,30,5,1,NA,0,1,4,1,Claude Deschamps,Pierre Bornsztein,93,15.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Hungary,6,6,NA,42,17,3,25,2,4,NA,0,2,1,3,József Pelikán,Sándor Dobos,93,15.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Italy,6,6,NA,39,16,1,30,6,1,NA,0,2,1,2,Roberto Dvornicich,Ludovico Pernazza,93,15.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Tajikistan,6,6,NA,42,22,0,7,20,0,NA,0,0,4,2,Olimjon Pirahmad,Sabri Zerenturk,91,15.166666666666666,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Mongolia,6,5,1,42,13,0,23,11,1,NA,1,0,2,3,Dashdorj Tserendorj,Erdenebileg Surmaakhorol,90,15,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Slovakia,6,5,1,33,8,6,31,7,0,NA,1,0,2,2,Peter Novotný,Tomáš Kocák,85,14.166666666666666,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Bosnia and Herzegovina,6,6,NA,41,15,0,24,4,0,NA,0,1,2,2,Vladimir Vladičić,Zenan Šabanac,84,14,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Colombia,6,4,2,42,16,0,19,5,1,NA,0,0,3,3,Maria Elizabeth Losada,Esteban González,83,13.833333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Armenia,6,6,NA,36,9,0,25,10,0,NA,0,1,2,2,Nairi Sedrakyan,Gurgen Asatryan,80,13.333333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Costa Rica,6,4,2,36,6,0,30,8,0,NA,0,0,3,2,Luis Gómez,Christopher Antonio Trejos Castillo,80,13.333333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Czech Republic,6,6,NA,40,17,0,17,6,0,NA,0,1,1,4,Martin Panák,Pavel Calábek,80,13.333333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Austria,6,5,1,35,15,0,29,0,0,NA,0,0,4,1,Robert Geretschläger,Heinrich Josef Gstöttner,79,13.166666666666666,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Turkmenistan,6,6,NA,35,22,0,20,1,0,NA,0,1,2,2,Erol Aslan,Annaorazov Orazmammet,78,13,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Switzerland,6,5,1,31,17,0,24,4,0,NA,0,0,3,1,Julian Kellerhals,Dimitri Wyss,76,12.666666666666666,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,New Zealand,6,5,1,42,9,0,21,2,1,NA,0,0,2,4,Chris Tuffley,Peter Nelson,75,12.5,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Argentina,6,5,1,42,1,0,24,6,1,NA,0,0,2,4,Ana Wykowski,Bibiana Russo,74,12.333333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Bangladesh,5,5,NA,35,8,0,20,11,0,NA,0,1,2,2,Mahbub Alam Majumdar,A A Munir Hasan,74,14.8,0.6,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Slovenia,6,5,1,42,14,0,12,3,0,NA,0,0,2,4,Gregor Dolinar,Jure Vogrinc,71,11.833333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2012,South Africa,6,6,NA,36,9,0,23,3,0,NA,0,0,2,3,Maciej Stankiewicz,Jacobus van Zyl,71,11.833333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Lithuania,6,6,NA,32,15,0,18,4,0,NA,0,0,3,1,Artūras Dubickas,Romualdas Kašuba,69,11.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Georgia,6,6,NA,29,3,0,30,6,0,NA,0,0,1,3,George Chelidze,Givi Nadibaidze,68,11.333333333333334,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Spain,6,6,NA,27,8,0,25,0,4,NA,0,1,0,3,María Gaspar Alonso-Vega,Luis Hernández,64,10.666666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Azerbaijan,6,6,NA,34,8,0,16,1,1,NA,0,0,2,2,Fuad Garayev,Jafar Jafarov,60,10,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Denmark,6,6,NA,33,8,0,19,0,0,NA,0,0,1,4,Kirsten Rosenkilde,Sune Precht Reeh,60,10,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Chile,6,5,1,35,7,0,12,4,1,NA,0,0,1,4,Hernan Burgos,Anibal Velozo,59,9.833333333333334,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,North Macedonia,6,4,2,32,15,0,10,2,0,NA,0,0,2,2,Vesna Manova-Erakovik,Alekso Malcheski,59,9.833333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Finland,6,5,1,22,15,0,15,5,0,NA,0,1,0,3,Matti Lehtinen,Esa Vesalainen,57,9.5,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Latvia,6,5,1,39,3,0,11,2,0,NA,0,0,0,5,Juris Smotrovs,Juris Škuškovniks,55,9.166666666666666,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Nigeria,6,6,NA,25,15,2,9,0,1,NA,0,0,1,3,Adewale Roland Tunde Solarin,Steve Dele Oluwaniyi,52,8.666666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Estonia,6,4,2,31,0,0,19,0,0,NA,0,0,0,4,Härmel Nestra,Indrek Zolk,50,8.333333333333334,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Kyrgyzstan,6,5,1,42,2,0,6,0,0,NA,0,0,0,6,Buras Boljiev,NA,50,8.333333333333334,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Morocco,5,5,NA,24,14,0,11,0,0,NA,0,0,2,0,Moulay Ahmed Moussaoui,Abdellatif Zerouale,49,9.8,0.4,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Ecuador,6,6,NA,28,6,0,9,4,0,NA,0,0,1,2,Jorge Chamaidan,Julio Rivera,47,7.833333333333333,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Sweden,6,6,NA,20,1,4,19,1,2,NA,0,0,1,1,Paul Vaderlind,Victor Ufnarovski,47,7.833333333333333,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Pakistan,5,4,1,17,7,0,10,7,0,NA,0,1,0,1,Barbu Berceanu,Ahmad Mahmood Qureshi,41,8.2,0.2,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Philippines,3,2,1,21,1,0,16,3,0,NA,0,0,2,1,Julius Magalona Basilla,Job Agcaoili Nable,41,13.666666666666666,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Macau,6,6,NA,18,8,0,14,0,0,NA,0,0,0,3,Ieng Tak Leong,Hio Tong Wu,40,6.666666666666667,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Cyprus,6,6,NA,17,7,0,11,3,1,NA,0,0,0,3,Andreas Philippou,Theoklitos Paragyiou,39,6.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Luxembourg,4,3,1,21,7,0,8,0,0,NA,0,0,1,2,Charles Leytem,Mike Dostert,36,9,0.25,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Ireland,6,6,NA,23,2,0,9,0,0,NA,0,0,0,2,Mark Flanagan,Gordon Lessells,34,5.666666666666667,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Norway,6,4,2,20,0,0,13,0,0,NA,0,0,0,1,Dávid Kunszenti-Kovács,Johannes Kleppe,33,5.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Puerto Rico,4,4,NA,17,7,0,8,0,0,NA,0,0,1,1,Luis Fernando Cáceres Duque,Arturo Portnoy,32,8,0.25,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Paraguay,6,4,2,23,0,0,8,0,0,NA,0,0,0,2,Juan José Cáceres Silva,Paola Villalba Fiore,31,5.166666666666667,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Sri Lanka,4,4,NA,15,9,0,6,0,0,NA,0,0,1,1,Supun Thamara Samarakoon,Mahishanka Withanachchi,30,7.5,0.25,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Uruguay,6,6,NA,21,1,0,8,0,0,NA,0,0,0,2,Nelson Raúl Chocca Soubes,Antonio Velázquez,30,5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Ivory Coast,4,4,NA,24,0,0,5,0,0,NA,0,0,0,3,Jean Sosthène Alphonse Békoin Amon,Armel Didier Yavo,29,7.25,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,El Salvador,3,3,NA,18,1,0,5,4,0,NA,0,0,0,2,Carlos Mauricio Canjura Linares,Aarón Ernesto Ramírez Flores,28,9.333333333333334,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Trinidad and Tobago,5,4,1,19,0,0,7,0,0,NA,0,0,0,1,Indra Haraksingh,Jagdesh Ramnanan,26,5.2,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Tunisia,2,2,NA,9,7,0,9,0,0,NA,0,1,0,0,Salah Marzougui,Raouf Thabet,25,12.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Iceland,6,6,NA,9,1,0,11,0,0,NA,0,0,0,0,Marteinn Þór Harðarson,Jóhanna Katrín Eggertsdóttir,21,3.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Syria,6,6,NA,10,0,0,6,3,0,NA,0,0,0,1,Abdullatif Hanano,Imad Fattash,19,3.1666666666666665,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Panama,3,3,NA,13,1,0,2,0,1,NA,0,0,0,1,David Narvaez,NA,17,5.666666666666667,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Venezuela,3,2,1,11,0,0,6,0,0,NA,0,0,0,1,Rafael Sánchez,Laura Vielma Herrero,17,5.666666666666667,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Honduras,2,2,NA,14,0,0,1,0,0,NA,0,0,0,2,Mariano Eliseo Solorzano Alvarado,Mario Roberto Canales Villanueva,15,7.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Guatemala,2,1,1,7,0,0,4,0,0,NA,0,0,0,1,Francisco José Martínez Figueroa,NA,11,5.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Kosovo,6,5,1,4,1,0,4,0,0,NA,0,0,0,0,Ramadan Limani,Kajtaz Bllaca,9,1.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Cuba,1,1,NA,2,6,0,0,0,0,NA,0,0,0,0,Enech García Martínez,NA,8,8,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Bolivia,6,3,3,4,0,0,2,0,0,NA,0,0,0,0,Gustavo Michel Garcia,Jaime Manuel Rojas Claure,6,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Liechtenstein,2,2,NA,1,1,0,3,0,0,NA,0,0,0,0,Florian Meier,Philipp Wirth,5,2.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Montenegro,2,1,1,3,0,0,2,0,0,NA,0,0,0,0,Sinisa Stamatovic,Gojko Jelovac,5,2.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Uganda,5,3,2,2,0,0,0,0,0,NA,0,0,0,0,Jasper Okello,Cyrus Ssebugenyi,2,0.4,0,NA,NA,NA,NA,NA,NA,NA,NA
+2012,Kuwait,3,3,NA,0,0,0,0,0,0,NA,0,0,0,0,Ibrahim Alqattan,Jamal H. Mohammad,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,People's Republic of China,6,6,NA,42,12,42,42,42,9,NA,6,0,0,0,Bin Xiong,Zhigang Feng,189,31.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,United States of America,6,6,NA,42,18,35,42,42,5,NA,6,0,0,0,Zuming Feng,Po-Shen Loh,184,30.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Singapore,6,6,NA,42,27,23,42,36,9,NA,4,1,1,0,Yan Loi Wong,Wei Kit Derrick Wong,179,29.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Russian Federation,6,5,1,42,10,23,40,42,4,NA,2,4,0,0,Nazar Agakhanov,Dmitry Tereshin,161,26.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Thailand,6,6,NA,39,11,23,42,42,3,NA,3,2,1,0,Wicharn Lewkeeratiyutkul,Keng Wiboonton,160,26.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Türkiye,6,6,NA,42,3,23,40,37,14,NA,3,2,1,0,Okan Tekman,Azer Kerimov,159,26.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Democratic People's Republic of Korea,6,6,NA,39,3,36,28,42,9,NA,3,3,0,0,NA,Ryong Gol Yom,157,26.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Romania,6,6,NA,40,5,25,42,39,3,NA,1,5,0,0,Radu Gologan,Mihai Bălună,154,25.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Taiwan,6,6,NA,42,6,17,42,41,6,NA,2,4,0,0,Sen-Peng Eu,Yen-Chi Roger Lin,154,25.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Islamic Republic of Iran,6,5,1,40,3,15,42,41,10,NA,2,4,0,0,Arash Rastegar,Omid Naghshineh Arjmand,151,25.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Germany,6,5,1,42,11,18,36,36,7,NA,1,3,2,0,Hans-Dietrich Gronau,Eric Müller,150,25,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Japan,6,6,NA,42,15,8,41,36,5,NA,2,2,2,0,Yasuo Morita,Takahiko Fujita,147,24.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Republic of Korea,6,6,NA,42,7,24,30,36,5,NA,2,3,0,1,Yongjin Song,Seunghun Yi,144,24,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Hong Kong,6,6,NA,42,4,17,36,32,7,NA,2,1,3,0,Tat Wing Leung,Wai Hoi Bobby Poon,138,23,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Poland,6,6,NA,37,1,17,42,36,3,NA,2,2,1,1,Andrzej Komisarski,Michał Pilipczuk,136,22.666666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Ukraine,6,6,NA,37,14,14,40,28,3,NA,1,2,3,0,Bogdan Rublov,Nataliia Prokopenko,136,22.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Canada,6,5,1,42,4,9,42,34,1,NA,1,2,3,0,Dorette Pronk,David Arthur,132,22,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,United Kingdom,6,6,NA,42,10,10,36,34,0,NA,2,1,2,1,James Cranch,Jack Shotton,132,22,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Italy,6,6,NA,38,15,5,42,29,0,NA,1,3,1,1,Roberto Dvornicich,Samuele Mongodi,129,21.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Brazil,6,4,2,38,3,3,42,33,2,NA,0,3,3,0,Nicolau Corção Saldanha,Eduardo Tengan,121,20.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Bulgaria,6,6,NA,42,1,15,37,22,4,NA,0,2,3,1,Nikolai Nikolov,Peter Boyvalenkov,121,20.166666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Mexico,6,6,NA,42,4,0,41,30,3,NA,0,2,4,0,Radmila Bulajich,Leonardo Ignacio Martínez Sandoval,120,20,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,India,6,5,1,36,9,2,39,33,0,NA,1,1,2,2,Chudamani R Pranesachar,Prithwijit De,119,19.833333333333332,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Israel,6,6,NA,42,2,9,31,35,0,NA,1,0,4,1,Lev Radzivilovsky,Dmitry Novikov,119,19.833333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Australia,6,5,1,38,4,1,40,32,1,NA,0,3,3,0,Ivan Guo,Graham Robert White,116,19.333333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Hungary,6,6,NA,39,6,8,32,27,4,NA,0,2,3,1,József Pelikán,Sándor Dobos,116,19.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Serbia,6,6,NA,38,10,10,32,23,3,NA,1,2,1,1,Đorđe Krtinić,Dušan Đukić,116,19.333333333333332,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Netherlands,6,5,1,38,7,1,42,25,2,NA,0,2,3,1,Johan Konter,Sietske Tacoma,115,19.166666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Indonesia,6,6,NA,41,2,6,36,27,2,NA,0,2,4,0,Hery Susanto,Yudi Satria,114,19,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,New Zealand,6,6,NA,39,11,0,38,26,0,NA,0,2,2,2,Chris Tuffley,Ilya Chevyrev,114,19,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Belarus,6,4,2,34,3,6,31,37,2,NA,0,2,3,1,Igor Voronovich,Sergei Mazanik,113,18.833333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Peru,6,6,NA,39,9,7,33,25,0,NA,1,0,2,3,Mariano Adán González Ulloa,Jorge Tipe Villanueva,113,18.833333333333332,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Vietnam,6,6,NA,42,1,8,29,32,1,NA,0,0,6,0,Hà Huy Khoái,Nguyễn Khắc Minh,113,18.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,France,6,5,1,38,5,8,36,24,0,NA,0,1,4,1,Claude Deschamps,Pierre Bornsztein,111,18.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Slovakia,6,5,1,38,7,0,41,24,1,NA,0,2,3,1,Peter Novotný,Tomáš Kocák,111,18.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Austria,6,6,NA,38,17,2,32,21,0,NA,0,2,2,2,Robert Geretschläger,Walther Janous,110,18.333333333333332,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Croatia,6,6,NA,41,4,1,42,22,0,NA,0,1,5,0,Mea Bombardelli,Tonći Kokan,110,18.333333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Kazakhstan,6,6,NA,42,0,6,25,29,3,NA,0,1,3,2,Yerzhan Baisalov,Anton Vassilyev,105,17.5,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Czech Republic,6,6,NA,40,1,7,35,18,0,NA,0,1,3,2,Martin Panák,Pavel Calábek,101,16.833333333333332,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Greece,6,6,NA,38,7,8,18,20,8,NA,1,0,3,1,Anargyros Fellouris,Evangelos Zotos,99,16.5,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Malaysia,6,6,NA,37,0,10,25,19,2,NA,1,1,1,2,M. Suhaimi Ramly,Daud Mohamad,93,15.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2011,South Africa,6,5,1,36,1,2,31,22,1,NA,0,1,2,2,Stephan Wagner,Jacobus van Zyl,93,15.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Belgium,6,6,NA,38,4,2,32,11,1,NA,0,0,4,1,Bart Windels,Philippe Niederkorn,88,14.666666666666666,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Switzerland,6,5,1,27,18,0,25,18,0,NA,0,2,1,1,Julian Kellerhals,Dimitri Wyss,88,14.666666666666666,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Lithuania,6,4,2,42,2,2,29,12,0,NA,0,0,4,2,Artūras Dubickas,Romualdas Kašuba,87,14.5,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Republic of Moldova,6,6,NA,40,0,7,21,18,0,NA,0,1,0,4,Marcel Teleucă,Valentina Ceapa,86,14.333333333333334,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Portugal,6,5,1,28,5,7,24,22,0,NA,1,0,2,1,Alfredo Costa,Filipe Valeriano,86,14.333333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Spain,6,6,NA,35,3,0,30,15,0,NA,0,0,3,1,María Gaspar Alonso-Vega,Luis Hernández,83,13.833333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Argentina,6,5,1,36,7,1,23,9,1,NA,1,0,0,4,Patricia Fauring,Flora Gutierrez,77,12.833333333333334,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Denmark,6,6,NA,34,0,1,29,12,0,NA,0,1,1,2,Kai Neergård,Sune Precht Reeh,76,12.666666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Estonia,6,5,1,32,9,0,30,5,0,NA,0,0,2,3,Urve Kangro,Oleg Košik,76,12.666666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Colombia,6,4,2,34,0,2,20,14,3,NA,0,0,1,4,Maria Elizabeth Losada,Esteban González,73,12.166666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Macau,6,6,NA,29,1,0,32,9,0,NA,0,0,2,3,Ieng Tak Leong,Lung Yam Wan,71,11.833333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Mongolia,6,5,1,40,0,4,10,12,3,NA,0,0,2,3,Dashdorj Tserendorj,Bum-Erdene Gendenjamts,69,11.5,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Philippines,5,4,1,28,0,0,24,17,0,NA,0,0,3,0,Julius Magalona Basilla,Glen Mackenzie Co Ong,69,13.8,0.6,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Sweden,6,5,1,32,0,1,17,19,0,NA,0,1,0,3,Paul Vaderlind,Victor Ufnarovski,69,11.5,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Finland,6,6,NA,31,2,1,19,15,0,NA,0,1,0,3,Anne-Maria Ernvall-Hytönen,Esa Vesalainen,68,11.333333333333334,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Georgia,6,6,NA,34,0,0,17,16,1,NA,0,0,2,2,George Chelidze,Givi Nadibaidze,68,11.333333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Latvia,6,5,1,28,1,0,25,12,2,NA,0,1,1,1,Māris Valdats,Juris Škuškovniks,68,11.333333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Tajikistan,6,6,NA,35,0,3,9,17,4,NA,0,1,0,2,Umed Karimov,Yusuf Balkash,68,11.333333333333334,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Norway,6,5,1,33,9,0,18,7,0,NA,0,1,0,3,Dávid Kunszenti-Kovács,Johannes Kleppe,67,11.166666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Bosnia and Herzegovina,6,4,2,31,2,1,13,17,0,NA,0,0,1,4,Dino Oglić,Vladimir Vladičić,64,10.666666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Morocco,6,5,1,30,0,11,9,14,0,NA,0,1,1,2,Moulay Ahmed Moussaoui,Abdellatif Zerouale,64,10.666666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Slovenia,6,4,2,31,2,1,24,6,0,NA,0,0,1,3,Gregor Dolinar,Jure Vogrinc,64,10.666666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Turkmenistan,6,6,NA,31,1,2,22,4,4,NA,0,0,3,1,Erol Aslan,Arslan Hojiyev,64,10.666666666666666,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Uzbekistan,5,4,1,28,0,4,10,18,2,NA,0,0,1,2,Shuhrat Ismailov,Muratkhon Sharakhimov,62,12.4,0.2,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Armenia,5,5,NA,32,7,1,13,6,2,NA,0,1,0,3,Nairi Sedrakyan,Kirakos Gasparyan,61,12.2,0.2,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Azerbaijan,6,6,NA,21,0,14,8,14,4,NA,0,1,1,1,Fuad Garayev,Jafar Jafarov,61,10.166666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Costa Rica,4,4,NA,28,0,1,13,15,0,NA,0,1,0,3,Mario Alberto Marín Sánchez,Daniel Campos Salas,57,14.25,0.25,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Saudi Arabia,6,6,NA,21,0,4,13,15,0,NA,0,0,2,0,Fawzi Al-Thukair,Najla Altwaijry,53,8.833333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Cyprus,6,6,NA,24,0,1,12,12,2,NA,0,0,1,1,Andreas Philippou,Dimitrios Karantanos,51,8.5,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Bangladesh,6,5,1,26,0,0,10,13,1,NA,0,0,1,1,Mahbub Alam Majumdar,A A Munir Hasan,50,8.333333333333334,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Sri Lanka,6,6,NA,23,0,0,9,17,0,NA,0,0,1,2,Chanakya Janak Wijeratne,Supun Thamara Samarakoon,49,8.166666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Chile,6,6,NA,26,0,7,4,11,0,NA,0,0,1,1,Hernan Burgos,Victor Cortes,48,8,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Iceland,6,4,2,29,0,0,13,6,0,NA,0,0,0,3,Marteinn Þór Harðarson,Johanna Katrin Eggertsdottir,48,8,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Luxembourg,6,5,1,28,0,1,14,5,0,NA,0,0,1,2,Bernard Felten,Philippe Schram,48,8,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Tunisia,6,6,NA,24,0,0,13,9,0,NA,0,0,1,1,Taoufik Charrada,Raouf Thabet,46,7.666666666666667,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Nigeria,6,4,2,17,0,1,10,11,1,NA,0,0,1,0,Samson Olatunji Ale,Steve Dele Oluwaniyi,40,6.666666666666667,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,North Macedonia,6,5,1,18,0,4,9,5,2,NA,0,0,1,0,Vesna Manova-Erakovik,Alekso Malcheski,38,6.333333333333333,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Paraguay,5,4,1,19,0,0,9,10,0,NA,0,0,0,1,Jose Guillermo von Lucken,Diana Gimenez de von Lucken,38,7.6,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Pakistan,4,3,1,20,0,2,8,5,0,NA,0,0,1,1,Barbu Berceanu,Ahmad Mahmood Qureshi,35,8.75,0.25,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Ivory Coast,6,6,NA,20,0,0,4,10,0,NA,0,0,0,2,Armel Didier Yavo,Kouassi Sylvestre Konin,34,5.666666666666667,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Ecuador,6,5,1,17,0,0,7,8,0,NA,0,0,1,0,Vicente Torres,Jorge Chamaidan,32,5.333333333333333,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Puerto Rico,4,4,NA,15,0,0,11,6,0,NA,0,0,0,2,Luis Fernando Cáceres Duque,George C. Arzeno,32,8,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Trinidad and Tobago,6,5,1,12,0,0,13,4,0,NA,0,0,0,1,Indra Haraksingh,Ousha Indira Sinanan,29,4.833333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Uruguay,4,4,NA,15,1,0,11,2,0,NA,0,0,0,2,Leonardo Lois Da Silva,Antonio Velázquez Tarditi,29,7.25,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Ireland,6,4,2,17,0,0,7,2,0,NA,0,0,0,0,Bernd Kreussler,Gordon Lessells,26,4.333333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Albania,6,4,2,18,0,0,2,4,0,NA,0,0,0,1,Fatmir Hoxha,Artur Baxhaku,24,4,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Kosovo,6,5,1,15,0,1,2,4,0,NA,0,0,0,1,Ramadan Limani,Kajtaz Bllaca,22,3.6666666666666665,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Venezuela,2,2,NA,14,0,0,5,2,0,NA,0,0,0,2,Rafael Sánchez,Laura Vielma Herrero,21,10.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Bolivia,4,3,1,9,0,0,7,1,0,NA,0,0,0,1,Jaime Manuel Rojas Claure,Ismael Chávez Guevara,17,4.25,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Kyrgyzstan,5,5,NA,11,0,0,0,0,3,NA,0,0,0,1,Buras Boljiev,Taalaibek Dyikanov,14,2.8,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Syria,6,6,NA,9,0,0,3,2,0,NA,0,0,0,1,Abdullatif Hanano,Imad Fattash,14,2.3333333333333335,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Montenegro,4,3,1,11,0,0,1,1,0,NA,0,0,0,1,Sinisa Stamatovic,Verica Ivanovic,13,3.25,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,El Salvador,2,2,NA,4,0,1,3,2,1,NA,0,0,0,0,Aarón Ernesto Ramírez Flores,NA,11,5.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Guatemala,4,1,3,4,0,0,4,0,0,NA,0,0,0,0,José García,Javier Ronquillo,8,2,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Honduras,2,2,NA,3,0,0,1,2,0,NA,0,0,0,0,Juan Carlos Iglesias,Luis Armando Ramos Palacios,6,3,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Panama,1,1,NA,1,0,2,2,1,0,NA,0,0,0,0,David Narvaez,NA,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Liechtenstein,1,1,NA,2,1,0,1,0,0,NA,0,0,0,0,Florian Meier,Philipp Wirth,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,Kuwait,5,5,NA,0,0,0,1,0,0,NA,0,0,0,0,Ibrahim Alqattan,Abdulrazzaq Albaghli,1,0.2,0,NA,NA,NA,NA,NA,NA,NA,NA
+2011,United Arab Emirates,5,2,3,0,0,0,1,0,0,NA,0,0,0,0,Salim Abdalla Nasir Al-Nuaimi,Aaesha Jasem Ali Al Shamsi,1,0.2,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,People's Republic of China,6,5,1,41,42,23,42,24,25,NA,6,0,0,0,Bin Xiong,Zhigang Feng,197,32.833333333333336,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Russian Federation,6,6,NA,41,35,11,42,20,20,NA,4,2,0,0,Nazar Agakhanov,Dmitry Tereshin,169,28.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,United States of America,6,6,NA,40,42,8,42,24,12,NA,3,3,0,0,Zuming Feng,Po-Shen Loh,168,28,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Republic of Korea,6,6,NA,42,42,24,42,0,6,NA,4,2,0,0,Yong Jin Song,Seunghun Yi,156,26,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Kazakhstan,6,6,NA,42,35,13,42,4,12,NA,3,2,0,1,Almaz Kungozhin,Sergey Polyanskikh,148,24.666666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Thailand,6,6,NA,42,42,16,42,5,1,NA,1,5,0,0,Wicharn Lewkeeratiyutkul,Utsanee Leerawat,148,24.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Japan,6,6,NA,41,29,15,42,6,8,NA,2,3,0,1,Yasuo Morita,Shinichi Suzuki,141,23.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Türkiye,6,6,NA,40,36,13,42,7,1,NA,1,3,2,0,Okan Tekman,Azer Kerimov,139,23.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Germany,6,5,1,39,31,9,42,5,12,NA,1,3,2,0,Hans-Dietrich Gronau,Christian Reiher,138,23,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Serbia,6,6,NA,39,31,7,42,9,7,NA,1,3,2,0,Đorđe Krtinić,Dušan Đukić,135,22.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Italy,6,6,NA,40,27,3,42,18,3,NA,1,3,2,0,Roberto Dvornicich,Massimo Gobbino,133,22.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Vietnam,6,6,NA,41,42,8,42,0,0,NA,1,4,1,0,Hà Huy Khoái,Nguyễn Khắc Minh,133,22.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Canada,6,6,NA,37,21,12,35,17,7,NA,2,1,2,1,Adrian Tang,Victoria Krakovna,129,21.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Hungary,6,6,NA,41,22,8,38,12,8,NA,2,2,1,1,József Pelikán,Sándor Dobos,129,21.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Australia,6,5,1,41,29,2,42,11,3,NA,1,3,1,1,Angelo Di Pasquale,Ivan Guo,128,21.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Islamic Republic of Iran,6,6,NA,35,42,4,42,3,1,NA,0,4,2,0,Arash Rastegar,Omid Naghshineh Arjmand,127,21.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Romania,6,6,NA,40,22,7,42,7,9,NA,2,1,2,1,Radu Gologan,Mihai Bălună,127,21.166666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Peru,6,6,NA,39,35,1,42,7,0,NA,1,3,1,1,Jorge Tipe Villanueva,Jesús Zapata Samanez,124,20.666666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Taiwan,6,6,NA,40,29,2,42,9,1,NA,1,3,1,1,Shu-Chung Liu,Chin-Yi Lin,123,20.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Hong Kong,6,6,NA,39,22,3,42,14,1,NA,1,2,3,0,Yuk Kam Lau,Cesar Jose Alaban,121,20.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Bulgaria,6,6,NA,41,22,1,42,5,7,NA,1,2,3,0,Nikolai Nikolov,Peter Boyvalenkov,118,19.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Singapore,6,6,NA,42,28,0,37,10,0,NA,0,4,1,1,Yan Loi Wong,Shang-Yi Lu,117,19.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Ukraine,6,4,2,41,25,7,42,2,0,NA,1,2,3,0,Bogdan Rublov,Nataliia Prokopenko,117,19.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Poland,6,6,NA,41,21,1,35,9,9,NA,2,1,1,2,Andrzej Komisarski,Michał Pilipczuk,116,19.333333333333332,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,United Kingdom,6,6,NA,42,1,8,42,15,6,NA,1,1,2,2,Geoff Smith,James Cranch,114,19,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Uzbekistan,6,5,1,34,36,0,42,0,0,NA,0,4,1,1,Shuhrat Ismailov,Jamshid Rasulov,112,18.666666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Belarus,6,5,1,39,29,3,38,1,0,NA,0,2,3,1,Igor Voronovich,Sergei Mazanik,110,18.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Azerbaijan,6,6,NA,29,37,0,42,1,0,NA,0,3,2,1,Fuad Garayev,Jafar Jafarov,109,18.166666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,New Zealand,6,6,NA,41,18,0,42,5,0,NA,0,2,4,0,Chris Tuffley,Ilya Chevyrev,106,17.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,France,6,5,1,38,28,4,28,5,2,NA,0,3,1,1,Claude Deschamps,Pierre Bornsztein,105,17.5,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Indonesia,6,6,NA,42,14,1,42,6,0,NA,0,1,4,1,Hery Susanto,Yudi Satria,105,17.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Croatia,6,6,NA,42,10,4,39,8,0,NA,0,2,3,1,Tomislav Pejković,Matija Bašić,103,17.166666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Mexico,6,6,NA,40,16,1,42,3,0,NA,0,1,4,1,Radmila Bulajich,Marco Antonio Figueroa Ibarra,102,17,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Georgia,6,6,NA,40,29,2,30,0,0,NA,0,2,2,2,Larry Gogoladze,George Chelidze,101,16.833333333333332,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Brazil,6,5,1,35,21,1,42,0,0,NA,0,2,1,3,Edmilson Luis Rodrigues Motta,Marcelo Mendes de Oliveira,99,16.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2010,India,6,6,NA,38,21,3,34,0,2,NA,0,2,1,3,Venkatachala Belur Jana,Joseph Amal Nathan,98,16.333333333333332,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Greece,6,6,NA,37,15,0,42,1,0,NA,0,2,0,4,Anargyros Felouris,Evangelos Zotos,95,15.833333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Netherlands,6,5,1,42,3,0,42,6,1,NA,0,0,5,1,Johan Konter,Birgit van Dalen,94,15.666666666666666,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Argentina,6,5,1,36,15,1,37,3,0,NA,0,1,2,2,Patricia Fauring,Flora Gutierrez,92,15.333333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Lithuania,6,4,2,31,21,2,35,3,0,NA,0,1,3,2,Artūras Dubickas,Romualdas Kašuba,92,15.333333333333334,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Republic of Moldova,6,6,NA,33,9,0,42,8,0,NA,0,1,3,2,Valeriu Baltag,Marcel Teleucă,92,15.333333333333334,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Slovakia,6,6,NA,42,7,0,30,7,6,NA,1,0,2,3,Peter Novotný,Ján Mazák,92,15.333333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Switzerland,6,6,NA,34,6,0,34,17,1,NA,0,0,3,3,Anna Devic,Julian Kellerhals,92,15.333333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Turkmenistan,6,6,NA,32,17,0,42,0,0,NA,0,1,2,3,Erol Aslan,Polat Chariyev,91,15.166666666666666,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Denmark,6,6,NA,35,8,1,15,24,7,NA,1,0,2,2,Jens-Søren Kjær Andersen,Sune Kristian Jakobsen,90,15,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Spain,6,6,NA,39,1,2,27,16,4,NA,0,1,2,2,Juan Manuel Conde,Marco Castrillón López,89,14.833333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Austria,6,6,NA,42,8,0,29,8,0,NA,1,0,1,4,Robert Geretschläger,Heinrich Josef Gstöttner,87,14.5,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Czech Republic,6,6,NA,41,3,0,26,14,0,NA,0,0,2,3,Martin Panák,Pavel Calábek,84,14,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Bosnia and Herzegovina,6,5,1,29,8,0,40,3,0,NA,0,0,2,4,Vladimir Vladičić,Dino Oglić,80,13.333333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Mongolia,6,4,2,17,14,0,42,6,0,NA,0,0,2,4,Dashdorj Tserendorj,Batbayasgalan Balkhuu,79,13.166666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Slovenia,6,6,NA,39,3,0,35,1,0,NA,0,0,2,3,Gregor Dolinar,Jure Vogrinc,78,13,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Sri Lanka,6,5,1,29,5,0,42,2,0,NA,0,0,1,5,Chanakya Janak Wijeratne,Galappaththige Jagath Kapila Silva,78,13,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Israel,5,4,1,33,9,1,27,6,0,NA,0,1,1,2,Shay Gueron,Eran Assaf,76,15.2,0.4,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Malaysia,6,6,NA,32,10,1,31,1,0,NA,0,1,1,3,M. Suhaimi Ramly,Muhammad Ikhwan Azlan,75,12.5,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Portugal,6,6,NA,34,1,0,38,2,0,NA,0,0,1,4,Joana Teles,Joel Moreira,75,12.5,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Tajikistan,6,6,NA,21,10,0,42,0,0,NA,0,1,0,5,Umed Karimov,Yusuf Balkash,73,12.166666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Latvia,6,5,1,36,1,0,26,9,0,NA,0,0,2,2,Māris Valdats,Juris Škuškovniks,72,12,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,North Macedonia,6,6,NA,22,14,4,27,2,0,NA,0,1,0,2,Vesna Manova-Erakovik,Alekso Malcheski,69,11.5,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,South Africa,6,5,1,34,1,0,26,1,7,NA,0,0,2,4,David Hatton,Maciej Stankiewicz,69,11.5,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Belgium,6,6,NA,42,3,0,10,8,1,NA,0,0,0,6,Bart Windels,Philippe Niederkorn,64,10.666666666666666,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Armenia,6,6,NA,32,2,0,27,2,0,NA,0,0,1,3,Koryun Arakelyan,Tigran Margaryan,63,10.5,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Cyprus,6,4,2,17,11,0,33,1,0,NA,0,0,1,3,Andreas Skotinos,Theoklitos Paragyiou,62,10.333333333333334,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Estonia,6,6,NA,37,2,0,13,9,0,NA,0,0,0,4,Indrek Zolk,Oleg Košik,61,10.166666666666666,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Kyrgyzstan,6,5,1,10,14,0,35,2,0,NA,0,1,1,3,Buras Boljiev,Ayimbek Sadybakasov,61,10.166666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Colombia,4,3,1,24,10,0,24,2,0,NA,0,0,3,1,Maria Elizabeth Losada,Esteban Gonzalez,60,15,0.75,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Cambodia,6,5,1,21,2,1,34,0,0,NA,0,0,0,5,Sokly Lim,Sovann Soun,58,9.666666666666666,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Morocco,6,6,NA,38,1,0,15,1,0,NA,0,0,1,3,My Ahmed Moussaoui,Abdellatif Zerouale,55,9.166666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Saudi Arabia,6,6,NA,36,4,0,14,1,0,NA,0,0,2,2,Fawzi Al-Thukair,Abdullah Al-Jouiee,55,9.166666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Bangladesh,5,4,1,19,7,0,28,0,0,NA,0,0,1,3,Mahbub Alam Majumdar,A A Munir Hasan,54,10.8,0.2,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Ivory Coast,5,5,NA,24,9,0,21,0,0,NA,0,1,0,2,Jean Sosthène Alphone Békoin Amon,Isaac Tapé,54,10.8,0.2,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Iceland,6,2,4,20,5,0,27,1,0,NA,0,0,0,4,Bjarni Vilhjálmur Halldórsson,Marteinn Þór Harðarson,53,8.833333333333334,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Finland,6,6,NA,34,2,0,16,0,0,NA,0,0,1,4,Matti Lehtinen,Esa Vesalainen,52,8.666666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Sweden,6,5,1,32,0,0,13,7,0,NA,0,0,0,3,Paul Vaderlind,Victor Ufnarovski,52,8.666666666666666,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Philippines,3,2,1,17,7,0,21,0,0,NA,0,1,0,2,Ian June Luzon Garces,Glen Mackenzie Co Ong,45,15,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Norway,6,6,NA,21,2,0,13,5,0,NA,0,0,0,1,Dávid Kunszenti-Kovács,Johannes Kleppe,41,6.833333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Ecuador,6,4,2,18,5,0,16,0,0,NA,0,0,1,1,Fernando Gómez,Rubén Villacís,39,6.5,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Trinidad and Tobago,5,4,1,11,7,0,15,4,0,NA,0,1,0,0,Indra Haraksingh,Ousha Indira Sinanan,37,7.4,0.2,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Puerto Rico,2,2,NA,9,7,1,10,7,0,NA,1,0,0,0,Luis Fernando Cáceres Duque,Yuri Rojas-Ramírez,34,17,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Costa Rica,3,3,NA,17,1,0,14,0,0,NA,0,0,1,1,Mario Alberto Marín Sánchez,NA,32,10.666666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Panama,2,2,NA,14,3,1,14,0,0,NA,0,0,2,0,David Narvaez,NA,32,16,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Luxembourg,3,3,NA,14,0,0,14,3,0,NA,0,0,0,2,Charles Leytem,Bernard Felten,31,10.333333333333334,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Tunisia,2,2,NA,10,7,0,14,0,0,NA,0,1,0,1,Seifeddine Snoussi,Mohamed Naceur Manai,31,15.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Syria,6,2,4,11,1,0,17,0,0,NA,0,0,0,2,Emad Alazeb,Abdullatif Hanano,29,4.833333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Nigeria,5,4,1,14,0,0,12,1,0,NA,0,0,1,0,Samson Olatunji Ale,Steve Dele Oluwaniyi,27,5.4,0.2,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Cuba,1,1,NA,7,7,0,7,5,0,NA,0,1,0,0,Eduardo Pérez Almarales,NA,26,26,1,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Paraguay,4,4,NA,10,3,0,13,0,0,NA,0,0,0,1,Gabriela Gomez Pasquali,Inocencio Ortiz Samudio,26,6.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,El Salvador,3,2,1,8,0,0,17,0,0,NA,0,0,0,2,Carlos Mauricio Canjura Linares,Aarón Ernesto Ramírez Flores,25,8.333333333333334,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Pakistan,5,4,1,11,1,0,7,0,0,NA,0,0,0,1,Alla Ditta Choudary,Ahmad Mahmood Qureshi,19,3.8,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Ireland,6,5,1,8,1,0,0,9,0,NA,0,0,0,0,Bernd Kreussler,Gordon Lessells,18,3,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Venezuela,2,1,1,7,1,0,7,1,0,NA,0,0,0,1,Rafael Sánchez,Henry Martínez,16,8,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Guatemala,2,2,NA,12,0,0,0,0,0,NA,0,0,0,1,José García,Javier Ronquillo,12,6,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Albania,4,2,2,6,2,0,3,0,0,NA,0,0,0,0,Fatmir Hoxha,Artur Baxhaku,11,2.75,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Bolivia,4,3,1,5,1,0,2,0,0,NA,0,0,0,0,NA,Jaime Manuel Rojas Claure,8,2,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Montenegro,4,4,NA,0,0,0,7,0,0,NA,0,0,0,1,Sinisa Stamatovic,Verica Ivanovic,7,1.75,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Kuwait,5,5,NA,1,1,0,0,0,0,NA,0,0,0,0,Ibrahim Alqattan,Abdulrazzaq Albaghli,2,0.4,0,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Democratic People's Republic of Korea,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2009,People's Republic of China,6,6,NA,42,42,42,42,42,11,NA,6,0,0,0,Hua-Wei Zhu,Gang-Song Leng,221,36.833333333333336,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Japan,6,6,NA,42,42,34,33,42,19,NA,5,0,1,0,Yuji Ito,Yasuharu Asai,212,35.333333333333336,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Russian Federation,6,6,NA,42,39,31,42,42,7,NA,5,1,0,0,Nazar Agakhanov,Dmitry Tereshin,203,33.833333333333336,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Republic of Korea,6,6,NA,42,42,22,40,42,0,NA,3,3,0,0,Myung-Hwan Kim,Byeong Kweon Oh,188,31.333333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Democratic People's Republic of Korea,6,6,NA,42,35,24,39,36,7,NA,3,2,1,0,Yong Chol Ham,Yong Ho Kim,183,30.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,United States of America,6,6,NA,42,42,20,33,42,3,NA,2,4,0,0,Zuming Feng,Josh Nichols-Barrar,182,30.333333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Thailand,6,6,NA,42,42,17,40,40,0,NA,1,5,0,0,Paisan Nakmahachalasint,Nattaphan Kittisin,181,30.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Türkiye,6,6,NA,42,42,23,32,38,0,NA,2,4,0,0,Okan Tekman,Azer Kerimov,177,29.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Germany,6,5,1,42,33,11,38,37,10,NA,1,4,1,0,Eric Müller,Thomas Kalinowski,171,28.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Belarus,6,4,2,37,34,15,39,42,0,NA,1,4,1,0,Igor Voronovich,Sergei Mazanik,167,27.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Italy,6,6,NA,42,38,18,29,38,0,NA,2,2,2,0,Roberto Dvornicich,Francesco Morandin,165,27.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Taiwan,6,6,NA,42,38,4,35,42,4,NA,1,5,0,0,Shu-Chung Liu,Shou-Jen Hsiao,165,27.5,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Romania,6,5,1,39,42,15,28,36,3,NA,2,2,2,0,Radu Gologan,Mihai Bălună,163,27.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Ukraine,6,4,2,36,42,14,33,31,6,NA,3,1,2,0,Bogdan Rublov,Nataliia Prokopenko,162,27,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Islamic Republic of Iran,6,6,NA,42,42,10,30,34,3,NA,1,4,1,0,Arash Rastegar,Omid Naghshineh Arjmand,161,26.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Vietnam,6,6,NA,36,38,16,37,30,4,NA,2,2,2,0,Hà Huy Khoái,Nguyễn Khắc Minh,161,26.833333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Brazil,6,6,NA,42,37,10,38,30,3,NA,1,3,2,0,Carlos Yuzo Shine,Ralph Costa Teixeira,160,26.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Canada,6,6,NA,41,35,13,33,36,0,NA,1,3,2,0,Dorette Pronk,David Arthur,158,26.333333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Bulgaria,6,6,NA,42,38,9,32,36,0,NA,1,3,2,0,Nikolai Nikolov,Peter Boyvalenkov,157,26.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Hungary,6,6,NA,42,42,18,21,34,0,NA,1,2,3,0,József Pelikán,Sándor Dobos,157,26.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,United Kingdom,6,6,NA,41,38,17,32,29,0,NA,1,3,2,0,Geoff Smith,Vesna Kadelburg,157,26.166666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Serbia,6,6,NA,41,40,11,33,28,0,NA,1,3,1,0,Đorđe Krtinić,Dušan Đukić,153,25.5,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Australia,6,4,2,40,34,21,21,30,5,NA,2,1,2,1,Angelo Di Pasquale,Ivan Guo,151,25.166666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Peru,6,6,NA,36,38,4,28,37,1,NA,0,4,2,0,Emilio Gonzaga Ramírez,Mariano Adán González Ulloa,144,24,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Georgia,6,6,NA,42,31,12,29,26,0,NA,0,3,2,1,Larry Gogoladze,George Bareladze,140,23.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Poland,6,6,NA,41,29,11,17,42,0,NA,0,2,4,0,Andrzej Komisarski,Przemysław Mazur,140,23.333333333333332,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Kazakhstan,6,6,NA,42,37,4,31,22,0,NA,0,3,3,0,Yerzhan Baisalov,Damir Yeliussizov,136,22.666666666666668,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,India,6,6,NA,42,26,7,21,30,4,NA,0,3,2,1,Chudamani R Pranesachar,Zafar Ahmed,130,21.666666666666668,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Hong Kong,6,6,NA,25,35,10,32,20,0,NA,1,2,2,0,Tat Wing Leung,Yuk Kam Lau,122,20.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Singapore,6,6,NA,42,29,11,17,17,0,NA,0,2,3,1,Yan Loi Wong,David Chia,116,19.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2009,France,6,6,NA,40,24,7,18,23,0,NA,0,1,3,2,Claude Deschamps,Pierre Bornsztein,112,18.666666666666668,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Croatia,6,5,1,39,37,3,20,11,0,NA,0,1,4,1,Mea Bombardelli,Matija Bašić,110,18.333333333333332,0.8333333333333334,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Portugal,6,6,NA,42,22,2,21,12,0,NA,0,1,3,2,Joana Teles,Joel Moreira,99,16.5,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Turkmenistan,6,6,NA,32,29,1,26,9,0,NA,0,1,3,0,Erol Aslan,Jumageldi Chariyev,97,16.166666666666668,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Argentina,6,6,NA,36,21,9,7,20,0,NA,0,1,1,2,Patricia Fauring,Flora Gutierrez,93,15.5,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Azerbaijan,6,6,NA,24,24,0,29,14,0,NA,0,1,2,2,Fuad Garayev,Jafar Jafarov,91,15.166666666666666,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,North Macedonia,6,6,NA,34,25,7,16,9,0,NA,0,1,3,1,Vesna Manova-Erakovik,Alekso Malcheski,91,15.166666666666666,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Belgium,6,6,NA,36,17,3,24,9,0,NA,0,1,2,1,Bart Windels,Philippe Niederkorn,89,14.833333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Colombia,6,5,1,36,21,10,11,10,0,NA,0,1,2,2,Maria Elizabeth Losada,Jonathan Montaño,88,14.666666666666666,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Czech Republic,6,6,NA,40,20,3,8,16,0,NA,0,1,2,3,Jaroslav Švrček,Martin Panák,87,14.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Greece,6,6,NA,36,26,0,17,7,0,NA,0,0,3,3,Anargyros Fellouris,Evangelos Zotos,86,14.333333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Uzbekistan,6,5,1,18,33,1,29,4,0,NA,0,1,2,1,Shuhrat Ismailov,Muratkhon Sharakhimov,85,14.166666666666666,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Indonesia,6,6,NA,35,13,1,19,16,0,NA,0,0,4,1,Hery Susanto,Yudi Satria,84,14,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,South Africa,6,6,NA,42,26,8,2,6,0,NA,0,0,2,4,David Hatton,Maciej Stankiewicz,84,14,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Tajikistan,6,6,NA,18,30,1,29,4,0,NA,0,1,2,0,Umed Karimov,Yusuf Balkash,82,13.666666666666666,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Israel,6,5,1,36,18,4,14,8,0,NA,0,0,3,2,Shay Gueron,Eran Assaf,80,13.333333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Netherlands,6,5,1,37,21,2,11,8,0,NA,0,1,1,2,Quintijn Puite,Birgit van Dalen,79,13.166666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Switzerland,6,6,NA,37,19,3,11,9,0,NA,0,0,3,2,Anna Devic,Thomas Huber,79,13.166666666666666,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Lithuania,6,5,1,36,14,2,11,14,0,NA,0,1,1,3,Artūras Dubickas,Romualdas Kašuba,77,12.833333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Mexico,6,6,NA,30,30,1,11,2,0,NA,0,0,3,1,Radmila Bulajich,Pablo Soberón,74,12.333333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Republic of Moldova,6,6,NA,30,27,1,9,7,0,NA,0,0,4,0,Valeriu Baltag,Iurie Boreico,74,12.333333333333334,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Sri Lanka,6,6,NA,23,21,0,26,4,0,NA,0,0,2,3,Chanakya Janak Wijeratne,Thameera Priyadarshi Senanayaka,74,12.333333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Slovakia,6,6,NA,38,16,4,11,4,0,NA,0,0,2,3,Vojtech Bálint,Ján Mazák,73,12.166666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Mongolia,6,6,NA,37,16,1,14,4,0,NA,0,0,3,1,Dashdorj Tserendorj,Ganbileg Bat-Ochir,72,12,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Spain,6,6,NA,28,16,1,10,16,0,NA,0,0,4,0,María Gaspar Alonso-Vega,Ignasi Mundet Riera,71,11.833333333333334,0.6666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Sweden,6,5,1,42,13,1,5,9,0,NA,0,0,2,4,Paul Vaderlind,Victor Ufnarovski,70,11.666666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Denmark,6,5,1,33,14,3,6,9,3,NA,0,1,1,1,Jens-Søren Kjær Andersen,Sune Precht Reeh,68,11.333333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Bangladesh,6,5,1,21,29,0,15,2,0,NA,0,0,2,3,Mahbub Alam Majumdar,A A Munir Hasan,67,11.166666666666666,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Austria,6,5,1,26,14,0,13,13,0,NA,0,0,2,2,Robert Geretschläger,Walther Janous,66,11,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Luxembourg,6,5,1,25,25,1,8,4,2,NA,0,0,3,1,Charles Leytem,Hsu Ming-Koon,65,10.833333333333334,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Bosnia and Herzegovina,6,4,2,33,8,0,16,6,0,NA,0,0,1,3,Damir Hasić,Boris Marjanović,63,10.5,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Latvia,6,5,1,26,14,2,19,0,0,NA,0,0,1,3,Agnis Andžāns,Juris Škuškovniks,61,10.166666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Norway,6,6,NA,34,16,2,1,7,0,NA,0,0,2,2,Dávid Kunszenti-Kovács,Pål Hermunn Johansen,60,10,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Armenia,6,5,1,26,16,0,15,2,0,NA,0,0,2,1,Nairi Sedrakyan,Koryun Arakelyan,59,9.833333333333334,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Slovenia,6,5,1,31,16,0,9,2,0,NA,0,0,1,3,Gregor Dolinar,Irena Majcen,58,9.666666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,New Zealand,6,6,NA,36,6,0,9,2,0,NA,0,0,1,3,Michael Albert,Heather Rose Macbeth,53,8.833333333333334,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Finland,6,6,NA,31,2,0,6,10,0,NA,0,0,0,4,Matti Lehtinen,Niko Vuokko,49,8.166666666666666,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Macau,6,6,NA,13,21,0,4,11,0,NA,0,0,1,2,Ieng Tak Leong,Lung Yam Wan,49,8.166666666666666,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Cyprus,6,4,2,23,10,1,7,4,0,NA,0,1,0,2,Andreas Skotinos,Savvas Timotheou,45,7.5,0.16666666666666666,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Chile,4,4,NA,10,10,7,11,3,0,NA,0,1,0,0,Hernan Burgos,Victor Cortes,41,10.25,0.25,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Estonia,6,5,1,23,8,1,6,2,0,NA,0,0,0,3,Härmel Nestra,Oleg Košik,40,6.666666666666667,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Costa Rica,4,4,NA,16,6,1,9,2,0,NA,0,0,1,1,Mario Alberto Marín Sánchez,Daniel Campos Salas,34,8.5,0.25,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Kyrgyzstan,6,5,1,2,25,0,6,0,0,NA,0,0,0,3,Buras Boljiev,Ainagul Osmonalieva,33,5.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Morocco,6,5,1,12,6,0,9,5,0,NA,0,0,0,0,Abdelmoumen Med El Rhezzali,El Maachi Laabiyad,32,5.333333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Malaysia,2,2,NA,7,8,1,8,7,0,NA,0,1,0,0,M. Suhaimi Ramly,Muhammad Ikhwan Azlan,31,15.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Trinidad and Tobago,6,5,1,12,12,0,3,1,0,NA,0,0,0,2,Indra Haraksingh,Christopher Brereton,28,4.666666666666667,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Tunisia,5,4,1,14,4,0,7,2,0,NA,0,0,1,0,Seifeddine Snoussi,Mohamed Naceur Manai,27,5.4,0.2,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Ecuador,6,6,NA,9,7,0,10,0,0,NA,0,0,0,1,Jorge Chamaidan,NA,26,4.333333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Iceland,6,4,2,25,0,0,0,1,0,NA,0,0,0,1,Auðun Sæmundsson,Ragna Briem,26,4.333333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Philippines,4,3,1,9,7,1,7,2,0,NA,0,0,1,0,Ian June Luzon Garces,Julius Magalona Basilla,26,6.5,0.25,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Albania,6,5,1,9,7,0,5,3,0,NA,0,0,0,0,Fatmir Hoxha,Artur Baxhaku,24,4,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Honduras,3,3,NA,7,11,0,6,0,0,NA,0,0,1,0,Mario Roberto Canales Villanueva,Juan Carlos Iglesias,24,8,0.3333333333333333,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Montenegro,4,3,1,9,6,2,6,0,0,NA,0,0,0,1,Svjetlana Terzić,Savo Tomović,23,5.75,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Puerto Rico,6,5,1,10,6,0,7,0,0,NA,0,0,0,1,Luis Caceres,Yuri Rojas,23,3.8333333333333335,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Cuba,1,1,NA,7,6,1,5,2,0,NA,0,0,1,0,Eduardo Pérez Almarales,NA,21,21,1,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Liechtenstein,2,1,1,6,5,0,7,3,0,NA,0,0,1,0,Julian Kellerhals,Reto Locher,21,10.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Pakistan,5,5,NA,9,5,1,4,2,0,NA,0,0,1,0,Alla Ditta Choudary,Ahmad Mahmood Qureshi,21,4.2,0.2,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Uruguay,6,6,NA,8,8,0,5,0,0,NA,0,0,0,1,Leonardo Lois,Eduardo Peraza,21,3.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Ireland,6,5,1,7,6,0,7,0,0,NA,0,0,0,0,Bernd Kreussler,Gordon Lessells,20,3.3333333333333335,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Nigeria,6,5,1,6,7,0,4,0,0,NA,0,0,0,0,Samson Olatunji Ale,Oluwaniyi Steve Dele,17,2.8333333333333335,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Cambodia,6,2,4,4,7,0,3,0,0,NA,0,0,0,0,Lin Sok,Sovann Suon,14,2.3333333333333335,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Guatemala,4,4,NA,8,3,0,2,1,0,NA,0,0,0,1,Javier Ronquillo,José García,14,3.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Paraguay,4,3,1,7,5,0,2,0,0,NA,0,0,0,0,Jose Guillermo von Lucken,Diana Gimenez de von Lucken,14,3.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,El Salvador,3,2,1,3,6,0,3,1,0,NA,0,0,0,0,Carlos Mauricio Canjura Linares,Riquelmi Salvador Cardona Fuentes,13,4.333333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Venezuela,2,1,1,5,2,0,6,0,0,NA,0,0,0,0,Rafael Sánchez Lamoneda,Laura Vielma Herrero,13,6.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Panama,1,1,NA,7,3,0,1,1,0,NA,0,0,0,1,Jaime Gutierrez,NA,12,12,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Bolivia,3,3,NA,3,4,0,2,0,0,NA,0,0,0,0,René Arturo Aguilar Vera,NA,9,3,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Mauritania,6,6,NA,2,3,2,1,0,0,NA,0,0,0,0,Isselmou Ould Lebat Ould Farajou,Horma Ould Hamoud,8,1.3333333333333333,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Syria,5,2,3,0,5,0,2,0,0,NA,0,0,0,0,Abdullatif Hanano,Salah Asad,7,1.4,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Zimbabwe,2,2,NA,3,1,0,0,1,0,NA,0,0,0,0,Thomas Masiwa,John Walter Greenacre,5,2.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Benin,2,1,1,1,1,0,0,1,0,NA,0,0,0,0,Assogba Bernardin Kpamegan,Emile Sacla,3,1.5,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Kuwait,4,2,2,0,3,0,0,0,0,NA,0,0,0,0,Ibrahim Alqattan,Husain Ali,3,0.75,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,United Arab Emirates,5,NA,5,2,0,0,1,0,0,NA,0,0,0,0,Mohamed Salim Almakhooli,Aaesha Jasem Ali Alshamsi,3,0.6,0,NA,NA,NA,NA,NA,NA,NA,NA
+2009,Algeria,4,3,1,1,1,0,0,0,0,NA,0,0,0,0,Abed-Seddik Bouchoucha,Ali Atia,2,0.5,0,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,178 @@
+---
+title: "Upload_New_Features"
+author: "Saniya Bekova"
+format: pdf
+editor: visual
+---
+
+```{r libraries}
+library(tidymodels)
+library(tidyverse)
+```
+
+```{r}
+education_data_new <- read_csv('data/New_Education_Data.csv') 
+
+education_data_new_1 <- education_data_new |>
+  filter(Series %in% c('Government expenditure on education, constant US$ (millions)', 
+                       'Government expenditure on education, US$ (millions)',
+                       'GDP per capita (current US$)',
+                       'Expenditure on education as % of total government expenditure (%)',
+                       'Current expenditure as % of total expenditure in public institutions (%)',
+                       'Annual statutory teacher salaries in public institutions in USD. Primary. 10 years of experience',
+                       'Labor force with advanced education (% of total labor force)',
+                       'Internet users (per 100 people)',
+                       'Percentage of graduates from tertiary education graduating from Natural Sciences, Mathematics and Statistics programmes, both sexes (%)'))
+
+
+head(education_data_new_1)
+
+
+```
+
+```{r}
+educational_data_2 <-  pivot_longer(education_data_new_1, 
+                                   cols = c('2009 [YR2009]', '2010 [YR2010]', '2011 [YR2011]', '2012 [YR2012]', '2013 [YR2013]', '2014 [YR2014]', '2015 [YR2015]', '2016 [YR2016]', '2017 [YR2017]', '2018 [YR2018]', '2019 [YR2019]'), 
+                                   names_to = "Year",                  
+                                   values_to = "Value") |>
+  mutate(Year = str_replace(Year, " \\[YR[0-9]+\\]", "")) 
+
+educational_data_2 |>
+  pivot_wider(names_from = `Series Code`,
+              values_from = Value) |>
+  select(`Country Name`, `Country Code`, Year, SE.TER.GRAD.SC.ZS,
+         IT.NET.USER.P2, SL.TLF.ADVN.ZS, UIS.X.US.FSGOV, UIS.X.USCONST.FSGOV, NY.GDP.PCAP.CD, SE.XPD.TOTL.GB.ZS, SE.XPD.CUR.TOTL.ZS, OECD.TSAL.1.E10 )
+```
+
+```{r}
+SE.TER.GRAD.SC.ZS <- educational_data_2 |>
+  filter(`Series Code` == "SE.TER.GRAD.SC.ZS") |>
+  mutate(Year =  as.numeric(Year),
+         Value = as.numeric(Value)) |>
+  select(Year, `Country Name`, `Country Code`, Value)
+
+
+summary(SE.TER.GRAD.SC.ZS)
+
+IT.NET.USER.P2 <- educational_data_2 |>
+  filter(`Series Code` == "IT.NET.USER.P2") |>
+    mutate(Year =  as.numeric(Year),
+         Value = as.numeric(Value)) |>
+  select(Year, `Country Name`, `Country Code`, Value)
+
+SL.TLF.ADVN.ZS <- educational_data_2 |>
+  filter(`Series Code` == "SL.TLF.ADVN.ZS") |>
+    mutate(Year =  as.numeric(Year),
+         Value = as.numeric(Value)) |>
+  select(Year, `Country Name`, `Country Code`, Value)
+
+UIS.X.US.FSGOV <- educational_data_2 |>
+  filter(`Series Code` == "UIS.X.US.FSGOV") |>
+    mutate(Year =  as.numeric(Year),
+         Value = as.numeric(Value)) |>
+  select(Year, `Country Name`, `Country Code`, Value)
+
+UIS.X.USCONST.FSGOV <- educational_data_2 |>
+  filter(`Series Code` == "UIS.X.USCONST.FSGOV") |>
+    mutate(Year =  as.numeric(Year),
+         Value = as.numeric(Value)) |>
+  select(Year, `Country Name`, `Country Code`, Value)
+
+NY.GDP.PCAP.CD <- educational_data_2 |>
+  filter(`Series Code` == "NY.GDP.PCAP.CD") |>
+    mutate(Year =  as.numeric(Year),
+         Value = as.numeric(Value)) |>
+  select(Year, `Country Name`, `Country Code`, Value)
+
+SE.XPD.TOTL.GB.ZS <- educational_data_2 |>
+  filter(`Series Code` == "SE.XPD.TOTL.GB.ZS") |>
+    mutate(Year =  as.numeric(Year),
+         Value = as.numeric(Value)) |>
+  select(Year, `Country Name`, `Country Code`, Value)
+
+SE.XPD.CUR.TOTL.ZS <- educational_data_2 |>
+  filter(`Series Code` == "SE.XPD.CUR.TOTL.ZS") |>
+    mutate(Year =  as.numeric(Year),
+         Value = as.numeric(Value)) |>
+  select(Year, `Country Name`, `Country Code`, Value)
+
+OECD.TSAL.1.E10 <- educational_data_2 |>
+  filter(`Series Code` == "OECD.TSAL.1.E10") |>
+    mutate(Year =  as.numeric(Year),
+         Value = as.numeric(Value)) |>
+  select(Year, `Country Name`, `Country Code`, Value)
+
+```
+
+```{r merge indicators of education data}
+
+combined_educ_data <- read_csv("data/combined_data.csv")
+
+combined_educ_data <- combined_educ_data |>
+  left_join(SE.TER.GRAD.SC.ZS, 
+            by = c("country" = "Country Name", "year" = "Year"), 
+            suffix = c("", "_new")) |>
+  mutate(SE.TER.GRAD.SC.ZS = as.numeric(Value)) |>
+  select(-`Country Code_new`, -Value)
+
+combined_educ_data <- combined_educ_data |>
+  left_join(IT.NET.USER.P2, 
+            by = c("country" = "Country Name", "year" = "Year"), 
+            suffix = c("", "_new")) |>
+  mutate(IT.NET.USER.P2 = as.numeric(Value)) |>
+  select(-`Country Code_new`, -Value)
+
+combined_educ_data <- combined_educ_data |>
+  left_join(SL.TLF.ADVN.ZS, 
+            by = c("country" = "Country Name", "year" = "Year"), 
+            suffix = c("", "_new")) |>
+  mutate(SL.TLF.ADVN.ZS = as.numeric(Value)) |>
+  select(-`Country Code_new`, -Value)
+
+combined_educ_data <- combined_educ_data |>
+  left_join(UIS.X.US.FSGOV, 
+            by = c("country" = "Country Name", "year" = "Year"), 
+            suffix = c("", "_new")) |>
+  mutate(UIS.X.US.FSGOV = as.numeric(Value)) |>
+  select(-`Country Code_new`, -Value)
+
+combined_educ_data <- combined_educ_data |>
+  left_join(UIS.X.USCONST.FSGOV, 
+            by = c("country" = "Country Name", "year" = "Year"), 
+            suffix = c("", "_new")) |>
+  mutate(UIS.X.USCONST.FSGOV = as.numeric(Value)) |>
+  select(-`Country Code_new`, -Value)
+
+combined_educ_data <- combined_educ_data |>
+  left_join(NY.GDP.PCAP.CD, 
+            by = c("country" = "Country Name", "year" = "Year"), 
+            suffix = c("", "_new")) |>
+  mutate(NY.GDP.PCAP.CD = as.numeric(Value)) |>
+  select(-`Country Code_new`, -Value)
+
+combined_educ_data <- combined_educ_data |>
+  left_join(SE.XPD.TOTL.GB.ZS, 
+            by = c("country" = "Country Name", "year" = "Year"), 
+            suffix = c("", "_new")) |>
+  mutate(SE.XPD.TOTL.GB.ZS = as.numeric(Value)) |>
+  select(-`Country Code_new`, -Value)
+
+combined_educ_data <- combined_educ_data |>
+  left_join(SE.XPD.CUR.TOTL.ZS, 
+            by = c("country" = "Country Name", "year" = "Year"), 
+            suffix = c("", "_new")) |>
+  mutate(SE.XPD.CUR.TOTL.ZS = as.numeric(Value)) |>
+  select(-`Country Code_new`, -Value)
+
+combined_educ_data <- combined_educ_data |>
+  left_join(OECD.TSAL.1.E10, 
+            by = c("country" = "Country Name", "year" = "Year"), 
+            suffix = c("", "_new")) |>
+  mutate(OECD.TSAL.1.E10 = as.numeric(Value)) |>
+  select(-`Country Code_new`, -Value)
+
+
+summary(combined_educ_data)
+write_csv(combined_educ_data, "data/combined_educ_data.csv")
+
+```
