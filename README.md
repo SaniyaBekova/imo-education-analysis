@@ -137,16 +137,11 @@ library(readxl)       # Excel file reading
 ```
 imo-education-analysis/
 ├── README.md
-├── proj_report_f24_sbekova.Rmd   # Full R Markdown report
-├── data/
-│   ├── education_data.csv         # UNESCO educational indicators
-│   ├── imo_data.csv               # IMO performance data
-│   ├── literacy_data.csv          # World Bank literacy rates
-│   ├── New_Education_Data.csv     # Additional World Bank indicators
-│   ├── combined_data.csv          # Merged IMO + education data
-│   └── combined_educ_data.csv     # Final dataset with all features
-└── data/
-    └── boost_cv_bayes_edu.RData   # Saved Bayesian CV results
+├── .gitignore
+├── proj_report_f24_sbekova.qmd    # Full Quarto report with all code and analysis
+├── proj_report_f24_sbekova.pdf    # Rendered PDF report
+├── Upload_Other_Features.qmd      # Additional feature engineering (World Bank indicators)
+└── data/                          # Datasets (UNESCO, World Bank, IMO, merged)
 ```
 
 ---
